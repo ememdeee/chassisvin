@@ -62,9 +62,9 @@ const CarHistorySlider: React.FC = () => {
 
   return (
     <section className='bg-blue-50'>
-      <div className="max-w-6xl mx-auto px-4 py-8" ref={containerRef}>
+      <div className="max-w-6xl mx-auto px-4 py-12" ref={containerRef}>
         <h2 className="text-3xl font-bold mb-4">Always Check the History of a Car Before Buying It</h2>
-        <p className="text-gray-600 mb-6">Uncover comprehensive insights with an EpicVIN Vehicle History Report</p>
+        <p className="text-gray-600 mb-6">Uncover comprehensive insights with an ChassisVIN Vehicle History Report</p>
         
         <div className="overflow-x-auto">
           <div className={`flex ${isMobile ? 'flex-wrap gap-2' : 'space-x-4'} pb-2 relative`}>
@@ -109,6 +109,27 @@ const CarHistorySlider: React.FC = () => {
               <h3 className="text-2xl font-semibold mb-4">{tabs[activeTab].title}</h3>
               <p className="mb-6">{tabs[activeTab].content}</p>
               <CustomButton href='#' text='Check Your Car'/>
+            </div>
+          </div>
+        </div>
+        
+        {/* New blue rectangular element with mobile responsiveness */}
+        <div className="mt-8 p-4 sm:p-6 border-2 border-blue-500 rounded-lg bg-blue-50/25">
+          <div className="flex flex-col sm:flex-row items-center sm:items-start sm:space-x-4 space-y-4 sm:space-y-0">
+            <div className="flex-shrink-0">
+              <Image
+                src="/placeholder.svg?height=50&width=50"
+                alt="NMVTIS Logo"
+                width={50}
+                height={50}
+                className="rounded-full"
+              />
+            </div>
+            <div className="text-center sm:text-left">
+              <h4 className="text-lg sm:text-xl font-semibold text-blue-700 mb-2 sm:mb-3">Official NMVTIS Source</h4>
+              <p className="text-sm sm:text-base text-gray-700">
+                ChassisVIN is an approved NMVTIS data provider. NMVTIS is a national database designed to protect consumers from fraud and unsafe vehicles, to prevent stolen vehicles from being resold, and to provide users with accurate and complete vehicle information.
+              </p>
             </div>
           </div>
         </div>

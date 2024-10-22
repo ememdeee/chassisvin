@@ -2,8 +2,26 @@ import React from 'react'
 import HeroSection from './components/HeroSection'
 import InfoSection from './components/InfoSection'
 import CarHistorySlider from './components/CarHistorySlider'
+import Testimonials from './components/Testimonials'
+import CustomerSupport from './components/CustomerSupport'
+import OfferBanner from './components/OfferBanner'
+import FAQBasic from './components/FAQBasic'
+import SaveBanner from './components/SaveBanner'
 
 export default function Home() {
+
+  const faqItems = [
+    {
+      question: "What is an ChassisVIN Vehicle History Report?",
+      answer: "An ChassisVIN Vehicle History Report provides detailed information about a vehicle's past, including accidents, ownership history, and more."
+    },
+    {
+      question: "For whom do we provide Vehicle History Reports?",
+      answer: "We provide Vehicle History Reports for car buyers, sellers, dealers, and anyone interested in learning about a vehicle's history."
+    },
+    // Add more FAQ items as needed
+  ]
+
   return (
     <main>
       <HeroSection />
@@ -36,6 +54,11 @@ export default function Home() {
         buttonHref="/try-service"
       />
       <CarHistorySlider/>
+      <Testimonials/>
+      <CustomerSupport/>
+      <OfferBanner/>
+      <FAQBasic title="Frequently Asked Questions" items={faqItems} />
+      <SaveBanner/>
     </main>
   )
 }
