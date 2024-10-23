@@ -1,17 +1,46 @@
 'use client'
+
 import React, { useState, useRef, useEffect } from 'react'
 import { Menu, X } from 'lucide-react'
+import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 
-const NavItem = ({ children }: { children: React.ReactNode }) => (
-  <button className="px-5 py-2.5 text-base font-medium text-gray-700 hover:bg-white hover:shadow-sm rounded-full transition-all duration-200">
-    {children}
-  </button>
+type NavItemProps = {
+  href: string
+  children: React.ReactNode
+  isActive: boolean
+}
+
+const NavItem = ({ href, children, isActive }: NavItemProps) => (
+  <Link href={href} passHref>
+    <button
+      className={`px-5 py-2.5 text-base font-medium text-gray-700 rounded-full transition-all duration-200 ${
+        isActive ? 'bg-white shadow-sm' : 'hover:bg-white hover:shadow-sm'
+      }`}
+    >
+      {children}
+    </button>
+  </Link>
 )
+
+type NavLink = {
+  name: string
+  href: string
+}
+
+const navLinks: NavLink[] = [
+  { name: 'Home', href: '/' },
+  { name: 'Vin Decoder', href: '/vin-decoder' },
+  { name: 'Window Sticker', href: '/window-sticker' },
+  { name: 'License Plate Lookup', href: '/license-plate-lookup' },
+  { name: 'Sample', href: '/sample' },
+]
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
   const buttonRef = useRef<HTMLButtonElement>(null)
+  const pathname = usePathname()
 
   const toggleMenu = () => {
     setIsOpen(!isOpen)
@@ -41,12 +70,11 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex-1 flex justify-center">
             <div className="hidden md:flex items-center space-x-1 bg-gray-50 rounded-full shadow-inner p-1.5">
-              <NavItem>Ask AI</NavItem>
-              <NavItem>iAsk Pro</NavItem>
-              <NavItem>Summary</NavItem>
-              <NavItem>Docs</NavItem>
-              <NavItem>Image</NavItem>
-              <NavItem>Grammar</NavItem>
+              {navLinks.map((link) => (
+                <NavItem key={link.href} href={link.href} isActive={pathname === link.href}>
+                  {link.name}
+                </NavItem>
+              ))}
             </div>
           </div>
           <div className="md:hidden">
@@ -71,15 +99,22 @@ const Navbar = () => {
           ref={dropdownRef}
           className="md:hidden mt-2 absolute right-4 w-48 bg-white rounded-lg shadow-lg py-2 z-10"
         >
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Ask AI</a>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">iAsk Pro</a>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Summary</a>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Docs</a>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Image</a>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Grammar</a>
+          {navLinks.map((link) => (
+            <Link key={link.href} href={link.href} passHref>
+              <span className={`block px-4 py-2 text-base text-gray-700 hover:bg-gray-50 ${
+                pathname === link.href ? 'bg-gray-100' : ''
+              }`}>
+                {link.name}
+              </span>
+            </Link>
+          ))}
           <div className="border-t border-gray-200 my-2"></div>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Sign Up</a>
-          <a href="#" className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Log In</a>
+          <Link href="/signup" passHref>
+            <span className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Sign Up</span>
+          </Link>
+          <Link href="/login" passHref>
+            <span className="block px-4 py-2 text-base text-gray-700 hover:bg-gray-50">Log In</span>
+          </Link>
         </div>
       )}
     </nav>

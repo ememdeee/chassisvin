@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.content h2, .content h3, .content h4{
+    color: #000;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 15px;
+}
+.content p {
+    color: #444;
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0 0 20px;
+}
+.content h2:first-of-type{
+    font-size: 31px;
+}
+.content h2{
+    font-size: 22px;
+}
+.content h3{
+    font-size: 18px;
+}
