@@ -6,7 +6,6 @@ import Testimonials from './components/Testimonials'
 import CustomerSupport from './components/CustomerSupport'
 import OfferBanner from './components/OfferBanner'
 import FAQBasic from './components/FAQBasic'
-import SaveBanner from './components/SaveBanner'
 
 export default function Home() {
 
@@ -58,7 +57,6 @@ export default function Home() {
       <CustomerSupport/>
       <OfferBanner/>
       <FAQBasic title="Frequently Asked Questions" items={faqItems} />
-      <SaveBanner/>
     </main>
   )
 }

@@ -1,5 +1,3 @@
-'use client'
-
 import React from 'react'
 import Link from 'next/link'
 
@@ -17,39 +15,56 @@ const makesList = [
   'Volkswagen', 'Volvo', 'Volvo Truck', 'Yamaha'
 ]
 
+const statesList = [
+  'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
+  'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois',
+  'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland',
+  'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana',
+  'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York',
+  'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania',
+  'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah',
+  'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming'
+]
+
 interface UrlListProps {
-  urlPrefix: string;
+  urlPrefix?: string;
+  dataSource?: 'makesList' | 'statesList';
 }
 
-const UrlList: React.FC<UrlListProps> = ({ urlPrefix }) => {
+export default function Component({ urlPrefix = '/', dataSource = 'makesList' }: UrlListProps) {
+  const data = dataSource === 'makesList' ? makesList : statesList
+
   const columns = React.useMemo(() => {
-    const itemsPerColumnLarge = Math.ceil(makesList.length / 4)
-    const itemsPerColumnMedium = Math.ceil(makesList.length / 3)
+    const itemsPerColumnLarge = Math.ceil(data.length / 4)
+    const itemsPerColumnMedium = Math.ceil(data.length / 3)
     
     const largeColumns = Array.from({ length: 4 }, (_, i) => 
-      makesList.slice(i * itemsPerColumnLarge, (i + 1) * itemsPerColumnLarge)
+      data.slice(i * itemsPerColumnLarge, (i + 1) * itemsPerColumnLarge)
     )
     
     const mediumColumns = Array.from({ length: 3 }, (_, i) => 
-      makesList.slice(i * itemsPerColumnMedium, (i + 1) * itemsPerColumnMedium)
+      data.slice(i * itemsPerColumnMedium, (i + 1) * itemsPerColumnMedium)
     )
 
     return { largeColumns, mediumColumns }
-  }, [])
+  }, [data])
 
   return (
     <div className="pb-8">
+      <h2 className="text-2xl font-bold mb-4">
+        {dataSource === 'makesList' ? 'Other Makes' : dataSource === 'statesList' ? 'Other States' : 'Other Items'}
+      </h2>
       <div className="hidden lg:grid lg:grid-cols-4 gap-6">
         {columns.largeColumns.map((column, colIndex) => (
           <div key={colIndex}>
             <ul className="space-y-2">
-              {column.map((make) => (
-                <li key={make}>
+              {column.map((item) => (
+                <li key={item}>
                   <Link 
-                    href={`${urlPrefix}${make.toLowerCase().replace(/\s+/g, '-')}`} 
+                    href={`${urlPrefix}${item.toLowerCase().replace(/\s+/g, '-')}`} 
                     className="text-blue-500 hover:underline text-sm"
                   >
-                    {make}
+                    {item}
                   </Link>
                 </li>
               ))}
@@ -61,13 +76,13 @@ const UrlList: React.FC<UrlListProps> = ({ urlPrefix }) => {
         {columns.mediumColumns.map((column, colIndex) => (
           <div key={colIndex}>
             <ul className="space-y-2">
-              {column.map((make) => (
-                <li key={make}>
+              {column.map((item) => (
+                <li key={item}>
                   <Link 
-                    href={`${urlPrefix}${make.toLowerCase().replace(/\s+/g, '-')}`} 
+                    href={`${urlPrefix}${item.toLowerCase().replace(/\s+/g, '-')}`} 
                     className="text-blue-500 hover:underline text-sm"
                   >
-                    {make}
+                    {item}
                   </Link>
                 </li>
               ))}
@@ -78,5 +93,3 @@ const UrlList: React.FC<UrlListProps> = ({ urlPrefix }) => {
     </div>
   )
 }
-
-export default UrlList

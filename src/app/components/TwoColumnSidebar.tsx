@@ -34,7 +34,7 @@ export function TwoColumnSidebar() {
   }
 
   return (
-    <aside className="w-full bg-white p-6 border-l border-gray-200">
+    <aside className="w-full bg-white p-6 sticky top-0">
       <div className="mb-6">
         <div className="relative">
           <SiteForm />
