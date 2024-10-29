@@ -16,25 +16,25 @@ interface Testimonial {
 
 const testimonials: Testimonial[] = [
   {
-    name: 'Jason Creed',
-    image: '/placeholder.svg?height=100&width=100',
+    name: 'Randy C',
+    image: '/Randy-C.webp',
     rating: 5,
-    text: "Once I decided to buy a good looking Cadillac Escalade. I really appreciate that my colleague advised me to take your service guys. As it turns out that Cadillac is Salvage, Junk and even flood damaged car - that's what I learned from your ChassisVIN report. I was about to buy it, thankfully I checked the report first. I skipped a lot of trouble. I Appreciate what you do!",
-    carSaved: 'Cadillac Escalade'
+    text: "I was looking to buy a car and got a few options from a dealer. I didn't know what to start with looking into car specifications and title history, but ClearVin vehicle rating and fair car pricing helped me to make the right decision. Great job!",
+    carSaved: 'Park Hills, MO'
   },
   {
-    name: 'Sarah Johnson',
-    image: '/placeholder.svg?height=100&width=100',
-    rating: 5,
-    text: "ChassisVIN saved me from making a huge mistake. The car I was interested in had a hidden accident history that only showed up in their detailed report. Their service is invaluable for any serious car buyer.",
-    carSaved: 'Honda Civic'
+    name: 'Antonio A.',
+    image: '/Antonio-A.webp',
+    rating: 4,
+    text: "I called a guy with a car for sale and it sounded like a good deal. I asked him for the VIN so I could check it out before driving all the way to his place to look at it. He wouldn't give it to me. That sent up a red flag. I figured there was something he was trying to hide. I never buy a used car without running a VIN check first and I always use ClearVin.",
+    carSaved: 'Fort Stockton, TX'
   },
   {
-    name: 'Mike Thompson',
-    image: '/placeholder.svg?height=100&width=100',
+    name: 'Daniel S.',
+    image: '/Daniel-S.webp',
     rating: 5,
-    text: "I've used several vehicle history report services, but ChassisVIN stands out for its comprehensive data and user-friendly interface. It's now my go-to for any used car purchase.",
-    carSaved: 'Ford F-150'
+    text: "I was considering buying a really posh car that I was really into from a private seller, but then the vehicle check suddenly indicated a lien. ClearVin saved me from being involved in the hassle with the third party. Extremely useful service! After reading the ClearVin report I felt more confident buying it.",
+    carSaved: 'Summersville, KY'
   }
 ]
 
@@ -108,7 +108,7 @@ export default function Testimonials() {
                 </div>
                 <p className="text-gray-700 mb-4">&ldquo;{testimonials[currentIndex].text}&rdquo;</p>
                 <div className="flex items-center justify-between">
-                  <p className="text-sm font-semibold text-blue-600">Car Saved: {testimonials[currentIndex].carSaved}</p>
+                  <p className="text-sm font-semibold text-blue-600">{testimonials[currentIndex].carSaved}</p>
                   <CustomButton text="Next Story" onClick={nextTestimonial} />
                 </div>
               </div>

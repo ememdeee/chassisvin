@@ -23,22 +23,18 @@ export default function SaveBanner() {
         </div>
 
         <div className="mt-4 flex flex-col items-center text-sm text-gray-600">
-          <div className="flex items-center mb-2">
-            <button className="text-blue-500 hover:text-blue-600 transition-colors duration-200 mr-1">Where</button>
-            <span>to find the VIN?</span>
-          </div>
           <div>
-            <span>No VIN?</span>{' '}
-            <Link href="/price" className="text-blue-500 hover:text-blue-600 transition-colors duration-200">
-              Get EpicVIN reports
+            <span>Need the Original Specs for Your Car?</span>{' '}
+            <Link href="/window-sticker" className="text-blue-500 hover:text-blue-600 transition-colors duration-200">
+              Get Window Sticker
             </Link>
           </div>
         </div>
 
         <div className="mt-6 flex justify-center items-center space-x-4">
-          <Image src="/img2/vin-check/png/guaranteed-safe-checkout.png" alt="Safe checkout guaranteed" width={56} height={28} />
-          <Image src="/img2/vin-check/png/niada.png" alt="Niada logo" width={41} height={25} />
-          <Image src="/img2/vin-check/png/blockchain.png" alt="Blockchain confirmed data" width={70} height={21} />
+          <Image src="/guaranteed-safe-checkout.png" alt="Safe checkout guaranteed" width={56} height={28} />
+          <Image src="/niada.png" alt="Niada logo" width={41} height={25} />
+          <Image src="/blockchain.png" alt="Blockchain confirmed data" width={70} height={21} />
         </div>
       </div>
     </section>

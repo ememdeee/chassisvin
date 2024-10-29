@@ -2,12 +2,6 @@ import React from 'react'
 import Image from 'next/image'
 import { ThumbsUp, MessageSquare, Clock } from 'lucide-react'
 
-const supportTeam = [
-  { name: 'Jane Doe', image: '/placeholder.svg?height=60&width=60' },
-  { name: 'John Smith', image: '/placeholder.svg?height=60&width=60' },
-  { name: 'Alice Johnson', image: '/placeholder.svg?height=60&width=60' },
-]
-
 const stats = [
   { icon: ThumbsUp, value: '98%', label: 'Satisfaction rate' },
   { icon: MessageSquare, value: '10 minutes', label: 'Avg. response time' },
@@ -19,16 +13,13 @@ export default function CustomerSupport() {
     <section className="bg-white py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto text-center">
         <div className="flex justify-center -space-x-4 mb-8">
-          {supportTeam.map((member, index) => (
             <Image
-              key={index}
-              src={member.image}
-              alt={member.name}
-              width={60}
-              height={60}
+              src='/customers-support.webp'
+              alt='Customers Support'
+              width={250}
+              height={94}
               className="rounded-full border-4 border-white"
             />
-          ))}
         </div>
         <h2 className="text-3xl font-bold text-gray-900 mb-4">
           Dedicated Customer Support: We're Here to Help

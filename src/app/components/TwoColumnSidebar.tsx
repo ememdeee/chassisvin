@@ -34,10 +34,10 @@ export function TwoColumnSidebar() {
   }
 
   return (
-    <aside className="w-full bg-white p-6 sticky top-0">
+    <aside className="w-full bg-white py-6 px-3 sticky top-0">
       <div className="mb-6">
         <div className="relative">
-          <SiteForm />
+          <SiteForm forceMobileLayout={true} />
         </div>
       </div>
       <nav>

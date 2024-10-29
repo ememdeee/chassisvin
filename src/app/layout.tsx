@@ -4,6 +4,7 @@ import "./globals.css";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import SaveBanner from "./components/SaveBanner";
+import BackgroundAnimation from "./components/BackgroundAnimation";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -31,10 +32,13 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-b from-blue-50 to-white min-h-screen`}
       >
-        <Navbar />
-        <main>{children}</main>
-        <SaveBanner/>
-        <Footer />
+        <BackgroundAnimation />
+        <div className="relative z-10">
+          <Navbar />
+          <main>{children}</main>
+          <SaveBanner/>
+          <Footer />
+        </div>
       </body>
     </html>
   );

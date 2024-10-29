@@ -3,16 +3,10 @@ import contents from '@/data/pages.json'
 
 export default function Page({ params }: { params: { page: string } }) {
   
-  let dataSource = "makesList";
-  if (params.page === "license-plate-lookup") {
-    dataSource = "statesList";
-  }
-
   return (
     <RepetitivePage
       contents={contents}
       urlPrefix={`/${params.page}/`}
-      dataSource={dataSource}
       params={params}
     />
   )

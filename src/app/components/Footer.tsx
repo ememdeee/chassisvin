@@ -1,5 +1,6 @@
 import React from 'react'
 import { Twitter, Linkedin, Github, Search, Smartphone } from 'lucide-react'
+import Link from 'next/link'
 
 const Footer = () => {
   return (
@@ -9,20 +10,20 @@ const Footer = () => {
           <div className="flex items-center mb-6 md:mb-0">
             <div className="w-10 h-10 bg-gradient-to-r from-blue-400 to-blue-600 rounded-full mr-4"></div>
             <nav className="flex space-x-6">
-              <a href="#" className="text-gray-600 hover:text-gray-900">Chassis VIN</a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">Contact Us</a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">About</a>
+              <Link href="/" className="text-gray-600 hover:text-gray-900">Chassis VIN</Link>
+              <Link href="/contact-us" className="text-gray-600 hover:text-gray-900">Contact Us</Link>
+              <Link href="/about-us" className="text-gray-600 hover:text-gray-900">About</Link>
             </nav>
           </div>
           <div className="flex items-center space-x-6 mb-6 md:mb-0">
-            <a href="#" className="flex items-center text-gray-600 hover:text-gray-900">
+            <Link href="/faq" className="flex items-center text-gray-600 hover:text-gray-900">
               <Search className="w-5 h-5 mr-2" />
-              <span>iAsk Browser Search</span>
-            </a>
-            <a href="#" className="flex items-center text-gray-600 hover:text-gray-900">
+              <span>Frequently Asked Questions</span>
+            </Link>
+            <Link href="/app" className="flex items-center text-gray-600 hover:text-gray-900">
               <Smartphone className="w-5 h-5 mr-2" />
               <span>Mobile App</span>
-            </a>
+            </Link>
           </div>
           <div className="flex space-x-4">
             <a href="#" className="text-gray-400 hover:text-gray-600">
@@ -37,10 +38,11 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <p>© 2024 AI Search Inc. All rights reserved.</p>
+          <p>© 2024 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/'  target="_blank" rel="noopener noreferrer">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer">CloudTeamize</a></p>
+          
           <div className="flex space-x-4 mt-4 md:mt-0">
-            <a href="#" className="hover:text-gray-700">Privacy Policy</a>
-            <a href="#" className="hover:text-gray-700">Terms of Use</a>
+            <Link href="/privacy-policy" className="hover:text-gray-700">Privacy Policy</Link>
+            <Link href="/terms-and-conditions" className="hover:text-gray-700">Terms of Use</Link>
           </div>
         </div>
       </div>

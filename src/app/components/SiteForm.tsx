@@ -1,9 +1,14 @@
 'use client'
+
 import React, { useState } from 'react'
 import { ChevronDown, Info } from 'lucide-react'
 import Link from 'next/link'
 
-const SiteForm = () => {
+interface SiteFormProps {
+  forceMobileLayout?: boolean
+}
+
+const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false }) => {
   const [inputType, setInputType] = useState<'VIN' | 'LP'>('VIN')
   const [vinInput, setVinInput] = useState('')
   const [plateInput, setPlateInput] = useState('')
@@ -45,8 +50,10 @@ const SiteForm = () => {
     console.log('Form submitted:', { inputType, vinInput, plateInput, stateInput })
   }
 
+  const mobileLayout = forceMobileLayout || 'md'
+
   return (
-    <div className="w-full max-w-3xl mx-auto">
+    <div className={`w-full ${forceMobileLayout ? '' : 'max-w-3xl mx-auto'}`}>
       <div className="flex justify-start mb-4 space-x-2">
         <button
           onClick={() => setInputType('VIN')}
@@ -70,29 +77,29 @@ const SiteForm = () => {
         </button>
       </div>
       <form onSubmit={handleSubmit} className="relative">
-        <div className="bg-white md:rounded-full rounded-3xl shadow-lg border-2 border-blue-200 md:p-2 md:flex md:items-center">
+        <div className={`bg-white ${mobileLayout === true ? 'rounded-3xl' : 'md:rounded-full rounded-3xl'} shadow-lg border-2 border-blue-200 ${mobileLayout === true ? 'p-0' : 'md:p-2'} ${mobileLayout === true ? '' : 'md:flex md:items-center'}`}>
           {inputType === 'VIN' ? (
             <input
               type="text"
               placeholder="Enter VIN Number"
               value={vinInput}
               onChange={(e) => setVinInput(e.target.value)}
-              className="w-full px-6 py-4 text-lg rounded-3xl md:rounded-full focus:outline-none"
+              className={`w-full px-6 py-4 text-lg ${mobileLayout === true ? 'rounded-3xl' : 'rounded-3xl md:rounded-full'} focus:outline-none`}
             />
           ) : (
-            <div className="w-full md:flex md:items-center">
+            <div className={`w-full ${mobileLayout === true ? '' : 'md:flex md:items-center'}`}>
               <input
                 type="text"
                 placeholder="License Plate"
                 value={plateInput}
                 onChange={(e) => setPlateInput(e.target.value)}
-                className="w-full md:w-1/2 px-6 py-4 text-lg rounded-t-3xl rounded-b-none md:rounded-l-full focus:outline-none border-b md:border-b-0 md:border-r border-gray-200"
+                className={`w-full ${mobileLayout === true ? '' : 'md:w-1/2'} px-6 py-4 text-lg ${mobileLayout === true ? 'rounded-t-3xl rounded-b-none' : 'rounded-t-3xl rounded-b-none md:rounded-l-full'} focus:outline-none border-b ${mobileLayout === true ? '' : 'md:border-b-0 md:border-r'} border-gray-200`}
               />
-              <div className="relative w-full md:w-1/2">
+              <div className={`relative w-full ${mobileLayout === true ? '' : 'md:w-1/2'}`}>
                 <select
                   value={stateInput}
                   onChange={(e) => setStateInput(e.target.value)}
-                  className="w-full px-6 py-4 text-lg appearance-none focus:outline-none rounded-3xl md:rounded-r-full"
+                  className={`w-full px-6 py-4 text-lg appearance-none focus:outline-none ${mobileLayout === true ? 'rounded-3xl' : 'rounded-3xl md:rounded-r-full'}`}
                 >
                   <option value="" disabled>State</option>
                   {states.map((state) => (
@@ -108,7 +115,7 @@ const SiteForm = () => {
         </div>
         <button
           type="submit"
-          className="w-full md:w-auto md:absolute md:right-2 md:top-1/2 md:transform md:-translate-y-1/2 bg-blue-500 text-white px-6 py-4 rounded-3xl md:rounded-full hover:bg-blue-600 transition-colors duration-200 shadow-md mt-2 md:mt-0 min-w-[140px] whitespace-nowrap"
+          className={`w-full ${mobileLayout === true ? '' : 'md:w-auto md:absolute md:right-2 md:top-1/2 md:transform md:-translate-y-1/2'} bg-blue-500 text-white px-6 py-4 rounded-3xl ${mobileLayout === true ? '' : 'md:rounded-full'} hover:bg-blue-600 transition-colors duration-200 shadow-md mt-2 ${mobileLayout === true ? '' : 'md:mt-0'} min-w-[140px] whitespace-nowrap`}
         >
           Check {inputType === 'VIN' ? 'VIN' : 'Plate'}
         </button>
@@ -142,7 +149,7 @@ const SiteForm = () => {
         <span className="mx-2">•</span>
         <span>No VIN? Get our reports</span>
         <span className="mx-2">•</span>
-        <Link href="/sample-report" className="text-blue-500 hover:text-blue-600 transition-colors duration-200">
+        <Link href="/sample" className="text-blue-500 hover:text-blue-600 transition-colors duration-200">
           View our sample report
         </Link>
       </div>

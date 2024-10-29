@@ -28,7 +28,7 @@ const statesList = [
 
 interface UrlListProps {
   urlPrefix?: string;
-  dataSource?: 'makesList' | 'statesList';
+  dataSource?: string;
 }
 
 export default function Component({ urlPrefix = '/', dataSource = 'makesList' }: UrlListProps) {
@@ -50,7 +50,7 @@ export default function Component({ urlPrefix = '/', dataSource = 'makesList' }:
   }, [data])
 
   return (
-    <div className="pb-8">
+    <div className="py-6">
       <h2 className="text-2xl font-bold mb-4">
         {dataSource === 'makesList' ? 'Other Makes' : dataSource === 'statesList' ? 'Other States' : 'Other Items'}
       </h2>

@@ -29,7 +29,7 @@ type NavLink = {
 }
 
 const navLinks: NavLink[] = [
-  { name: 'Home', href: '/' },
+  { name: 'Check VIN', href: '/' },
   { name: 'Vin Decoder', href: '/vin-decoder' },
   { name: 'Window Sticker', href: '/window-sticker' },
   { name: 'License Plate Lookup', href: '/license-plate-lookup' },
