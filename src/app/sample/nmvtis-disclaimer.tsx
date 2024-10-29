@@ -33,7 +33,7 @@ export default function NMVTISDisclaimer() {
           are not yet providing their vehicle data to the system. Currently, the data provided to NMVTIS by states is provided in a variety of time frames; while some states report and update NMVTIS data in &quot;real-time&quot; (as title transactions occur), other states send updates less frequently, such as once every 24 hours or within a period of days.
         </p>
         <p>
-          Information on previous, significant vehicle damage may not be included in the system if the vehicle was never determined by an insurance company (or other appropriate entity) to be a &quot;total loss&quot; or branded by a state titling agency. Conversely, an insurance carrier may be required to report a &quot;total loss&quot; even if the vehicle's titling-state has not determined the vehicle to be &quot;salvage&quot; or &quot;junk.&quot;
+          Information on previous, significant vehicle damage may not be included in the system if the vehicle was never determined by an insurance company (or other appropriate entity) to be a &quot;total loss&quot; or branded by a state titling agency. Conversely, an insurance carrier may be required to report a &quot;total loss&quot; even if the vehicle&apos;s titling-state has not determined the vehicle to be &quot;salvage&quot; or &quot;junk.&quot;
         </p>
         <p>
           A vehicle history report is NOT a substitute for an independent vehicle inspection. Before making a decision to purchase a vehicle, consumers are <strong>strongly encouraged to also obtain an independent vehicle inspection</strong> to ensure the vehicle does not have hidden damage. The{' '}
