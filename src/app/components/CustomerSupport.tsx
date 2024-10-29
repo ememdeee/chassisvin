@@ -22,10 +22,10 @@ export default function CustomerSupport() {
             />
         </div>
         <h2 className="text-3xl font-bold text-gray-900 mb-4">
-          Dedicated Customer Support: We're Here to Help
+          Dedicated Customer Support: We&apos;re Here to Help
         </h2>
         <p className="text-xl text-gray-600 mb-12">
-          Our support team is always ready to assist you. Simply drop us a message, and we'll promptly respond to ensure a seamless experience.
+          Our support team is always ready to assist you. Simply drop us a message, and we&apos;ll promptly respond to ensure a seamless experience.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {stats.map((stat, index) => (

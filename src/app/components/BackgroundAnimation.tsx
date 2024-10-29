@@ -24,7 +24,6 @@ const generateSineWave = (index: number, total: number, scrollOffset: number) =>
 
 const CurvedBackground = () => {
   const [curves, setCurves] = useState<string[]>([])
-  const [scrollOffset, setScrollOffset] = useState(0)
   const [mounted, setMounted] = useState(false)
   const prevScrollOffset = useRef(0)
   const animationFrameId = useRef<number | null>(null)
@@ -42,7 +41,6 @@ const CurvedBackground = () => {
     const lerpFactor = 0.1 // Adjust this value to control the delay (0.1 = smooth, 1 = no delay)
     const lerpedScrollOffset = lerp(prevScrollOffset.current, currentScrollOffset, lerpFactor)
     
-    setScrollOffset(lerpedScrollOffset)
     updateCurves(lerpedScrollOffset)
     
     prevScrollOffset.current = lerpedScrollOffset

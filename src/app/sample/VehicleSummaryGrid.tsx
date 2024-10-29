@@ -16,7 +16,7 @@ interface VehicleData {
     currentTitle: { issueDate: string; state: string; mileage: string; };
     historicalTitles: { issueDate: string; state: string; mileage: string; }[];
   };
-  [key: string]: any;
+  [key: string]: unknown;
 }
 
 interface VehicleSummaryGridProps {
@@ -37,7 +37,7 @@ const VehicleSummaryGrid: React.FC<VehicleSummaryGridProps> = ({ vehicle }) => {
     { title: 'Recalls', value: vehicle.recallsNumber },
   ];
 
-  const renderValue = (value: any) => {
+  const renderValue = (value: unknown) => {
     if (typeof value === 'string') {
       return <p>{value}</p>;
     }

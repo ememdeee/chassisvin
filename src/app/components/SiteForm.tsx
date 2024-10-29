@@ -137,11 +137,11 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false }) => {
           {showVinTooltip && (
             <div className="absolute z-10 w-64 p-4 mt-2 bg-white rounded-lg shadow-xl border border-gray-200">
               <h3 className="font-bold mb-2">Looking for the VIN?</h3>
-              <p>Here is where you'll find it:</p>
+              <p>Here is where you&apos;ll find it:</p>
               <ul className="list-disc list-inside mt-2">
-                <li>On the driver's side dashboard near the windshield</li>
-                <li>Inside the driver's side door near the latch</li>
-                <li>On the owner's insurance card or other docs</li>
+                <li>On the driver&apos;s side dashboard near the windshield</li>
+                <li>Inside the driver&apos;s side door near the latch</li>
+                <li>On the owner&apos;s insurance card or other docs</li>
               </ul>
             </div>
           )}

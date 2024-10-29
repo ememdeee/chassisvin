@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
-import { AlertTriangle, HelpCircle } from "lucide-react"
+import { AlertTriangle } from "lucide-react"
 import Image from 'next/image'
 
 interface DamageInfo {

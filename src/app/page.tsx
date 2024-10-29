@@ -42,7 +42,7 @@ export default function Home() {
               we also exceeded the accuracy level of expert manual research. This means{' '}
               <span className="font-semibold">our reports are more comprehensive and reliable than those 
               compiled by the top 10% of automotive history experts</span>, on average, across all 
-              aspects of a vehicle's history.
+              aspects of a vehicle&apos;s history.
             </p>
             <p>
               ChassisVIN also <span className="text-blue-600 font-semibold">ranks highest*</span> in 
