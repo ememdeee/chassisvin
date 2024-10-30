@@ -10,7 +10,7 @@ interface HeroSectionProps {
 }
 
 export default function Component({
-  logoUrl = "/dummyLogo.webp",
+  logoUrl = "/ChassisVIN.webp",
   title = "VIN Number Lookup",
   description = "Enter your Vehicle Identification Number (VIN) or License Plate to get detailed information about any vehicle.",
   showForm = true
@@ -24,8 +24,8 @@ export default function Component({
               src={logoUrl}
               alt="Vehicle Lookup Logo"
               className="mx-auto mb-6"
-              width={100}
-              height={100}
+              width={80}
+              height={80}
             />
           )}
           <h1 className="text-3xl font-bold text-gray-900 mb-4">

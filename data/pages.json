@@ -4,7 +4,7 @@
     "description": "Decode Your Vehicle Identification Number for Free. Check out some answers to common questions and get started with our VIN decoder service!",
     "metaTitle": "Free VIN Decoder & Lookup | ChassisVIN",
     "metaDescription": "Decode your Vehicle Identification Number (VIN) for free with ChassisVIN. Get instant access to vehicle history, specifications, and more with our comprehensive VIN lookup tool.",
-    "canonical": "https://chassisvin.com/vin-decoder",
+    "canonical": "https://www.chassisvin.com/vin-decoder",
     "dataSource": "makesList",
     "dataSource2": "statesList",
     "heroForm": true,
@@ -108,7 +108,7 @@
     "description": "ChassisVIN provides an original window sticker by VIN with a car specs checkup including exact trim level, factory installed options, safety ratings, pricing.",
     "metaTitle": "Window Sticker Lookup by VIN | Vehicle Specs & History - ChassisVIN",
     "metaDescription": "Get an accurate window sticker by VIN with ChassisVIN. Instantly access original car details: trim, features, safety ratings, MSRP, and more. Lookup by VIN or license plate now!",
-    "canonical": "https://chassisvin.com/window-sticker-lookup",
+    "canonical": "https://www.chassisvin.com/window-sticker",
     "dataSource": "makesList",
     "heroForm": true,
     "sections": [
@@ -206,7 +206,7 @@
     "description": "Run a Free License Plate Lookup with ClearVin to get a vehicle report by plate number including ownership history, salvage title, theft or accident records, and more!",
     "metaTitle": "Free License Plate Lookup | Accurate Vehicle History by ChassisVIN",
     "metaDescription": "Search any license plate with ChassisVIN's free lookup tool for in-depth vehicle history. Access details on ownership, accidents, theft, and title records effortlessly with our trusted database.",
-    "canonical": "https://chassisvin.com/license-plate-lookup",
+    "canonical": "https://www.chassisvin.com/license-plate-lookup",
     "dataSource": "statesList",
     "heroForm": true,
     "sections": [
@@ -294,7 +294,7 @@
     "description": "Trusted Vehicle History Reports for Safe Car Buying",
     "metaTitle": "About ChassisVIN | Trusted Vehicle History Reports for Safe Car Buying",
     "metaDescription": "Discover ChassisVIN—your trusted source for comprehensive and up-to-date vehicle history reports. Get transparent insights to make confident, informed car-buying decisions.",
-    "canonical": "https://chassisvin.com/about-us",
+    "canonical": "https://www.chassisvin.com/about-us",
     "dataSource": "",
     "heroForm": false,
     "sections": [
@@ -346,7 +346,7 @@
     "description": "How We Protect Your Information",
     "metaTitle": "Privacy Policy | Chassis VIN Vehicle Information Services",
     "metaDescription": "Learn how Chassis VIN collects, uses, and protects your personal information. Our comprehensive privacy policy ensures transparency and security in our services.",
-    "canonical": "https://chassisvin.com/privacy-policy",
+    "canonical": "https://www.chassisvin.com/privacy-policy",
     "dataSource": "",
     "heroForm": false,
     "sections": [
@@ -433,7 +433,7 @@
     "description": "Your Agreement with Chassis VIN",
     "metaTitle": "Terms and Conditions | Chassis VIN Vehicle Information Services",
     "metaDescription": "Read our comprehensive terms and conditions to understand your rights and responsibilities when using Chassis VIN's vehicle information services.",
-    "canonical": "https://chassisvin.com/terms-and-conditions",
+    "canonical": "https://www.chassisvin.com/terms-and-conditions",
     "dataSource": "",
     "heroForm": false,
     "sections": [
@@ -505,19 +505,19 @@
     "description": "Get Support and Connect with ChassisVIN",
     "metaTitle": "Contact ChassisVIN | Support, Sales, and Inquiries",
     "metaDescription": "Need help with your vehicle history report or ChassisVIN account? Contact our support team, connect with our sales department, or reach out for dealer inquiries.",
-    "canonical": "https://chassisvin.com/contact-us",
+    "canonical": "https://www.chassisvin.com/contact-us",
     "dataSource": "",
     "heroForm": false,
     "sections": [
       {
         "heading": "Contact Us",
         "headingLevel": "h2",
-        "content": "<p>Have questions about your vehicle's history or need assistance with your ChassisVIN account? Our team is here to support you every step of the way.</p><ul><li>Visit our <a href='/help-center'>ChassisVIN Help Center</a> for answers to frequently asked questions</li><li>Reach out directly using the form below</li></ul><p>We're committed to providing quick and reliable assistance.</p>"
+        "content": "<p>Have questions about your vehicle's history or need assistance with your ChassisVIN account? Our team is here to support you every step of the way.</p><ul><li>Visit our <a href='/contact-us'>ChassisVIN Help Center</a> for answers to frequently asked questions</li><li>Reach out directly using the form below</li></ul><p>We're committed to providing quick and reliable assistance.</p>"
       },
       {
         "heading": "Need Help Fast?",
         "headingLevel": "h2",
-        "content": "<p>For answers to common questions about account setup, report purchases, and refunds, check our <a href='/help-center'>Help Center</a>.</p>"
+        "content": "<p>For answers to common questions about account setup, report purchases, and refunds, check our <a href='/contact-us'>Help Center</a>.</p>"
       },
       {
         "heading": "Get in Touch",

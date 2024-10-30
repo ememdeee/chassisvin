@@ -52,7 +52,7 @@ export default function VehicleReportHeader({ vehicle }: VehicleReportHeaderProp
           <CardTitle className="text-3xl">Vehicle History Report For</CardTitle>
           <p className="text-2xl font-semibold mt-2">VIN# {vehicle.vin}</p>
         </div>
-        <Image src="/placeholder.svg" alt="ClearVin Logo" width={150} height={40} />
+        <Image src="/ChassisVIN.webp" alt="ChassisVIN Logo" width={40} height={40} />
       </CardHeader>
       <CardContent>
         <div className="flex flex-col md:flex-row gap-8">

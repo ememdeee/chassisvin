@@ -1,4 +1,6 @@
 import FAQBasic from "../components/FAQBasic"
+import HeroSection from '../components/HeroSection'
+
 
 export default function faq() {
     const faqItems = [
@@ -62,6 +64,7 @@ export default function faq() {
       
   return (
     <section className='px-4 pb-8'>
+        <HeroSection showForm={false} title="Answers to Your Most Asked Questions" description="Got a question? You’re in the right place. We’ve gathered the most frequently asked questions to make finding answers quick and easy. Explore below to get the information you need!" />
         <FAQBasic title="Frequently Asked Questions" items={faqItems} />
     </section>
   )
