@@ -47,7 +47,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <p>© 2024 ChassisVIN. Made with ❤ by <a href='https://basrh.com/'  target="_blank" rel="noopener noreferrer">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer">CloudTeamize</a></p>
+          <p>© 2024 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/'  target="_blank" rel="noopener noreferrer">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer">CloudTeamize</a></p>
           
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link href="/sitemap.xml" className="hover:text-gray-700">Sitemap</Link>
