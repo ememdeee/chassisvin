@@ -6,7 +6,6 @@ export default function Page({ params }: { params: { page: string } }) {
   return (
     <RepetitivePage
       contents={contents}
-      urlPrefix={`/${params.page}/`}
       params={params}
     />
   )

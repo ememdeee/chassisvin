@@ -7,11 +7,17 @@ import { TwoColumnSidebar } from '@/app/components/TwoColumnSidebar'
 import UrlList from '@/app/components/url-list'
 import SectionContent from './SectionContent'
 import FAQBasic from './FAQBasic'
+import ServiceList from './ServiceList'
 
 interface Section {
   heading: string;
   headingLevel?: string;
   content: string;
+}
+
+interface DataSource {
+  source: string;
+  prefix: string;
 }
 
 interface FAQItem {
@@ -25,8 +31,7 @@ interface Content {
   metaTitle: string;
   metaDescription: string;
   canonical: string;
-  dataSource: string;
-  dataSource2?: string;
+  dataSources: DataSource[];
   heroForm: boolean;
   sections: Section[];
   faqs: FAQItem[];
@@ -34,7 +39,6 @@ interface Content {
 
 interface RepetitivePageProps {
   contents: { [key: string]: Content };
-  urlPrefix: string;
   params: { page: string; make?: string };
 }
 
@@ -56,7 +60,7 @@ export function generateMetadata({ contents, params }: Pick<RepetitivePageProps,
   }
 }
 
-export default function RepetitivePage({ contents, urlPrefix, params }: RepetitivePageProps) {
+export default function RepetitivePage({ contents, params }: RepetitivePageProps) {
   const key = params.make || params.page
   const content = getContent(contents, key)
 
@@ -92,12 +96,16 @@ export default function RepetitivePage({ contents, urlPrefix, params }: Repetiti
                 <SectionContent content={section.content} />
               </div>
             ))}
-            {content.dataSource && content.dataSource.trim() !== "" && (
-              <UrlList dataSource={content.dataSource} urlPrefix={urlPrefix} />
-            )}
-            {content.dataSource2 && content.dataSource2.trim() !== "" && (
-              <UrlList dataSource={content.dataSource2} urlPrefix={urlPrefix} />
-            )}
+            {content.dataSources.map((dataSource, index) => (
+              dataSource.source && dataSource.source.trim() !== "" && (
+                <UrlList 
+                  key={`${dataSource.source}-${index}`}
+                  dataSource={dataSource.source} 
+                  urlPrefix={dataSource.prefix} 
+                />
+              )
+            ))}
+            <ServiceList />
             {content.faqs && content.faqs.length > 0 && (
               <FAQBasic title="Frequently Asked Questions" items={content.faqs} />
             )}

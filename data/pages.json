@@ -5,8 +5,16 @@
     "metaTitle": "Free VIN Decoder & Lookup | ChassisVIN",
     "metaDescription": "Decode your Vehicle Identification Number (VIN) for free with ChassisVIN. Get instant access to vehicle history, specifications, and more with our comprehensive VIN lookup tool.",
     "canonical": "https://www.chassisvin.com/vin-decoder",
-    "dataSource": "makesList",
-    "dataSource2": "statesList",
+    "dataSources": [
+      {
+        "source": "makesList",
+        "prefix": "vin-decoder"
+      },
+      {
+        "source": "statesList",
+        "prefix": "vin-check"
+      }
+    ],
     "heroForm": true,
     "sections": [
       {
@@ -109,7 +117,7 @@
     "metaTitle": "Window Sticker Lookup by VIN | Vehicle Specs & History - ChassisVIN",
     "metaDescription": "Get an accurate window sticker by VIN with ChassisVIN. Instantly access original car details: trim, features, safety ratings, MSRP, and more. Lookup by VIN or license plate now!",
     "canonical": "https://www.chassisvin.com/window-sticker",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "heroForm": true,
     "sections": [
       {
@@ -207,7 +215,7 @@
     "metaTitle": "Free License Plate Lookup | Accurate Vehicle History by ChassisVIN",
     "metaDescription": "Search any license plate with ChassisVIN's free lookup tool for in-depth vehicle history. Access details on ownership, accidents, theft, and title records effortlessly with our trusted database.",
     "canonical": "https://www.chassisvin.com/license-plate-lookup",
-    "dataSource": "statesList",
+    "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "heroForm": true,
     "sections": [
       {
@@ -289,13 +297,91 @@
       }
     ]
   },
+  "vin-check": {
+      "title": "State-Specific VIN Check: Unlock Your Vehicle’s History",
+      "description": "Get insights into any vehicle’s past with our free, state-focused VIN check service. Access accident records, title details, recalls, and much more for vehicles in any U.S. state!",
+      "metaTitle": "Free VIN Check by State | ChassisVIN",
+      "metaDescription": "Check your vehicle's VIN to uncover vital history, ownership, and safety details for free. ChassisVIN provides a comprehensive VIN check service tailored to each state.",
+      "canonical": "https://www.chassisvin.com/vin-check",
+      "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+      "heroForm": true,
+      "sections": [
+        {
+          "heading": "Discover Your Vehicle’s History with a State-Specific VIN Check",
+          "headingLevel": "h2",
+          "content": "<p>Whether you're buying a used car, verifying a vehicle's past, or checking compliance with state regulations, a state-specific VIN check provides the information you need. Enter the VIN, select your state, and get instant access to vital details.</p><p>From understanding title details to uncovering accident history and recalls, a VIN check is an essential step in making informed decisions. Explore our tailored reports for insights specific to any U.S. state.</p>"
+        },
+        {
+          "heading": "What Information Can You Uncover with a VIN Check?",
+          "headingLevel": "h2",
+          "content": "<p>A VIN check can reveal important information about any vehicle’s past, helping potential buyers and vehicle owners make informed choices. Here’s what you can learn:</p><ul><li><strong>Title and Registration Details</strong> – Get information on any changes in ownership, title issues, and other details specific to the state.</li><li><strong>Accident Records</strong> – Uncover past accident reports, including damage assessments, location of incidents, and date specifics.</li><li><strong>Salvage and Junk History</strong> – Detect if the vehicle was previously classified as salvage or junk by insurance companies or DMV records.</li><li><strong>Natural Disaster Impact</strong> – Know if the car was affected by events like floods, hurricanes, or hail storms in its registered state.</li><li><strong>Safety Recalls</strong> – Find out if there are unresolved manufacturer recalls that require attention.</li></ul>"
+        },
+        {
+          "heading": "Why Use ChassisVIN for State-Specific VIN Checks?",
+          "headingLevel": "h2",
+          "content": "<p>ChassisVIN provides a tailored approach to VIN checks by offering reports specific to each U.S. state. We leverage state and national databases, allowing users to access detailed and reliable vehicle history data. Our VIN check service includes:</p><ul><li>State-based title and registration information.</li><li>Access to national safety recalls and incidents.</li><li>Accident history specific to regions and damage types.</li><li>Support for a wide range of vehicles, including cars, motorcycles, and trucks.</li></ul>"
+        },
+        {
+          "heading": "How to Check Your VIN by State",
+          "headingLevel": "h2",
+          "content": "<p>To start, simply enter the 17-character VIN and select the state where the vehicle is registered or where you’re purchasing it. Here’s how the process works:</p><ol><li><strong>Enter the VIN</strong> – Input the full 17-character VIN number in the provided form.</li><li><strong>Select the State</strong> – Choose the state to narrow down your vehicle report for region-specific data.</li><li><strong>Review the Details</strong> – Receive an in-depth report covering ownership history, title status, accidents, and much more.</li></ol>"
+        },
+        {
+          "heading": "Vehicle Registration by State: Passenger Cars and Light Trucks",
+          "headingLevel": "h2",
+          "content": "<p>The table below provides a comprehensive breakdown of vehicle registrations across the U.S., detailing the number of passenger cars and light trucks registered in each state. This data, sourced from the U.S. Department of Transportation and the National Highway Traffic Safety Administration (NHTSA), gives insights into the density of each vehicle type by state, helping illustrate regional preferences and transportation trends. States such as Texas, California, and Florida lead with the highest vehicle totals, reflecting the substantial number of drivers and vehicle use in these areas. This data is valuable for market analysis, urban planning, and understanding the landscape of vehicle ownership in the country.</p><table><thead><tr><th>Rank</th><th>State</th><th>Passenger Cars</th><th>Light Trucks</th><th>Total</th><th>Rank</th><th>State</th><th>Passenger Cars</th><th>Light Trucks</th><th>Total</th></tr></thead><tbody><tr><td>1</td><td>Texas</td><td>1,218</td><td>1,164</td><td>2,382</td><td>26</td><td>New Jersey</td><td>234</td><td>103</td><td>337</td></tr><tr><td>2</td><td>California</td><td>1,297</td><td>645</td><td>1,942</td><td>27</td><td>Washington</td><td>192</td><td>140</td><td>332</td></tr><tr><td>3</td><td>Florida</td><td>1,048</td><td>652</td><td>1,700</td><td>28</td><td>Kansas</td><td>151</td><td>161</td><td>312</td></tr><tr><td>4</td><td>Georgia</td><td>583</td><td>467</td><td>1,050</td><td>29</td><td>Iowa</td><td>154</td><td>140</td><td>294</td></tr><tr><td>5</td><td>North Carolina</td><td>582</td><td>417</td><td>999</td><td>30</td><td>Maryland</td><td>190</td><td>100</td><td>290</td></tr><tr><td>6</td><td>Alabama</td><td>400</td><td>360</td><td>760</td><td>31</td><td>New Mexico</td><td>115</td><td>153</td><td>268</td></tr><tr><td>7</td><td>Pennsylvania</td><td>494</td><td>263</td><td>757</td><td>32</td><td>Minnesota</td><td>144</td><td>107</td><td>251</td></tr><tr><td>8</td><td>Ohio</td><td>471</td><td>278</td><td>749</td><td>33</td><td>Massachusetts</td><td>163</td><td>79</td><td>242</td></tr><tr><td>9</td><td>Tennessee</td><td>421</td><td>315</td><td>736</td><td>34</td><td>Idaho</td><td>74</td><td>118</td><td>192</td></tr><tr><td>10</td><td>Illinois</td><td>407</td><td>297</td><td>704</td><td>35</td><td>West Virginia</td><td>85</td><td>101</td><td>186</td></tr><tr><td>11</td><td>Missouri</td><td>368</td><td>298</td><td>666</td><td>36</td><td>Utah</td><td>85</td><td>89</td><td>174</td></tr><tr><td>12</td><td>Michigan</td><td>377</td><td>287</td><td>664</td><td>37</td><td>Connecticut</td><td>115</td><td>54</td><td>169</td></tr><tr><td>13</td><td>South Carolina</td><td>364</td><td>269</td><td>633</td><td>38</td><td>Nebraska</td><td>80</td><td>88</td><td>168</td></tr><tr><td>14</td><td>Kentucky</td><td>353</td><td>236</td><td>589</td><td>39</td><td>Nevada</td><td>87</td><td>65</td><td>152</td></tr><tr><td>15</td><td>Indiana</td><td>329</td><td>249</td><td>578</td><td>40</td><td>Montana</td><td>53</td><td>93</td><td>146</td></tr><tr><td>16</td><td>Mississippi</td><td>273</td><td>275</td><td>548</td><td>41</td><td>Maine</td><td>60</td><td>61</td><td>121</td></tr><tr><td>17</td><td>New York</td><td>324</td><td>192</td><td>516</td><td>42</td><td>New Hampshire</td><td>57</td><td>39</td><td>96</td></tr><tr><td>18</td><td>Virginia</td><td>308</td><td>206</td><td>514</td><td>43</td><td>South Dakota</td><td>29</td><td>52</td><td>81</td></tr><tr><td>19</td><td>Arizona</td><td>261</td><td>246</td><td>507</td><td>44</td><td>North Dakota</td><td>36</td><td>41</td><td>77</td></tr><tr><td>20</td><td>Louisiana</td><td>254</td><td>233</td><td>487</td><td>45</td><td>Delaware</td><td>42</td><td>31</td><td>73</td></tr><tr><td>21</td><td>Oklahoma</td><td>206</td><td>261</td><td>467</td><td>46</td><td>Wyoming</td><td>17</td><td>54</td><td>71</td></tr><tr><td>22</td><td>Wisconsin</td><td>250</td><td>181</td><td>431</td><td>47</td><td>Hawaii</td><td>40</td><td>23</td><td>63</td></tr><tr><td>23</td><td>Arkansas</td><td>183</td><td>210</td><td>393</td><td>48</td><td>Alaska</td><td>16</td><td>42</td><td>58</td></tr><tr><td>24</td><td>Colorado</td><td>187</td><td>175</td><td>362</td><td>49</td><td>Vermont</td><td>28</td><td>17</td><td>45</td></tr><tr><td>25</td><td>Oregon</td><td>180</td><td>160</td><td>340</td><td>50</td><td>Rhode Island</td><td>19</td><td>11</td><td>30</td></tr></tbody></table><p>Source: U.S. Department of Transportation, NHTSA</p>"
+        },
+        {
+          "heading": "Accident Statistics by State",
+          "headingLevel": "h2",
+          "content": "<p>Vehicle accident rates vary across the U.S., and understanding these statistics can be useful when buying a car. Check out the table below to see which states have higher or lower accident rates and potential vehicle risk.</p><table><thead><tr><th>State</th><th>Annual Accident Rate</th><th>Top Causes of Accidents</th></tr></thead><tbody><tr><td>California</td><td>12.4%</td><td>Speeding, DUI, Distracted Driving</td></tr><tr><td>Texas</td><td>10.7%</td><td>Driver Fatigue, Speeding, Distractions</td></tr><tr><td>Florida</td><td>11.3%</td><td>Weather Conditions, DUI, Speeding</td></tr><tr><td>New York</td><td>9.5%</td><td>Distracted Driving, Weather, Speeding</td></tr><tr><td>Ohio</td><td>8.8%</td><td>Speeding, Traffic Density, Fatigue</td></tr></tbody></table>"
+        },
+        {
+          "heading": "State-Specific Title and Registration Information",
+          "headingLevel": "h2",
+          "content": "<p>Each state has unique title and registration policies. When checking a vehicle’s title history, it’s important to understand these differences, especially if the vehicle has moved between states. Common terms include:</p><ul><li><strong>Clear Title</strong> – No significant issues or claims; often preferred by buyers.</li><li><strong>Salvage Title</strong> – Indicates significant damage, often after an accident or natural disaster.</li><li><strong>Rebuilt Title</strong> – A previously salvage vehicle that has been repaired to be roadworthy again.</li><li><strong>Flood Title</strong> – The vehicle has been impacted by water damage, which can affect resale and safety.</li></ul>"
+        },
+        {
+          "heading": "Table of State VIN Check Options",
+          "headingLevel": "h2",
+          "content": "<table><thead><tr><th>State</th><th>VIN Check Service</th><th>Accident Report</th><th>Title Verification</th></tr></thead><tbody><tr><td>California</td><td>DMV, Private Providers</td><td>Yes</td><td>Yes</td></tr><tr><td>Texas</td><td>DMV, Online Services</td><td>Yes</td><td>Yes</td></tr><tr><td>New York</td><td>DMV, Local Law Enforcement</td><td>Yes</td><td>Yes</td></tr><tr><td>Florida</td><td>Online Database</td><td>Yes</td><td>Yes</td></tr><tr><td>Ohio</td><td>Public Record Access</td><td>Yes</td><td>Yes</td></tr></tbody></table>"
+        },
+        {
+          "heading": "State DMV VIN Check Services",
+          "headingLevel": "h2",
+          "content": "<p>Many states offer their own DMV VIN check services to verify title and accident histories. Each state may have unique databases and levels of information available.</p><p>Here's a breakdown of VIN check services across states:</p><ul><li><strong>California DMV</strong> – Offers comprehensive vehicle history reports, including accident records and title information.</li><li><strong>Texas DMV</strong> – Provides details on salvage or rebuilt titles, registration history, and theft reports.</li><li><strong>New York DMV</strong> – Access to title verification, accident details, and information on previous owners.</li><li><strong>Florida VIN Check</strong> – State portal offers free VIN lookup for title verification and accident information.</li><li><strong>Ohio BMV</strong> – Offers VIN check for title issues, recalls, and registration verification.</li></ul>"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How can I perform a state-specific VIN check?",
+          "answer": "To perform a state-specific VIN check, simply enter the VIN and select the state of registration or purchase. This will tailor the report to include state-relevant information such as title history, accidents, and compliance records."
+        },
+        {
+          "question": "What does a VIN check by state reveal?",
+          "answer": "A VIN check by state provides information including registration history, title verification, accident and salvage records, and state-specific compliance details. It’s an essential tool for buyers to make informed decisions based on a vehicle’s history in its registered state."
+        },
+        {
+          "question": "Are state-specific VIN checks reliable?",
+          "answer": "Yes, state-specific VIN checks are highly reliable as they pull data from state and federal databases. Our service ensures accuracy by accessing DMV records, accident reports, title history, and more to provide you with comprehensive insights."
+        },
+        {
+          "question": "Do all states offer free VIN check services?",
+          "answer": "Not all states offer free VIN check services through the DMV. However, several private providers, including ChassisVIN, offer a comprehensive VIN check service covering all U.S. states."
+        },
+        {
+          "question": "Can I verify if a car was involved in a flood in a particular state?",
+          "answer": "Yes, our state-specific VIN check includes damage history, including flood, fire, and hail incidents as recorded by the state. This information is particularly useful in states with a high risk of flooding or extreme weather."
+        }
+      ]
+    },
   "about-us": {
     "title": "About Us ChassisVIN",
     "description": "Trusted Vehicle History Reports for Safe Car Buying",
     "metaTitle": "About ChassisVIN | Trusted Vehicle History Reports for Safe Car Buying",
     "metaDescription": "Discover ChassisVIN—your trusted source for comprehensive and up-to-date vehicle history reports. Get transparent insights to make confident, informed car-buying decisions.",
     "canonical": "https://www.chassisvin.com/about-us",
-    "dataSource": "",
+    "dataSources": [],
     "heroForm": false,
     "sections": [
       {
@@ -347,7 +433,7 @@
     "metaTitle": "Privacy Policy | Chassis VIN Vehicle Information Services",
     "metaDescription": "Learn how Chassis VIN collects, uses, and protects your personal information. Our comprehensive privacy policy ensures transparency and security in our services.",
     "canonical": "https://www.chassisvin.com/privacy-policy",
-    "dataSource": "",
+    "dataSources": [],
     "heroForm": false,
     "sections": [
       {
@@ -434,7 +520,7 @@
     "metaTitle": "Terms and Conditions | Chassis VIN Vehicle Information Services",
     "metaDescription": "Read our comprehensive terms and conditions to understand your rights and responsibilities when using Chassis VIN's vehicle information services.",
     "canonical": "https://www.chassisvin.com/terms-and-conditions",
-    "dataSource": "",
+    "dataSources": [],
     "heroForm": false,
     "sections": [
       {
@@ -506,7 +592,7 @@
     "metaTitle": "Contact ChassisVIN | Support, Sales, and Inquiries",
     "metaDescription": "Need help with your vehicle history report or ChassisVIN account? Contact our support team, connect with our sales department, or reach out for dealer inquiries.",
     "canonical": "https://www.chassisvin.com/contact-us",
-    "dataSource": "",
+    "dataSources": [],
     "heroForm": false,
     "sections": [
       {
@@ -562,8 +648,8 @@
     "description": "Stay informed about vehicle recalls and ensure your safety on the road. Learn what vehicle recalls mean, how to check for them, and why they are important.",
     "metaTitle": "Vehicle Recall Guide | Stay Safe on the Road",
     "metaDescription": "Discover everything about vehicle recalls, including how to check for them, the types of recalls, and the importance of ensuring your vehicle's safety.",
-    "canonical": "https://example.com/vehicle-recall-guide",
-    "dataSource": "",
+    "canonical": "https://chassisvin.com/vehicle-recalls",
+    "dataSources": [],
     "heroForm": true,
     "sections": [
       {
@@ -631,7 +717,7 @@
     "metaTitle": "Example Meta Title | Showcasing Various Content Structures",
     "metaDescription": "This example page demonstrates different content structures including paragraphs, lists, and tables, providing a comprehensive overview of possible content layouts.",
     "canonical": "https://example.com/example-page",
-    "dataSource": "sampleList",
+    "dataSources": [{"source": "sampleList", "prefix": "example-page"}],
     "heroForm": true,
     "sections": [
       {
@@ -672,7 +758,8 @@
     "metaTitle": "Accident & Theft Check | ChassisVIN – Full Vehicle Background Insight",
     "metaDescription": "Check accident and theft history with ChassisVIN. Comprehensive vehicle reports including prior accidents, theft status, ownership details, and more.",
     "canonical": "https://www.chassisvin.com/vehicle-history",
-    "dataSource": "",
+        "dataSources": [],
+
     "heroForm": true,
     "sections": [
       {

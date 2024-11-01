@@ -3,10 +3,12 @@ import RepetitivePage, { generateMetadata as generateRepetitiveMetadata } from '
 import vinDecoderMakes from '@/data/vinDecoderMakes.json'
 import windowStickerMakes from '@/data/windowStickerMakes.json'
 import licensePlateLookupStates from '@/data/licensePlateLookupStates.json'
-import vinDecoderStates from '@/data/vinDecoderStates.json'
+import vinCheckStates from '@/data/vinCheckStates.json'
 
 const contentMap = {
-  'vin-decoder': { ...vinDecoderMakes, ...vinDecoderStates },
+  // 'vin-decoder': { ...vinDecoderMakes, ...vinDecoderStates },
+  'vin-decoder': vinDecoderMakes,
+  'vin-check': vinCheckStates,
   'window-sticker': windowStickerMakes,
   'license-plate-lookup': licensePlateLookupStates,
 }
@@ -23,7 +25,6 @@ export default function DynamicMakePage({ params }: { params: PageParams }) {
   return (
     <RepetitivePage
       contents={contents}
-      urlPrefix={`/${params.page}/`}
       params={params}
     />
   )

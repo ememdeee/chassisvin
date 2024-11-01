@@ -61,7 +61,7 @@ export default function Component({ urlPrefix = '/', dataSource = 'makesList' }:
               {column.map((item) => (
                 <li key={item}>
                   <Link 
-                    href={`${urlPrefix}${item.toLowerCase().replace(/\s+/g, '-')}`} 
+                    href={`/${urlPrefix ? `${urlPrefix}/` : ''}${item.toLowerCase().replace(/\s+/g, '-')}`} 
                     className="text-blue-500 hover:underline text-sm"
                   >
                     {item}
@@ -79,7 +79,7 @@ export default function Component({ urlPrefix = '/', dataSource = 'makesList' }:
               {column.map((item) => (
                 <li key={item}>
                   <Link 
-                    href={`${urlPrefix}${item.toLowerCase().replace(/\s+/g, '-')}`} 
+                    href={`/${urlPrefix ? `${urlPrefix}/` : ''}${item.toLowerCase().replace(/\s+/g, '-')}`} 
                     className="text-blue-500 hover:underline text-sm"
                   >
                     {item}

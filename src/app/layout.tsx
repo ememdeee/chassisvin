@@ -18,8 +18,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Chassis Vin",
-  description: "Chassis Vin",
+  title: "Free VIN Check & Vehicle History Report with ChassisVIN",
+  description: "Get your vehicle history report with ChassisVIN for accurate records on ownership, accident history, recalls, and title information with VIN or License Plate.",
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any', type: 'image/x-icon' },

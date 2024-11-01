@@ -5,7 +5,7 @@
     "metaTitle": "Acura VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Acura VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Acura VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/acura",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -136,7 +136,7 @@
     "metaTitle": "Alfa Romeo VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Alfa Romeo VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Alfa Romeo VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/alfa-romeo",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -239,7 +239,7 @@
     "metaTitle": "Aston Martin VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Aston Martin VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Aston Martin VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/aston-martin",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -302,7 +302,7 @@
     "metaTitle": "Audi VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Audi VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Audi VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/audi",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -433,7 +433,7 @@
     "metaTitle": "Bentley VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Bentley VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Bentley VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/bentley",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -496,7 +496,7 @@
     "metaTitle": "BMW VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a BMW VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the BMW VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/bmw",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -559,7 +559,7 @@
     "metaTitle": "Buick VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Buick VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Buick VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/buick",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -677,7 +677,7 @@
     "metaTitle": "Cadillac VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Cadillac VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Cadillac VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/cadillac",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -825,7 +825,7 @@
     "metaTitle": "Chevrolet VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Chevrolet VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Chevrolet VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/chevrolet",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -956,7 +956,7 @@
     "metaTitle": "Chrysler VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Chrysler VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Chrysler VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/chrysler",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1104,7 +1104,7 @@
     "metaTitle": "Daewoo VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Daewoo VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Daewoo VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/daewoo",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1217,7 +1217,7 @@
     "metaTitle": "Datsun VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Datsun VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Datsun VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/datsun",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1295,7 +1295,7 @@
     "metaTitle": "Dodge VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Dodge VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Dodge VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/dodge",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1408,7 +1408,7 @@
   "metaTitle": "Ducati VIN Decoder | VIN Search | Vehicle History Report",
   "metaDescription": "Run a Ducati VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Ducati VIN decoder!",
   "canonical": "https://www.chassisvin.com/vin-decoder/ducati",
-  "dataSource": "makesList",
+  "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
   "heroForm": true,
   "sections": [
     {
@@ -1521,7 +1521,7 @@
     "metaTitle": "Eagle VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Eagle VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Eagle VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/eagle",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1594,7 +1594,7 @@
     "metaTitle": "Ferrari VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Ferrari VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Ferrari VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/ferrari",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1707,7 +1707,7 @@
   "metaTitle": "Fiat VIN Decoder | VIN Search | Vehicle History Report",
   "metaDescription": "Run a Fiat VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Fiat VIN decoder!",
   "canonical": "https://www.chassisvin.com/vin-decoder/fiat",
-  "dataSource": "makesList",
+  "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
   "heroForm": true,
   "sections": [
     {
@@ -1820,7 +1820,7 @@
     "metaTitle": "Forest River VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Forest River VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Forest River VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/forest-river",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -1933,7 +1933,7 @@
     "metaTitle": "Ford VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Ford VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Ford VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/ford",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2046,7 +2046,7 @@
     "metaTitle": "Freightliner VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Freightliner VIN decoder to get the most accurate history report for any Freightliner vehicle. It's a quicker alternative to the standard Freightliner VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/freightliner",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2159,7 +2159,7 @@
     "metaTitle": "Geo VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Geo VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Geo VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/geo",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2272,7 +2272,7 @@
     "metaTitle": "GMC VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a GMC VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the GMC VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/gmc",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2385,7 +2385,7 @@
     "metaTitle": "Harley-Davidson VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Harley-Davidson VIN decoder to access detailed history reports for your motorcycle. Discover title history, accident records, and more.",
     "canonical": "https://www.chassisvin.com/vin-decoder/harley-davidson",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2498,7 +2498,7 @@
     "metaTitle": "Honda VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Honda VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Honda VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/honda",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2611,7 +2611,7 @@
     "metaTitle": "Hummer VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Hummer VIN decoder to get the most accurate history report for any Hummer vehicle. It's a quicker alternative to the Hummer VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/hummer",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2724,7 +2724,7 @@
     "metaTitle": "Hyundai VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Hyundai VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Hyundai VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/hyundai",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2837,7 +2837,7 @@
     "metaTitle": "Infiniti VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a detailed Infiniti VIN decoder to access accurate vehicle history, including accident records and mileage verification.",
     "canonical": "https://www.chassisvin.com/vin-decoder/infiniti",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -2950,7 +2950,7 @@
     "metaTitle": "International VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an International VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the International VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/international",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3023,7 +3023,7 @@
     "metaTitle": "Isuzu VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Isuzu VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Isuzu VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/isuzu",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3136,7 +3136,7 @@
     "metaTitle": "Jaguar VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Jaguar VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Jaguar VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/jaguar",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3249,7 +3249,7 @@
     "metaTitle": "Jayco VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Jayco VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Jayco VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/jayco",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3362,7 +3362,7 @@
     "metaTitle": "Jeep VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Jeep VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Jeep VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/jeep",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3475,7 +3475,7 @@
     "metaTitle": "Kawasaki VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Kawasaki VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Kawasaki VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/kawasaki",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3588,7 +3588,7 @@
     "metaTitle": "Kenworth VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Kenworth VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Kenworth VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/kenworth",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3701,7 +3701,7 @@
     "metaTitle": "Kia VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Kia VIN decoder to get the most accurate history report for any Kia vehicle. It's a quicker alternative to the traditional Kia VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/kia",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3794,7 +3794,7 @@
     "metaTitle": "KTM VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a KTM VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the KTM VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/ktm",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -3907,7 +3907,7 @@
     "metaTitle": "Lamborghini VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Use a Lamborghini VIN decoder to unlock detailed vehicle history, including accidents, mileage, and more. Quick and accurate reports for all models.",
     "canonical": "https://www.chassisvin.com/vin-decoder/lamborghini",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4020,7 +4020,7 @@
     "metaTitle": "Land Rover VIN Decoder | Accurate History Reports | ChassisVIN",
     "metaDescription": "Run a Land Rover VIN decoder for precise history reports. Quickly access accident history, title status, and more with ChassisVIN's VIN decoding service.",
     "canonical": "https://www.chassisvin.com/vin-decoder/land-rover",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4133,7 +4133,7 @@
     "metaTitle": "Lexus VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Lexus VIN decoder to get the most accurate history report for any Lexus vehicle. It's a quicker alternative to the Lexus VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/lexus",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4246,7 +4246,7 @@
     "metaTitle": "Lincoln VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Lincoln VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Lincoln VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/lincoln",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4359,7 +4359,7 @@
     "metaTitle": "Lotus VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Use a Lotus VIN decoder for an in-depth vehicle history report, including title history, accident records, and more.",
     "canonical": "https://www.chassisvin.com/vin-decoder/lotus",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4472,7 +4472,7 @@
     "metaTitle": "Mack VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Mack VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Mack VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/mack",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4585,7 +4585,7 @@
     "metaTitle": "Maserati VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Use a Maserati VIN decoder to uncover a vehicle's history, including accident records, odometer readings, and more. Fast, reliable, and easy to use.",
     "canonical": "https://www.chassisvin.com/vin-decoder/maserati",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4668,7 +4668,7 @@
     "metaTitle": "Maybach VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Maybach VIN decoder to get the most accurate history report for any Maybach vehicle. It's a quicker alternative to the Maybach VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/maybach",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4781,7 +4781,7 @@
     "metaTitle": "Mazda VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Mazda VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Mazda VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/mazda",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -4894,7 +4894,7 @@
     "metaTitle": "McLaren VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Use our McLaren VIN decoder to uncover detailed vehicle history, from accidents to title checks, making your purchase safer.",
     "canonical": "https://www.chassisvin.com/vin-decoder/mclaren",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5007,7 +5007,7 @@
     "metaTitle": "Mercedes-Benz VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Mercedes-Benz VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Mercedes-Benz VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/mercedes-benz",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5120,7 +5120,7 @@
     "metaTitle": "Mercury VIN Decoder | Accurate Vehicle History | ChassisVin",
     "metaDescription": "Run a Mercury VIN decoder to access a detailed history report for any vehicle. It's a quicker alternative to the traditional Mercury VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/mercury",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5233,7 +5233,7 @@
     "metaTitle": "MINI VIN Decoder | Accurate Vehicle History Reports",
     "metaDescription": "Run a MINI VIN decoder to get the most accurate history report for any MINI vehicle. It's a quicker alternative to the traditional VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/mini",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5346,7 +5346,7 @@
     "metaTitle": "Mitsubishi VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Mitsubishi VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Mitsubishi VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/mitsubishi",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5439,7 +5439,7 @@
     "metaTitle": "Nissan VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Nissan VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Nissan VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/nissan",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5552,7 +5552,7 @@
     "metaTitle": "Oldsmobile VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Oldsmobile VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Oldsmobile VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/oldsmobile",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
         {
@@ -5665,7 +5665,7 @@
     "metaTitle": "Opel VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run an Opel VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Opel VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/opel",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5778,7 +5778,7 @@
     "metaTitle": "Peterbilt VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Peterbilt VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Peterbilt VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/peterbilt",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -5896,7 +5896,7 @@
     "metaTitle": "Peugeot VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Peugeot VIN decoder to get the most accurate history report for any Peugeot vehicle. It's a quicker alternative to the Peugeot VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/peugeot",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6009,7 +6009,7 @@
     "metaTitle": "Plymouth VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Plymouth VIN decoder to get the most accurate history report for any Plymouth vehicle. It's a quicker alternative to the Plymouth VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/plymouth",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6127,7 +6127,7 @@
     "metaTitle": "Polaris VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Polaris VIN decoder to get the most accurate history report for any Polaris vehicle. It's a quicker alternative to the Polaris VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/polaris",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6240,7 +6240,7 @@
     "metaTitle": "Pontiac VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Pontiac VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Pontiac VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/pontiac",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6358,7 +6358,7 @@
     "metaTitle": "Porsche VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Porsche VIN decoder to get the most accurate history report for any Porsche vehicle. It's a quicker alternative to the Porsche VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/porsche",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6476,7 +6476,7 @@
     "metaTitle": "RAM VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a RAM VIN decoder to get the most accurate history report for any RAM vehicle. It's a quicker alternative to the RAM VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/ram",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6589,7 +6589,7 @@
     "metaTitle": "Rolls-Royce VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Rolls-Royce VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Rolls-Royce VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/rolls-royce",
-    "dataSource": "makesList-RoyceList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6702,7 +6702,7 @@
     "metaTitle": "Saab VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Saab VIN decoder to get the most accurate history report for any Saab vehicle. It's a quicker alternative to the Saab VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/saab",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6815,7 +6815,7 @@
     "metaTitle": "Saturn VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Saturn VIN decoder to get the most accurate history report for any Saturn vehicle. It's a quicker alternative to the Saturn VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/saturn",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -6928,7 +6928,7 @@
     "metaTitle": "Smart VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Smart VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Smart VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/smart",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7041,7 +7041,7 @@
     "metaTitle": "Subaru VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Subaru VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Subaru VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/subaru",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7154,7 +7154,7 @@
     "metaTitle": "Suzuki VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Suzuki VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Suzuki VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/suzuki",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
         {
@@ -7267,7 +7267,7 @@
     "metaTitle": "Tesla VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Tesla VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Tesla VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/tesla",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7380,7 +7380,7 @@
     "metaTitle": "Triumph VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Triumph VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Triumph VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/triumph",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7493,7 +7493,7 @@
     "metaTitle": "Toyota VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Toyota VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Toyota VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/toyota",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7606,7 +7606,7 @@
     "metaTitle": "Volkswagen VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Volkswagen VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Volkswagen VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/volkswagen",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7724,7 +7724,7 @@
     "metaTitle": "Volvo VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Volvo VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Volvo VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/volvo",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7837,7 +7837,7 @@
     "metaTitle": "Volvo Truck VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Volvo Truck VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Volvo Truck VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/volvo-truck",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -7950,7 +7950,7 @@
     "metaTitle": "Yamaha VIN Decoder | VIN Search | Vehicle History Report",
     "metaDescription": "Run a Yamaha VIN decoder to get the most accurate history report for any vehicle. It's a quicker alternative to the Yamaha VIN decoder!",
     "canonical": "https://www.chassisvin.com/vin-decoder/yamaha",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
@@ -8063,7 +8063,7 @@
     "metaTitle": "Example Meta Title | Showcasing Various Content Structures",
     "metaDescription": "This example page demonstrates different content structures including paragraphs, lists, and tables, providing a comprehensive overview of possible content layouts.",
     "canonical": "https://www.chassisvin.com/vin-decoder/make",
-    "dataSource": "makesList",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "heroForm": true,
     "sections": [
       {
