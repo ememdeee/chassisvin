@@ -7,13 +7,15 @@ interface HeroSectionProps {
   title?: string
   description?: string
   showForm?: boolean
+  reportType?: 'VHR' | 'WS'
 }
 
 export default function Component({
   logoUrl = "/ChassisVIN.webp",
   title = "VIN Number Lookup",
   description = "Enter your Vehicle Identification Number (VIN) or License Plate to get detailed information about any vehicle.",
-  showForm = true
+  showForm = true,
+  reportType = 'VHR'
 }: HeroSectionProps) {
   return (
     <section className='pt-8 pb-16'>
@@ -35,7 +37,7 @@ export default function Component({
             {description}
           </p>
         </div>
-        {showForm && <SiteForm />}
+        {showForm && <SiteForm reportType={reportType} />}
       </div>
     </section>
   )

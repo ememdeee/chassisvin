@@ -6,6 +6,7 @@
     "metaDescription": "Get an Acura Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Acura buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/acura",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
         {
@@ -100,6 +101,7 @@
     "metaDescription": "Get an Alfa Romeo Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Alfa Romeo buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/alfa-romeo",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -194,6 +196,7 @@
     "metaDescription": "Get an Aston Martin Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Aston Martin buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/aston-martin",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -288,6 +291,7 @@
     "metaDescription": "Get an Audi Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Audi buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/audi",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -342,6 +346,7 @@
     "metaDescription": "Get a Bentley Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Bentley buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/bentley",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -396,6 +401,7 @@
     "metaDescription": "Get a BMW Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for BMW buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/bmw",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -485,6 +491,7 @@
     "metaDescription": "Get a Buick Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Buick buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/buick",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -574,6 +581,7 @@
     "metaDescription": "Get a Cadillac Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Cadillac buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/cadillac",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -668,6 +676,7 @@
     "metaDescription": "Get a Chevrolet Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Chevrolet buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/chevrolet",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -762,6 +771,7 @@
     "metaDescription": "Get a Chrysler Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Chrysler buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/chrysler",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -851,6 +861,7 @@
     "metaDescription": "Get a Daewoo Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Daewoo buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/daewoo",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -940,6 +951,7 @@
     "metaDescription": "Get a Datsun Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Datsun buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/datsun",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
         {
@@ -1029,6 +1041,7 @@
     "metaDescription": "Get a Dodge Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Dodge buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/dodge",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
         {
@@ -1118,6 +1131,7 @@
     "metaDescription": "Get a Ducati Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Ducati buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/ducati",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1207,6 +1221,7 @@
     "metaDescription": "Get an Eagle Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Eagle buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/eagle",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1296,6 +1311,7 @@
     "metaDescription": "Get a Ferrari Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Ferrari buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/ferrari",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1350,6 +1366,7 @@
     "metaDescription": "Get a FIAT Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for FIAT buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/fiat",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1404,6 +1421,7 @@
     "metaDescription": "Get a Forest River Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Forest River buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/forest-river",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1498,6 +1516,7 @@
     "metaDescription": "Get a Ford Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Ford buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/ford",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1592,6 +1611,7 @@
     "metaDescription": "Get a Freightliner Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Freightliner buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/freightliner",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1686,6 +1706,7 @@
     "metaDescription": "Get a Geo Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Geo buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/geo",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1780,6 +1801,7 @@
     "metaDescription": "Get a GMC Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for GMC buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/gmc",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1869,6 +1891,7 @@
     "metaDescription": "Get a Harley-Davidson Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Harley-Davidson buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/harley-davidson",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -1958,6 +1981,7 @@
     "metaDescription": "Get a Honda Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Honda buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/honda",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2012,6 +2036,7 @@
     "metaDescription": "Get a HUMMER Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for HUMMER buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/hummer",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2066,6 +2091,7 @@
     "metaDescription": "Get a Hyundai Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Hyundai buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/hyundai",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2160,6 +2186,7 @@
     "metaDescription": "Get an Infiniti Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Infiniti buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/infiniti",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2254,6 +2281,7 @@
     "metaDescription": "Get an International Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for International buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/international",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2308,6 +2336,7 @@
     "metaDescription": "Get an Isuzu Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Isuzu buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/isuzu",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2402,6 +2431,7 @@
     "metaDescription": "Get a Jaguar Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Jaguar buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/jaguar",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2491,6 +2521,7 @@
     "metaDescription": "Get a Jayco Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Jayco buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/jayco",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2580,6 +2611,7 @@
     "metaDescription": "Get a Jeep Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Jeep buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/jeep",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2669,6 +2701,7 @@
     "metaDescription": "Get a Kawasaki Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Kawasaki buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/kawasaki",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2758,6 +2791,7 @@
     "metaDescription": "Get a Kenworth Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Kenworth buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/kenworth",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2852,6 +2886,7 @@
     "metaDescription": "Get a Kia Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Kia buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/kia",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -2946,6 +2981,7 @@
     "metaDescription": "Get a KTM Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for KTM buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/ktm",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3035,6 +3071,7 @@
     "metaDescription": "Get a Lamborghini Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Lamborghini buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/lamborghini",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3124,6 +3161,7 @@
     "metaDescription": "Get a Land Rover Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Land Rover buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/land-rover",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3178,6 +3216,7 @@
     "metaDescription": "Get a Lexus Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Lexus buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/lexus",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3232,6 +3271,7 @@
     "metaDescription": "Get a Lincoln Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Lincoln buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/lincoln",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3326,6 +3366,7 @@
     "metaDescription": "Get a Lotus Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Lotus buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/lotus",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3420,6 +3461,7 @@
     "metaDescription": "Get a Mack Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Mack buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mack",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3514,6 +3556,7 @@
     "metaDescription": "Get a Maserati Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Maserati buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/maserati",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3608,6 +3651,7 @@
     "metaDescription": "Get a Maybach Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Maybach buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/maybach",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3697,6 +3741,7 @@
     "metaDescription": "Get a Mazda Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Mazda buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mazda",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3786,6 +3831,7 @@
     "metaDescription": "Get a McLaren Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for McLaren buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mclaren",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3875,6 +3921,7 @@
     "metaDescription": "Get a Mercedes-Benz Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Mercedes-Benz buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mercedes-benz",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -3964,6 +4011,7 @@
     "metaDescription": "Get a Mercury Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Mercury buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mercury",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4023,6 +4071,7 @@
     "metaDescription": "Get a MINI Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for MINI buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mini",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4117,6 +4166,7 @@
     "metaDescription": "Get a Mitsubishi Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Mitsubishi buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/mitsubishi",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4206,6 +4256,7 @@
     "metaDescription": "Get a Nissan Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Nissan buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/nissan",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4295,6 +4346,7 @@
     "metaDescription": "Get an Oldsmobile Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Oldsmobile buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/oldsmobile",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4384,6 +4436,7 @@
     "metaDescription": "Get an Opel Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Opel buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/opel",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4473,6 +4526,7 @@
     "metaDescription": "Get a Peterbilt Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Peterbilt buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/peterbilt",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4567,6 +4621,7 @@
     "metaDescription": "Get a Peugeot Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Peugeot buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/peugeot",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4661,6 +4716,7 @@
     "metaDescription": "Get a Plymouth Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Plymouth buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/plymouth",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4750,6 +4806,7 @@
     "metaDescription": "Get a Polaris Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Polaris buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/polaris",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4839,6 +4896,7 @@
     "metaDescription": "Get a Pontiac Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Pontiac buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/pontiac",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -4933,6 +4991,7 @@
     "metaDescription": "Get a Porsche Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Porsche buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/porsche",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5027,6 +5086,7 @@
     "metaDescription": "Get a RAM Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for RAM buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/ram",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5068,6 +5128,7 @@
     "metaDescription": "Get a Rolls-Royce Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Rolls-Royce buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/rolls-royce",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5109,6 +5170,7 @@
     "metaDescription": "Get a Saab Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Saab buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/saab",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5163,6 +5225,7 @@
     "metaDescription": "Get a Saturn Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Saturn buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/saturn",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5207,6 +5270,7 @@
     "metaDescription": "Get a Subaru Window Sticker (Monroney Label) to access the original details of any Subaru vehicle. Perfect for Subaru buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/subaru",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5296,6 +5360,7 @@
     "metaDescription": "Get a SMART Window Sticker (Monroney Label) to access original vehicle details. Perfect for SMART buyers seeking detailed insights.",
     "canonical": "https://www.chassisvin.com/window-sticker/smart",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5355,6 +5420,7 @@
     "metaDescription": "Get a Suzuki Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Suzuki buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/suzuki",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5449,6 +5515,7 @@
     "metaDescription": "Get a Tesla Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Tesla buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/tesla",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5543,6 +5610,7 @@
     "metaDescription": "Get a Triumph Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Triumph buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/triumph",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5632,6 +5700,7 @@
     "metaDescription": "Get a Toyota Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Toyota buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/toyota",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5721,6 +5790,7 @@
     "metaDescription": "Get a Volkswagen Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Volkswagen buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/volkswagen",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5810,6 +5880,7 @@
     "metaDescription": "Get a Volvo Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Volvo buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/volvo",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5904,6 +5975,7 @@
     "metaDescription": "Get a Volvo Truck Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Volvo Truck buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/volvo-truck",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -5998,6 +6070,7 @@
     "metaDescription": "Get a Yamaha Window Sticker (Monroney Label) to access the original details of any vehicle. Perfect for Yamaha buyers!",
     "canonical": "https://www.chassisvin.com/window-sticker/yamaha",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {

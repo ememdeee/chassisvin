@@ -32,6 +32,7 @@ interface Content {
   metaDescription: string;
   canonical: string;
   dataSources: DataSource[];
+  reportType: string;
   heroForm: boolean;
   sections: Section[];
   faqs: FAQItem[];
@@ -86,7 +87,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
         <link rel="canonical" href={content.canonical} />
       </Head>
       <main>
-        <HeroSection showForm={content.heroForm} title={content.title} description={content.description} />
+        <HeroSection showForm={content.heroForm} title={content.title} description={content.description} reportType={content.reportType as 'VHR' | 'WS'} />
         <TwoColumnContainer>
           <div>
             <Breadcrumb />

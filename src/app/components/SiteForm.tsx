@@ -3,37 +3,125 @@
 import React, { useState } from 'react'
 import { ChevronDown, Info } from 'lucide-react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 
 interface SiteFormProps {
   forceMobileLayout?: boolean
+  reportType?: 'VHR' | 'WS'
 }
 
-const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false }) => {
+const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportType = 'VHR' }) => {
   const [inputType, setInputType] = useState<'VIN' | 'LP'>('VIN')
   const [vinInput, setVinInput] = useState('')
   const [plateInput, setPlateInput] = useState('')
   const [stateInput, setStateInput] = useState('')
   const [error, setError] = useState<string | null>(null)
   const [showVinTooltip, setShowVinTooltip] = useState(false)
+  const router = useRouter()
 
   const states = [
-    { value: 'al', label: 'Alabama' },
-    { value: 'ak', label: 'Alaska' },
-    { value: 'az', label: 'Arizona' },
-    // ... add all other states here
-    { value: 'wy', label: 'Wyoming' },
-  ]
+    { value: 'AL', label: 'AL - Alabama' },
+    { value: 'AK', label: 'AK - Alaska' },
+    { value: 'AZ', label: 'AZ - Arizona' },
+    { value: 'AR', label: 'AR - Arkansas' },
+    { value: 'CA', label: 'CA - California' },
+    { value: 'CO', label: 'CO - Colorado' },
+    { value: 'CT', label: 'CT - Connecticut' },
+    { value: 'DE', label: 'DE - Delaware' },
+    { value: 'DC', label: 'DC - Washington DC' },
+    { value: 'FL', label: 'FL - Florida' },
+    { value: 'GA', label: 'GA - Georgia' },
+    { value: 'HI', label: 'HI - Hawaii' },
+    { value: 'ID', label: 'ID - Idaho' },
+    { value: 'IL', label: 'IL - Illinois' },
+    { value: 'IN', label: 'IN - Indiana' },
+    { value: 'IA', label: 'IA - Iowa' },
+    { value: 'KS', label: 'KS - Kansas' },
+    { value: 'KY', label: 'KY - Kentucky' },
+    { value: 'LA', label: 'LA - Louisiana' },
+    { value: 'ME', label: 'ME - Maine' },
+    { value: 'MD', label: 'MD - Maryland' },
+    { value: 'MA', label: 'MA - Massachusetts' },
+    { value: 'MI', label: 'MI - Michigan' },
+    { value: 'MN', label: 'MN - Minnesota' },
+    { value: 'MS', label: 'MS - Mississippi' },
+    { value: 'MO', label: 'MO - Missouri' },
+    { value: 'MT', label: 'MT - Montana' },
+    { value: 'NE', label: 'NE - Nebraska' },
+    { value: 'NV', label: 'NV - Nevada' },
+    { value: 'NH', label: 'NH - New Hampshire' },
+    { value: 'NJ', label: 'NJ - New Jersey' },
+    { value: 'NM', label: 'NM - New Mexico' },
+    { value: 'NY', label: 'NY - New York' },
+    { value: 'NC', label: 'NC - North Carolina' },
+    { value: 'ND', label: 'ND - North Dakota' },
+    { value: 'OH', label: 'OH - Ohio' },
+    { value: 'OK', label: 'OK - Oklahoma' },
+    { value: 'OR', label: 'OR - Oregon' },
+    { value: 'PA', label: 'PA - Pennsylvania' },
+    { value: 'RI', label: 'RI - Rhode Island' },
+    { value: 'SC', label: 'SC - South Carolina' },
+    { value: 'SD', label: 'SD - South Dakota' },
+    { value: 'TN', label: 'TN - Tennessee' },
+    { value: 'TX', label: 'TX - Texas' },
+    { value: 'UT', label: 'UT - Utah' },
+    { value: 'VT', label: 'VT - Vermont' },
+    { value: 'VA', label: 'VA - Virginia' },
+    { value: 'WA', label: 'WA - Washington' },
+    { value: 'WV', label: 'WV - West Virginia' },
+    { value: 'WI', label: 'WI - Wisconsin' },
+    { value: 'WY', label: 'WY - Wyoming' }
+  ];
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const isValidVin = (vin: string) => vin.length == 17
+
+  const fetchVinData = async (state: string, plate: string): Promise<string | null> => {
+    try {
+      const response = await fetch('https://app.detailedvehiclehistory.com/landing/get_license', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          state,
+          plate,
+          email: 'test@test.com',
+        }),
+      })
+
+      if (!response.ok) {
+        throw new Error('Network response was not ok')
+      }
+
+      const data = await response.json()
+      return data.vin || null
+    } catch (error) {
+      console.error('Error fetching VIN:', error)
+      return null
+    }
+  }
+
+  const redirectToReport = (vin: string) => {
+    const baseUrl = 'https://www.clearvin.com/en/'
+    const affiliateParam = '?a_aid=b3a49a62'
+    const url = reportType === 'VHR'
+      ? `${baseUrl}payment/prepare/${vin}/${affiliateParam}`
+      : `${baseUrl}window-sticker/checkout/${vin}/${affiliateParam}`
+    router.push(url)
+  }
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
 
+    let vin: string | null = null
+
     if (inputType === 'VIN') {
-      if (vinInput.length < 5 || vinInput.length > 17) {
-        setError('Please ensure that your VIN is in proper format. 5 - 17 digits')
+      if (!isValidVin(vinInput)) {
+        setError('Please ensure that your VIN is in proper format. 17 digits')
         return
       }
-      // Process VIN submission
+      vin = vinInput
     } else {
       if (!plateInput) {
         setError('The plate field is required.')
@@ -43,11 +131,16 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false }) => {
         setError('The state field is required.')
         return
       }
-      // Process License Plate submission
+      vin = await fetchVinData(stateInput, plateInput)
+      if (!vin) {
+        setError("Sorry, we couldn't find your record. Please check the License Plate and try again.")
+        return
+      }
     }
 
-    // If no errors, proceed with form submission
-    console.log('Form submitted:', { inputType, vinInput, plateInput, stateInput })
+    if (vin) {
+      redirectToReport(vin)
+    }
   }
 
   const mobileLayout = forceMobileLayout || 'md'

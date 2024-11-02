@@ -118,6 +118,7 @@
     "metaDescription": "Get an accurate window sticker by VIN with ChassisVIN. Instantly access original car details: trim, features, safety ratings, MSRP, and more. Lookup by VIN or license plate now!",
     "canonical": "https://www.chassisvin.com/window-sticker",
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
+    "reportType": "WS",
     "heroForm": true,
     "sections": [
       {
@@ -648,7 +649,7 @@
     "description": "Stay informed about vehicle recalls and ensure your safety on the road. Learn what vehicle recalls mean, how to check for them, and why they are important.",
     "metaTitle": "Vehicle Recall Guide | Stay Safe on the Road",
     "metaDescription": "Discover everything about vehicle recalls, including how to check for them, the types of recalls, and the importance of ensuring your vehicle's safety.",
-    "canonical": "https://chassisvin.com/vehicle-recalls",
+    "canonical": "https://www.chassisvin.com/vehicle-recalls",
     "dataSources": [],
     "heroForm": true,
     "sections": [
