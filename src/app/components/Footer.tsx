@@ -8,8 +8,8 @@ const Footer = () => {
     <footer className="bg-white border-t border-gray-200 py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center mb-12">
-          <div className="flex items-center mb-6 md:mb-0">
-            <div className="w-10 h-10 mr-4">
+          <div className="flex flex-col md:flex-row items-center mb-6 md:mb-0">
+            <div className="w-full md:w-10 md:h-10 md:mr-4 flex justify-center md:justify-start md:block">
             <Image
               src="/ChassisVIN.webp"
               alt="ChassisVIN"
@@ -27,7 +27,7 @@ const Footer = () => {
           <div className="flex items-center space-x-6 mb-6 md:mb-0">
             <Link href="/faq" className="flex items-center text-gray-600 hover:text-gray-900">
               <Search className="w-5 h-5 mr-2" />
-              <span>Frequently Asked Questions</span>
+              <span>FAQ</span>
             </Link>
             <Link href="#" className="flex items-center text-gray-600 hover:text-gray-900">
               <Smartphone className="w-5 h-5 mr-2" />
@@ -47,7 +47,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <p>© 2024 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/'  target="_blank" rel="noopener noreferrer">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer">CloudTeamize</a></p>
+          <p className='text-center'>© 2024 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/'  target="_blank" rel="noopener noreferrer">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer">CloudTeamize</a></p>
           
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link href="/sitemap.xml" className="hover:text-gray-700">Sitemap</Link>
