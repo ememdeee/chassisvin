@@ -6,6 +6,7 @@
         "metaDescription": "Run an Alabama VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Alabama DMV VIN check!",
         "canonical": "https://www.chassisvin.com/vin-check/alabama",
         "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+        "reportType": "VHR",
         "heroForm": true,
         "sections": [
         {
@@ -126,6 +127,7 @@
     "metaDescription": "Run an Alaska VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Alaska DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/alaska",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -241,6 +243,7 @@
     "metaDescription": "Run an Arizona VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Arizona DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/arizona",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -351,6 +354,7 @@
     "metaDescription": "Run an Arkansas VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Arkansas DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/arkansas",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -461,6 +465,7 @@
         "metaDescription": "Run a California VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the California DMV VIN check!",
         "canonical": "https://www.chassisvin.com/vin-check/california",
         "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+        "reportType": "VHR",
         "heroForm": true,
         "sections": [
             {
@@ -566,6 +571,7 @@
     "metaDescription": "Run a Colorado VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Colorado DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/colorado",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -676,6 +682,7 @@
     "metaDescription": "Run a Connecticut VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Connecticut DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/connecticut",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -786,6 +793,7 @@
     "metaDescription": "Run a Delaware VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Delaware DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/delaware",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -891,6 +899,7 @@
     "metaDescription": "Run a Florida VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Florida DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/florida",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1001,6 +1010,7 @@
     "metaDescription": "Run a Georgia VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Georgia DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/georgia",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1056,6 +1066,7 @@
     "metaDescription": "Run a Hawaii VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Hawaii DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/hawaii",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1166,6 +1177,7 @@
     "metaDescription": "Run an Idaho VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Idaho DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/idaho",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1226,6 +1238,7 @@
     "metaDescription": "Run an Illinois VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Illinois DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/illinois",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1341,6 +1354,7 @@
     "metaDescription": "Run an Indiana VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Indiana DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/indiana",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1451,6 +1465,7 @@
     "metaDescription": "Run an Iowa VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Iowa DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/iowa",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1566,6 +1581,7 @@
     "metaDescription": "Run a Kansas VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Kansas DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/kansas",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1681,6 +1697,7 @@
     "metaDescription": "Run a Kentucky VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Kentucky DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/kentucky",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1791,6 +1808,7 @@
     "metaDescription": "Run a Louisiana VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Louisiana DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/louisiana",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1906,6 +1924,7 @@
     "metaDescription": "Run a Maine VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Maine DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/maine",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2016,6 +2035,7 @@
     "metaDescription": "Run a Maryland VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Maryland DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/maryland",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2131,6 +2151,7 @@
     "metaDescription": "Run a Massachusetts VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Massachusetts DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/massachusetts",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2256,6 +2277,7 @@
     "metaDescription": "Run a Michigan VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Michigan DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/michigan",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2381,6 +2403,7 @@
     "metaDescription": "Run a Minnesota VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Minnesota DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/minnesota",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2436,6 +2459,7 @@
     "metaDescription": "Run a Mississippi VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Mississippi DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/mississippi",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2551,6 +2575,7 @@
     "metaDescription": "Run a Missouri VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Missouri DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/missouri",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2661,6 +2686,7 @@
     "metaDescription": "Run a Montana VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Montana DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/montana",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2771,6 +2797,7 @@
     "metaDescription": "Run a Nebraska VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Nebraska DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/nebraska",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2881,6 +2908,7 @@
     "metaDescription": "Run a Nevada VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Nevada DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/nevada",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2991,6 +3019,7 @@
     "metaDescription": "Run a New Hampshire VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the New Hampshire DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/new-hampshire",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3101,6 +3130,7 @@
     "metaDescription": "Run a New Jersey VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the New Jersey DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/new-jersey",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3206,6 +3236,7 @@
     "metaDescription": "Run a New Mexico VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the New Mexico DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/new-mexico",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3316,6 +3347,7 @@
     "metaDescription": "Run a New York VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the New York DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/new-york",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3421,6 +3453,7 @@
     "metaDescription": "Run a North Carolina VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the North Carolina DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/north-carolina",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3531,6 +3564,7 @@
     "metaDescription": "Run a North Dakota VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the North Dakota DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/north-dakota",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3641,6 +3675,7 @@
     "metaDescription": "Run an Ohio VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Ohio DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/ohio",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3751,6 +3786,7 @@
     "metaDescription": "Run an Oklahoma VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Oklahoma DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/oklahoma",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3861,6 +3897,7 @@
     "metaDescription": "Run an Oregon VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Oregon DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/oregon",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3971,6 +4008,7 @@
     "metaDescription": "Run a Pennsylvania VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Pennsylvania DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/pennsylvania",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4076,6 +4114,7 @@
     "metaDescription": "Run a Rhode Island VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Rhode Island DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/rhode-island",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4191,6 +4230,7 @@
     "metaDescription": "Run a South Carolina VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the SC DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/south-carolina",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4296,6 +4336,7 @@
     "metaDescription": "Run a South Dakota VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the South Dakota DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/south-dakota",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4406,6 +4447,7 @@
     "metaDescription": "Run a Tennessee VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Tennessee DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/tennessee",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4511,6 +4553,7 @@
     "metaDescription": "Run a Texas VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Texas DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/texas",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4626,6 +4669,7 @@
     "metaDescription": "Run a Utah VIN check to get accurate history for any vehicle. It's a quicker alternative to the Utah DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/utah",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4736,6 +4780,7 @@
     "metaDescription": "Run a Vermont VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Vermont DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/vermont",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4846,6 +4891,7 @@
     "metaDescription": "Run a Virginia VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Virginia DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/virginia",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4951,6 +4997,7 @@
     "metaDescription": "Run a Washington VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Washington DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/washington",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5061,6 +5108,7 @@
     "metaDescription": "Run a West Virginia VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the West Virginia DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/west-virginia",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5171,6 +5219,7 @@
     "metaDescription": "Run a Wisconsin VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Wisconsin DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/wisconsin",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5276,6 +5325,7 @@
     "metaDescription": "Run a Wyoming VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Wyoming DMV VIN check!",
     "canonical": "https://www.chassisvin.com/vin-check/wyoming",
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {

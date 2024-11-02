@@ -6,6 +6,7 @@
     "metaDescription": "Run an Alabama license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Alabama DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/alabama",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -119,6 +120,7 @@
     "metaDescription": "Run a license plate lookup in Alaska to access reliable vehicle history reports instantly. A fast, comprehensive alternative to Alaska DMV records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/alaska",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -197,6 +199,7 @@
     "metaDescription": "Run a comprehensive Arizona license plate lookup to get reliable vehicle history reports instantly. Learn about registration, title status, and more!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/arizona",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -310,6 +313,7 @@
     "metaDescription": "Run an Arkansas license plate lookup for instant access to vehicle history reports. A fast, thorough alternative to AR DMV records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/arkansas",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -428,6 +432,7 @@
     "metaDescription": "Run a California license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the California DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/california",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -536,6 +541,7 @@
     "metaDescription": "Run a Colorado license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Colorado DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/colorado",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -649,6 +655,7 @@
     "metaDescription": "Run a Connecticut license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Connecticut DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/connecticut",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -722,6 +729,7 @@
     "metaDescription": "Run a Delaware license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Delaware DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/delaware",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -840,6 +848,7 @@
     "metaDescription": "Run a Florida license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/florida",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -952,6 +961,7 @@
     "metaDescription": "Run a Georgia license plate lookup for instant access to vehicle history reports. A fast, comprehensive alternative to Georgia DMV records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/georgia",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1070,6 +1080,7 @@
     "metaDescription": "Run a Hawaii license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Hawaii DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/hawaii",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1188,6 +1199,7 @@
     "metaDescription": "Run an Idaho license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Idaho DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/idaho",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1321,6 +1333,7 @@
     "metaDescription": "Run an Illinois license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Illinois DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/illinois",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1459,6 +1472,7 @@
     "metaDescription": "Run an Indiana license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Indiana DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/indiana",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1582,6 +1596,7 @@
     "metaDescription": "Run an Iowa license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Iowa DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/iowa",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1695,6 +1710,7 @@
     "metaDescription": "Run a Kansas license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Kansas DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/kansas",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1808,6 +1824,7 @@
     "metaDescription": "Run a Kentucky license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Kentucky DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/kentucky",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -1921,6 +1938,7 @@
     "metaDescription": "Run a Louisiana license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Louisiana DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/louisiana",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2034,6 +2052,7 @@
     "metaDescription": "Run a Maine license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Maine DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/maine",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2152,6 +2171,7 @@
     "metaDescription": "Run a Maryland license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Maryland DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/maryland",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2265,6 +2285,7 @@
     "metaDescription": "Run a Massachusetts license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Massachusetts DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/massachusetts",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2383,6 +2404,7 @@
     "metaDescription": "Run a Michigan license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Michigan DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/michigan",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2501,6 +2523,7 @@
     "metaDescription": "Run a Minnesota license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Minnesota DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/minnesota",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2634,6 +2657,7 @@
     "metaDescription": "Run a Mississippi license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Mississippi DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/mississippi",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2752,6 +2776,7 @@
     "metaDescription": "Run a Missouri license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Missouri DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/missouri",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -2885,6 +2910,7 @@
     "metaDescription": "Run a Montana license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Montana DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/montana",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3003,6 +3029,7 @@
     "metaDescription": "Run a Nebraska license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Nebraska DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/nebraska",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3116,6 +3143,7 @@
     "metaDescription": "Run a Nevada license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Nevada DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/nevada",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3234,6 +3262,7 @@
     "metaDescription": "Run a New Hampshire license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the New Hampshire DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/new-hampshire",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3352,6 +3381,7 @@
     "metaDescription": "Run a New Jersey license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the New Jersey DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/new-jersey",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3470,6 +3500,7 @@
     "metaDescription": "Run a New Mexico license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the New Mexico DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/new-mexico",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3588,6 +3619,7 @@
     "metaDescription": "Run a New York license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the New York DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/new-york",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3721,6 +3753,7 @@
     "metaDescription": "Run a North Carolina license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the North Carolina DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/north-carolina",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3839,6 +3872,7 @@
     "metaDescription": "Run a North Dakota license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the North Dakota DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/north-dakota",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -3957,6 +3991,7 @@
     "metaDescription": "Run an Ohio license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Ohio DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/ohio",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4075,6 +4110,7 @@
     "metaDescription": "Run an Oklahoma license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Oklahoma DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/oklahoma",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4188,6 +4224,7 @@
     "metaDescription": "Run an Oregon license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Oregon DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/oregon",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4306,6 +4343,7 @@
     "metaDescription": "Run a Pennsylvania license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Pennsylvania DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/pennsylvania",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4424,6 +4462,7 @@
     "metaDescription": "Run a Rhode Island license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Rhode Island DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/rhode-island",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4557,6 +4596,7 @@
     "metaDescription": "Run a South Carolina license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the South Carolina DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/south-carolina",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4690,6 +4730,7 @@
     "metaDescription": "Run a South Dakota license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the South Dakota DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/south-dakota",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4803,6 +4844,7 @@
     "metaDescription": "Run a Tennessee license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Tennessee DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/tennessee",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -4916,6 +4958,7 @@
     "metaDescription": "Run a Texas license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Texas DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/texas",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5034,6 +5077,7 @@
     "metaDescription": "Run a Utah license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Utah DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/utah",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5152,6 +5196,7 @@
     "metaDescription": "Run a Vermont license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Vermont DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/vermont",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5270,6 +5315,7 @@
     "metaDescription": "Run a Virginia license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Virginia DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/virginia",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5388,6 +5434,7 @@
     "metaDescription": "Run a Washington license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Washington DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/washington",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5506,6 +5553,7 @@
     "metaDescription": "Run a West Virginia license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the West Virginia DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/west-virginia",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5624,6 +5672,7 @@
     "metaDescription": "Run a Wisconsin license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Wisconsin DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/wisconsin",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
@@ -5742,6 +5791,7 @@
     "metaDescription": "Run a Wyoming license plate lookup to access reliable vehicle history reports instantly. A faster, comprehensive alternative to the Wyoming DMV's records!",
     "canonical": "https://www.chassisvin.com/license-plate-lookup/wyoming",
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
+    "reportType": "VHR",
     "heroForm": true,
     "sections": [
       {
