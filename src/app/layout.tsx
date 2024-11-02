@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import SaveBanner from "./components/SaveBanner";
 import BackgroundAnimation from "./components/BackgroundAnimation";
+import CombinedSchema from "./components/CombinedSchema";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -44,6 +45,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <CombinedSchema />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-b from-blue-50 to-white min-h-screen`}
       >
