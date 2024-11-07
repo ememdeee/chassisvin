@@ -12,8 +12,8 @@ interface HeroSectionProps {
 
 export default function Component({
   logoUrl = "/ChassisVIN.webp",
-  title = "VIN Number Lookup",
-  description = "Enter your Vehicle Identification Number (VIN) or License Plate to get detailed information about any vehicle.",
+  title = "Cars, Motorcycles, Trucks, Vehicle History by VIN/Chassis",
+  description = "Discover car history with top alternatives to Carfax. Access comprehensive vehicle history reports, including unique auction and sales images, accident details, title branding, theft records, sales data, outstanding recalls, and much more.",
   showForm = true,
   reportType = 'VHR'
 }: HeroSectionProps) {
