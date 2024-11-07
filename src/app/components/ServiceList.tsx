@@ -32,7 +32,7 @@ export default function ServiceList() {
 
   return (
     <div className="container mx-auto py-8">
-      <h1 className="text-3xl font-bold mb-6 text-left">Our Services</h1>
+      <h2 className="text-3xl font-bold mb-6 text-left">Our Services</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {services.map((service, index) => (
           <Link href={service.path} key={index} className="block group">

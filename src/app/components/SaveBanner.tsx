@@ -15,7 +15,7 @@ export default function SaveBanner() {
       }}
     >
       <div className="relative max-w-7xl mx-auto text-center">
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">Save Thousands of Dollars</h2>
+        <p className="text-2xl font-bold text-gray-900 mb-2">Save Thousands of Dollars</p>
         <p className="text-lg text-gray-600 mb-6">Learn everything there is to know about your next car.</p>
         
         <div className="max-w-xl mx-auto">
