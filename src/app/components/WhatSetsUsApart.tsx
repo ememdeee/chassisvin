@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { DollarSign, Database, Globe, Gavel } from 'lucide-react'
+import CustomButton from './CustomButton'
 
 export default function WhatSetsUsApart() {
   const features = [
@@ -11,13 +12,13 @@ export default function WhatSetsUsApart() {
     },
     {
       title: "Exclusive Sales Data",
-      description: "Our vehicle history lookup tool covers VINs from around the globe, giving you access to vehicle histories that other competitors can't match.",
+      description: "View over 70 million unique sales records—data you won't find anywhere else. Make informed decisions with confidence!",
       icon: Database,
       bgColor: "bg-blue-100",
     },
     {
       title: "Worldwide VIN Coverage",
-      description: "View over 70 million unique sales records—data you won't find anywhere else. Make informed decisions with confidence!",
+      description: "Our vehicle history lookup tool covers VINs from around the globe, giving you access to vehicle histories that other competitors can't match.",
       icon: Globe,
       bgColor: "bg-blue-100",
     },
@@ -49,13 +50,12 @@ export default function WhatSetsUsApart() {
               <p className="text-gray-700">
                 {feature.description}
               </p>
-              {feature.title === "Worldwide VIN Coverage" && (
-                <Link href="#" className="text-blue-600 hover:underline mt-2 inline-block">
-                  Learn more about our 70 million unique sales records
-                </Link>
-              )}
             </div>
           ))}
+        </div>
+        
+        <div className="flex justify-center mt-16">
+          <CustomButton href='#' text='Check Vehicle History Now!'/>
         </div>
       </div>
     </section>

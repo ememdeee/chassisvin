@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { ChevronDown, Info } from 'lucide-react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
@@ -16,6 +16,7 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
   const [plateInput, setPlateInput] = useState('')
   const [stateInput, setStateInput] = useState('')
   const [error, setError] = useState<string | null>(null)
+  const [displayedError, setDisplayedError] = useState<string | null>(null)
   const [showVinTooltip, setShowVinTooltip] = useState(false)
   const router = useRouter()
 
@@ -72,6 +73,17 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
     { value: 'WI', label: 'WI - Wisconsin' },
     { value: 'WY', label: 'WY - Wyoming' }
   ];
+
+  useEffect(() => {
+    if (error) {
+      setDisplayedError(error)
+    } else {
+      const timer = setTimeout(() => {
+        setDisplayedError(null)
+      }, 300) // This should match the duration in the className
+      return () => clearTimeout(timer)
+    }
+  }, [error])
 
   const isValidVin = (vin: string) => vin.length == 17
 
@@ -213,11 +225,15 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
           Check {inputType === 'VIN' ? 'VIN' : 'Plate'}
         </button>
       </form>
-      {error && (
-        <div className="mt-2 text-red-500 text-sm">
-          {error}
+      <div 
+        className={`mt-2 overflow-hidden transition-all duration-300 ease-in-out ${
+          error ? 'max-h-20 opacity-100' : 'max-h-0 opacity-0'
+        }`}
+      >
+        <div className="text-red-500 text-sm">
+          {displayedError || '\u00A0'}
         </div>
-      )}
+      </div>
       <div className="mt-2 text-sm text-gray-600 flex flex-wrap items-center">
         <div 
           className="relative inline-block cursor-pointer"

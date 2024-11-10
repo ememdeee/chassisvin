@@ -92,7 +92,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
           <div>
             <Breadcrumb />
             {content.sections.map((section, index) => (
-              <div className="content" key={index}>
+              <div className="content px-4" key={index}>
                 {renderHeading(section)}
                 <SectionContent content={section.content} />
               </div>

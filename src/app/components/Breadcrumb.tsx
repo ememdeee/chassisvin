@@ -46,7 +46,7 @@ const Breadcrumb = () => {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
         />
       </Head>
-      <nav aria-label="Breadcrumb" className="text-sm pb-6 md:pb-8">
+      <nav aria-label="Breadcrumb" className="text-sm px-4 pb-6 md:pb-8">
         <ol className="flex items-center space-x-2" itemScope itemType="https://schema.org/BreadcrumbList">
           {breadcrumbItems.map((item, index) => (
             <li 

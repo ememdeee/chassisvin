@@ -8,6 +8,8 @@ import OfferBanner from './components/OfferBanner'
 import FAQBasic from './components/FAQBasic'
 import VehicleReportSteps from './components/VehicleReportSteps'
 import WhatSetsUsApart from './components/WhatSetsUsApart'
+import ServiceList from './components/ServiceList'
+import UrlList from './components/url-list'
 
 export default function Home() {
 
@@ -48,12 +50,12 @@ export default function Home() {
       <HeroSection />
       {/* Add other sections here */}
       <InfoSection
-        title="Why Check a Vehicle's History?"
+        title="Why Do You Need to Check a Vehicle's History?"
         content={
           <>
             <p>
               Did you know that buyers are{' '}
-              <span className="font-semibold">70% less likely to face major issues</span> after purchase
+              <span className="text-blue-600 font-semibold">75% less likely to face major issues</span> after purchase
               when they check a vehicle&apos;s history? A history check allows them to easily identify
               hidden accidents or title problems, view market value for{' '}
               <span className="text-blue-600 font-semibold">better negotiations</span>, and save money
@@ -61,7 +63,7 @@ export default function Home() {
             </p>
             <p>
               Sellers also benefit. Vehicles with detailed history checks and window stickers tend to{' '}
-              <span className="font-semibold">sell 15% higher and more quickly</span>. When customers
+              <span className="text-blue-600 font-semibold">sell 15% higher and more quickly</span>. When customers
               see vehicle specifications, features, options, and packages on window stickers, they are
               less likely to contest pricing, leading to faster sales.
             </p>
@@ -75,6 +77,9 @@ export default function Home() {
       <WhatSetsUsApart/>
       <Testimonials/>
       <CustomerSupport/>
+      <ServiceList/>
+      <UrlList dataSource='makesList' urlPrefix='vin-decoder' />
+      <UrlList dataSource='statesList' urlPrefix='license-plate-lookup' />
       <OfferBanner/>
       <FAQBasic title="Frequently Asked Questions" items={faqItems} />
     </main>

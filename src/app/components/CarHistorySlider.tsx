@@ -125,7 +125,7 @@ const CarHistorySlider: React.FC = () => {
               </div>
               <h3 className="text-2xl font-semibold mb-4">{tabs[activeTab].title}</h3>
               <p className="mb-6">{tabs[activeTab].content}</p>
-              <CustomButton href='#' text='Check Your Car'/>
+              <CustomButton href='/vin-decoder' text='Check Your Car'/>
             </div>
           </div>
         </div>

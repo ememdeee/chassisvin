@@ -1,5 +1,5 @@
-import React from 'react'
 import { Search, FilePlus, Eye, Check } from 'lucide-react'
+import Link from 'next/link'
 import CustomButton from './CustomButton'
 
 export default function VehicleReportSteps() {
@@ -11,37 +11,60 @@ export default function VehicleReportSteps() {
   ]
 
   return (
-    <section className="bg-blue-50">
-      <div className="max-w-6xl mx-auto px-4 py-12">
-        <div className="mb-10 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">How to get your Vehicle Reports?</h2>
+    <section aria-labelledby="steps-heading">
+      <div className="max-w-6xl mx-auto px-4 py-16 sm:py-24">
+        <div className="mb-12 text-center">
+          <h2 id="steps-heading" className="text-3xl md:text-4xl font-bold mb-4 text-blue-800">
+            How to get your Vehicle Reports?
+          </h2>
           <p className="text-gray-700 max-w-2xl mx-auto">
             Getting a vehicle report is a breeze! Just enter the VIN to access car facts by VIN, including accident history and more. Our full vehicle history reports cover everything from specs and usage history to mileage readings, ensuring you have all the necessary information.
           </p>
         </div>
 
-        <div className="relative mb-10">
-          <div className="absolute left-6 top-8 bottom-8 w-0.5 bg-blue-100 md:left-1/2 md:-ml-0.5"></div>
+        <div className="relative">
+          {/* Timeline line that stops before the last icon */}
+          <div className="absolute left-4 md:left-1/2 top-0 bottom-[44px] w-0.5 bg-blue-200 transform md:-translate-x-1/2" />
 
-          {steps.map((step, index) => (
-            <div 
-              key={index}
-              className={`relative flex flex-col md:flex-row gap-6 mb-8 ${index % 2 === 0 ? 'md:flex-row-reverse' : ''}`}
-            >
-              <div className="flex-1 md:w-1/2"></div>
-              <div className={`w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center shrink-0 z-10 mx-auto md:mx-0 ${index === steps.length - 1 ? 'bg-emerald-500' : ''} transition-all duration-300 ease-in-out hover:scale-110 hover:shadow-lg group`}>
-                <step.icon className="w-6 h-6 text-white transition-transform duration-300 ease-in-out group-hover:scale-110" />
+          <div className="relative space-y-16">
+            {steps.map((step, index) => (
+              <div 
+                key={index} 
+                className={`relative flex flex-col md:flex-row items-start group ${index % 2 === 0 ? 'md:flex-row-reverse' : ''}`}
+              >
+                <div className="flex items-start md:w-1/2 md:justify-end md:pr-8">
+                  <div 
+                    className={`
+                      absolute left-0 md:left-1/2 transform md:-translate-x-1/2
+                      flex-shrink-0 w-10 h-10 md:w-12 md:h-12 rounded-full 
+                      ${index === steps.length - 1 ? 'bg-emerald-500' : 'bg-blue-600'}
+                      text-white shadow-lg z-10 
+                      flex items-center justify-center
+                      transition-all duration-300 ease-in-out group-hover:scale-110 group-hover:rotate-[360deg]
+                    `}
+                  >
+                    <step.icon className="w-5 h-5 md:w-6 md:h-6" />
+                  </div>
+                  <div className="hidden md:block w-full" />
+                </div>
+                <div 
+                  className={`
+                    pl-12 md:pl-0 md:w-1/2 
+                    ${index % 2 === 0 ? 'md:pr-8 md:text-right' : 'md:pl-8'}
+                  `}
+                >
+                  <h3 className="text-lg md:text-xl font-semibold mb-2 text-blue-800">
+                    {`Step ${index + 1}: ${step.title}`}
+                  </h3>
+                  <p className="text-gray-700">{step.description}</p>
+                </div>
               </div>
-              <div className="flex-1 md:w-1/2">
-                <h3 className="text-xl font-semibold mb-2">{`Step ${index + 1}: ${step.title}`}</h3>
-                <p className="text-gray-700">{step.description}</p>
-              </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
 
-        <div className="flex justify-center">
-          <CustomButton href='/vin-decoder' text='Check Vehicle History Now!'/>
+        <div className="flex justify-center mt-16">
+          <CustomButton href='#' text='Check Vehicle History Now!'/>
         </div>
       </div>
     </section>

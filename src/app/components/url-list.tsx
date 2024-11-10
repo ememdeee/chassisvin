@@ -31,7 +31,7 @@ interface UrlListProps {
   dataSource?: string;
 }
 
-export default function Component({ urlPrefix = '/', dataSource = 'makesList' }: UrlListProps) {
+export default function UrlList({ urlPrefix = '/', dataSource = 'makesList' }: UrlListProps) {
   const data = dataSource === 'makesList' ? makesList : statesList
 
   const columns = React.useMemo(() => {
@@ -50,46 +50,48 @@ export default function Component({ urlPrefix = '/', dataSource = 'makesList' }:
   }, [data])
 
   return (
-    <div className="py-6">
-      <h2 className="text-2xl font-bold mb-4">
-        {dataSource === 'makesList' ? 'Other Makes' : dataSource === 'statesList' ? 'Other States' : 'Other Items'}
-      </h2>
-      <div className="hidden lg:grid lg:grid-cols-4 gap-6">
-        {columns.largeColumns.map((column, colIndex) => (
-          <div key={colIndex}>
-            <ul className="space-y-2">
-              {column.map((item) => (
-                <li key={item}>
-                  <Link 
-                    href={`/${urlPrefix ? `${urlPrefix}/` : ''}${item.toLowerCase().replace(/\s+/g, '-')}`} 
-                    className="text-blue-500 hover:underline text-sm"
-                  >
-                    {item}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ))}
+    <section className="bg-white">
+      <div className="max-w-6xl mx-auto py-6 px-4">
+        <h2 className="text-2xl font-bold mb-4">
+          {dataSource === 'makesList' ? 'Other Makes' : dataSource === 'statesList' ? 'Other States' : 'Other Items'}
+        </h2>
+        <div className="hidden lg:grid lg:grid-cols-4 gap-6">
+          {columns.largeColumns.map((column, colIndex) => (
+            <div key={colIndex}>
+              <ul className="space-y-2">
+                {column.map((item) => (
+                  <li key={item}>
+                    <Link 
+                      href={`/${urlPrefix ? `${urlPrefix}/` : ''}${item.toLowerCase().replace(/\s+/g, '-')}`} 
+                      className="text-blue-500 hover:underline text-sm"
+                    >
+                      {item}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+        <div className="grid grid-cols-3 lg:hidden gap-6">
+          {columns.mediumColumns.map((column, colIndex) => (
+            <div key={colIndex}>
+              <ul className="space-y-2">
+                {column.map((item) => (
+                  <li key={item}>
+                    <Link 
+                      href={`/${urlPrefix ? `${urlPrefix}/` : ''}${item.toLowerCase().replace(/\s+/g, '-')}`} 
+                      className="text-blue-500 hover:underline text-sm"
+                    >
+                      {item}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
       </div>
-      <div className="grid grid-cols-3 lg:hidden gap-6">
-        {columns.mediumColumns.map((column, colIndex) => (
-          <div key={colIndex}>
-            <ul className="space-y-2">
-              {column.map((item) => (
-                <li key={item}>
-                  <Link 
-                    href={`/${urlPrefix ? `${urlPrefix}/` : ''}${item.toLowerCase().replace(/\s+/g, '-')}`} 
-                    className="text-blue-500 hover:underline text-sm"
-                  >
-                    {item}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ))}
-      </div>
-    </div>
+    </section>
   )
 }
