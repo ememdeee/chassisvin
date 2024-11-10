@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
+import { Card, CardHeader, CardContent } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 
 interface Vehicle {
@@ -18,7 +18,7 @@ export default function SampleReportSelector({ vehicleData, onSelectVehicle }: S
   return (
     <Card className="mb-4">
       <CardHeader>
-        <CardTitle>Select Sample Report</CardTitle>
+        <span className="text-base font-semibold leading-none tracking-tight">Select Sample Report</span>
       </CardHeader>
       <CardContent>
         <Select defaultValue={vehicleData[0].id} onValueChange={(value) => onSelectVehicle(value)}>

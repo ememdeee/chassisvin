@@ -47,11 +47,11 @@ export default function VehicleReportHeader({ vehicle }: VehicleReportHeaderProp
 
   return (
     <Card className="mb-8" id='report-summary'>
-      <CardHeader className="flex flex-row justify-between items-center">
-        <div>
-          <CardTitle className="text-3xl">Vehicle History Report For</CardTitle>
+      <CardHeader className="flex flex-row flex-wrap-reverse gap-2 justify-between items-center">
+        <h1>
+          <p className="text-3xl font-semibold">Vehicle History Report For </p>
           <p className="text-2xl font-semibold mt-2">VIN# {vehicle.vin}</p>
-        </div>
+        </h1>
         <Image src="/ChassisVIN.webp" alt="ChassisVIN Logo" width={40} height={40} />
       </CardHeader>
       <CardContent>
@@ -91,7 +91,7 @@ export default function VehicleReportHeader({ vehicle }: VehicleReportHeaderProp
                 <span>Excellent</span>
               </div>
             </div>
-            <div className="mt-6 space-y-2 md:space-y-0 space-x-4">
+            <div className="mt-6 flex flex-wrap gap-4">
               <CustomButton
                 text="Download PDF" 
                 onClick={() => alert('PDF download initiated')} 

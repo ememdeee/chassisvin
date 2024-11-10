@@ -69,7 +69,7 @@ export default function ReportSections({ closeSidebar }: ReportSectionsProps) {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Report Sections</CardTitle>
+        <span className="text-base font-semibold leading-none tracking-tight">Report Sections</span>
       </CardHeader>
       <CardContent>
         <ul className="space-y-2">

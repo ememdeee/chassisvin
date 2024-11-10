@@ -39,11 +39,11 @@ const VehicleSummaryGrid: React.FC<VehicleSummaryGridProps> = ({ vehicle }) => {
 
   const renderValue = (value: unknown) => {
     if (typeof value === 'string') {
-      return <p>{value}</p>;
+      return <p className="text-sm sm:text-base">{value}</p>;
     }
     if (Array.isArray(value)) {
       return (
-        <ul>
+        <ul className="text-sm sm:text-base">
           {value.map((item, index) => (
             <li key={index}>
               Owner {index + 1}: {item.lengthOfOwnership}, {item.lastReportedOdometer}
@@ -56,13 +56,13 @@ const VehicleSummaryGrid: React.FC<VehicleSummaryGridProps> = ({ vehicle }) => {
   };
 
   return (
-    <div className="grid grid-cols-3 gap-4 mb-8">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
       {summaryItems.map((item, index) => (
-        <Card key={index}>
+        <Card key={index} className="flex flex-col">
           <CardHeader>
-            <CardTitle className="text-sm">{item.title}</CardTitle>
+            <CardTitle className="text-xs sm:text-sm">{item.title}</CardTitle>
           </CardHeader>
-          <CardContent>
+          <CardContent className="flex-grow">
             {renderValue(item.value)}
           </CardContent>
         </Card>
