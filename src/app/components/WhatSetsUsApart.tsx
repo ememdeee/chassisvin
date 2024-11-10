@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { DollarSign, Database, Globe, Gavel } from 'lucide-react'
 import CustomButton from './CustomButton'
 
