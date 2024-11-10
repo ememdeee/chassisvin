@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
+import { Card, CardHeader, CardContent } from "@/components/ui/card"
 import { Progress } from "@/components/ui/progress"
 import CustomButton from '../components/CustomButton'
 
