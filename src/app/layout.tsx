@@ -59,6 +59,7 @@ export default function RootLayout({
           <SaveBanner/>
           <Footer />
         </div>
+        <Analytics />
       </body>
     </html>
   );
