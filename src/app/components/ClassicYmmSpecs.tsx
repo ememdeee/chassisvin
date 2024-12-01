@@ -54,7 +54,11 @@ export default function ClassicYmmSpecs() {
 
       try {
         console.log('Attempting to load data for slug:', slug)
-        const { default: data } = await import(`@/data/classicYmmt/${slug}.json`) as { default: VehicleData }
+        const response = await fetch(`/classicYmmt/${slug}.json`)
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`)
+        }
+        const data = await response.json()
         console.log('Data loaded successfully:', data)
         setVehicleData(data)
         setSelectedTrim(data.trims[0])
