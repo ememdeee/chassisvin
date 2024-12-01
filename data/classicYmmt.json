@@ -184,7 +184,7 @@
         "description": "Explore the timeless design and performance of the 1955 Chevrolet Bel-Air, a true symbol of American automotive history. Learn about its rich legacy, famous owners, and how to determine the value of a Bel-Air.",
         "metaTitle": "1955 Chevrolet Bel-Air | Iconic American Classic with Rich Legacy",
         "metaDescription": "Discover the 1955 Chevrolet Bel-Air, featuring stunning design, powerful V8 engine options, and its cultural significance. Learn more about its history, famous owners, and pricing.",
-        "canonical": "https://www.chassisvin.com/1955-chevrolet-bel-air",
+        "canonical": "https://www.chassisvin.com/classic-lookup/1955-chevrolet-bel-air",
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
@@ -503,7 +503,7 @@
         "description": "Explore the history, market value, and features of the 1951 Hudson Hornet, a car that dominated NASCAR and became a timeless classic.",
         "metaTitle": "1951 Hudson Hornet | Explore Its Racing Legacy and Market Value",
         "metaDescription": "Learn about the 1951 Hudson Hornet's history, iconic design, notable figures associated with it, market value, and more. Get your build sheet and VIN report today!",
-        "canonical": "https://www.chassisvin.com/1951-hudson-hornet",
+        "canonical": "https://www.chassisvin.com/classic-lookup/1951-hudson-hornet",
         "dataSources": [
         {"source": "classicList", "prefix": "classic-lookup"}
         ],
@@ -576,7 +576,7 @@
         "description": "Explore the legendary 1969 Pontiac GTO, the muscle car that became an icon. Learn about its powerful features, VIN decoding, history, and collector's value.",
         "metaTitle": "1969 Pontiac GTO | History, Features, and Market Value",
         "metaDescription": "Discover the history and value of the 1969 Pontiac GTO, including VIN decoding, build sheet information, and rare collector details about this iconic muscle car.",
-        "canonical": "https://www.chassisvin.com/1969-pontiac-gto",
+        "canonical": "https://www.chassisvin.com/classic-lookup/1969-pontiac-gto",
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
@@ -1156,7 +1156,7 @@
         "description": "Explore the iconic 1969 Ford Mustang, its history, market value, and famous owners. Learn about its performance specs, and discover hidden gems with VIN decoding and build sheet tools.",
         "metaTitle": "1969 Ford Mustang | Legendary Muscle Car of the 1960s",
         "metaDescription": "The 1969 Ford Mustang, a classic American muscle car, boasts powerful engine options, striking design, and a strong cultural legacy. Discover the Mustang’s history, market value, and how to access its build sheet and VIN decoder.",
-        "canonical": "https://www.chassisvin.com/1969-ford-mustang",
+        "canonical": "https://www.chassisvin.com/classic-lookup/1969-ford-mustang",
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
@@ -1280,49 +1280,6 @@
             "question": "How big is the 1967 Mercury Cougar's fuel tank?",
             "answer": "The 1967 Mercury Cougar features a 16-gallon fuel tank, designed for long-distance cruising. It includes essential components like a drain plug, locking ring, and gasket to ensure reliability and convenience for owners."
             }
-        ]
-        },
-    "example-page": {
-        "title": "Example Page",
-        "description": "Comprehensive Content Demonstration",
-        "metaTitle": "Example Meta Title | Showcasing Various Content Structures",
-        "metaDescription": "This example page demonstrates different content structures including paragraphs, lists, and tables, providing a comprehensive overview of possible content layouts.",
-        "canonical": "https://www.chassisvin.com/classic-vin-lookup/example-page",
-        "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
-        "reportType": "VHR",
-        "heroForm": true,
-        "tags": ["specs"],
-        "sections": [
-        {
-            "heading": "What is This Example?",
-            "headingLevel": "h2",
-            "content": "<p>This is a sample section content. It demonstrates how to structure the content for each section. You can include <a href='/example-link'>links</a> within the content as needed.</p><p>Here's an example of an unordered list:</p><ul><li>First item in the list</li><li>Second item with a <a href='/nested-link'>nested link</a></li><li>Third item in the list</li></ul>"
-        },
-        {
-            "heading": "Why Use This Example?",
-            "headingLevel": "h3",
-            "content": "<p>This second section shows how multiple sections can be included. It's useful for organizing different aspects of your content and can include features like <a href='/another-example'>another link</a> as well.</p><p>Here's an example of an ordered list:</p><ol><li>First step in the process</li><li>Second step with <strong>emphasized text</strong></li><li>Third and final step</li></ol>"
-        },
-        {
-            "heading": "Table Example",
-            "headingLevel": "h4",
-            "content": "<p>Tables can be used to display structured data. Here's an example:</p><table><thead><tr><th>Header 1</th><th>Header 2</th><th>Header 3</th></tr></thead><tbody><tr><td>Row 1, Cell 1</td><td>Row 1, Cell 2</td><td>Row 1, Cell 3</td></tr><tr><td>Row 2, Cell 1</td><td>Row 2, Cell 2</td><td>Row 2, Cell 3</td></tr><tr><td>Row 3, Cell 1</td><td>Row 3, Cell 2</td><td>Row 3, Cell 3</td></tr></tbody></table>"
-        },
-        {
-            "heading": "Combined Example",
-            "headingLevel": "h2",
-            "content": "<p>This section demonstrates how different HTML elements can be combined:</p><ul><li>List item with a <a href='/link-in-list'>link</a></li><li>List item with nested content:<ul><li>Nested list item 1</li><li>Nested list item 2</li></ul></li><li>List item with a table:<table><tr><th>Column 1</th><th>Column 2</th></tr><tr><td>Data 1</td><td>Data 2</td></tr></table></li></ul>"
-        }
-        ],
-        "faqs": [
-        {
-            "question": "What is the purpose of this example page?",
-            "answer": "This example page demonstrates various content structures and layouts that can be used in web development, including paragraphs, lists, tables, and FAQ sections."
-        },
-        {
-            "question": "Can I use this example in my own projects?",
-            "answer": "Yes, you can use this example as a reference or starting point for your own projects. It's designed to showcase different HTML elements and content structures."
-        }
         ]
     }
 }
