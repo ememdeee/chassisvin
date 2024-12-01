@@ -184,7 +184,7 @@
         "description": "Explore the timeless design and performance of the 1955 Chevrolet Bel-Air, a true symbol of American automotive history. Learn about its rich legacy, famous owners, and how to determine the value of a Bel-Air.",
         "metaTitle": "1955 Chevrolet Bel-Air | Iconic American Classic with Rich Legacy",
         "metaDescription": "Discover the 1955 Chevrolet Bel-Air, featuring stunning design, powerful V8 engine options, and its cultural significance. Learn more about its history, famous owners, and pricing.",
-        "canonical": "https://www.chassisvin.com/classic-lookup/1955-chevrolet-bel-air",
+        "canonical": "https://www.chassisvin.com/classic-lookup/1955-chevy-bel-air",
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
@@ -320,7 +320,7 @@
             {
             "heading": "The Iconic 1970 Chevrolet Monte Carlo",
             "headingLevel": "h2",
-            "content": "<p>The 1970 Chevrolet Monte Carlo is a perfect blend of personal luxury and muscle car performance. Its long, sleek hood, elegant lines, and powerful big-block V8 engines offer a mix of sophistication and raw power. If you plan to own this iconic vehicle, ensure to decode the <a href='/vin-decoder'>VIN</a> and access the <a href='/build-sheet-by-vin'>build sheet</a> to confirm the original parts and guarantee authenticity. A <a href='/vehicle-history-report'>vehicle history lookup</a> can also help you make a confident purchase, ensuring peace of mind when driving.</p>"
+            "content": "<p>The 1970 Chevrolet Monte Carlo is a perfect blend of personal luxury and muscle car performance. Its long, sleek hood, elegant lines, and powerful big-block V8 engines offer a mix of sophistication and raw power. If you plan to own this iconic vehicle, ensure to decode the <a href='/vin-decoder'>VIN</a> and access the <a href='/build-sheet-by-vin'>build sheet</a> to confirm the original parts and guarantee authenticity. A <a href='/vin-decoder'>vehicle history lookup</a> can also help you make a confident purchase, ensuring peace of mind when driving.</p>"
             },
             {
             "heading": "1970 Monte Carlo Market Highlights",
@@ -373,7 +373,7 @@
             },
             {
             "question": "Is there a Carfax report for a 1970 Monte Carlo?",
-            "answer": "Carfax does not support classic cars with 5-13 digits. For a comprehensive history check of a 1970 Monte Carlo, use the <a href='/vehicle-history-report'>Classic Vehicle History Report</a>, which checks title, lien status, and more."
+            "answer": "Carfax does not support classic cars with 5-13 digits. For a comprehensive history check of a 1970 Monte Carlo, use the <a href='/classic-lookup'>Classic Vehicle History Report</a>, which checks title, lien status, and more."
             },
             {
             "question": "What does SS mean on a Monte Carlo SS model?",

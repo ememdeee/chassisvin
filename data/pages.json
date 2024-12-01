@@ -812,7 +812,7 @@
     "description": "Discover trusted and detailed vehicle history reports for classic cars with VINs under 17 digits. Learn everything from title history to factory specifications, and access valuable resources for your classic car research.",
     "metaTitle": "Classic Car VIN Lookup | Trusted Vehicle History Reports",
     "metaDescription": "Explore how to decode, lookup, and verify the history of classic cars with VINs under 17 digits. Learn about trusted data sources and detailed reports covering title history, theft records, and more.",
-    "canonical": "https://www.chassisvin.com/classic-vin-lookup",
+    "canonical": "https://www.chassisvin.com/classic-lookup",
     "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
