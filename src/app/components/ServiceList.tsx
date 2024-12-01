@@ -1,5 +1,5 @@
 import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
-import { Printer, Car, Search, FileSearch } from "lucide-react"
+import { Printer, Car, Search, FileSearch, Clock, FileText } from 'lucide-react'
 import Link from "next/link"
 
 export default function ServiceList() {
@@ -17,6 +17,12 @@ export default function ServiceList() {
       path: "/vin-decoder",
     },
     {
+      title: "Classic VIN Lookup",
+      description: "Decode VINs for classic and vintage vehicles",
+      icon: Clock,
+      path: "/classic-lookup",
+    },
+    {
       title: "License Plate Lookup",
       description: "Search license plate information",
       icon: Search,
@@ -27,6 +33,12 @@ export default function ServiceList() {
       description: "Decode any vehicle in US states",
       icon: FileSearch,
       path: "/vin-check",
+    },
+    {
+      title: "Build Sheet by VIN",
+      description: "Get detailed build sheet for your vehicle",
+      icon: FileText,
+      path: "/build-sheet-by-vin",
     },
   ]
 

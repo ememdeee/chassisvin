@@ -1,0 +1,2364 @@
+{
+    "year": 1970,
+    "make": "pontiac",
+    "model": "LeMans Series 23500",
+    "title": "1970 Pontiac LeMans Series 23500",
+    "trims": [
+        "Hardtop Coupe",
+        "Coupe",
+        "Station Wagon",
+        "Hardtop",
+        "Sedan"
+    ],
+    "data": [
+        {
+            "Hardtop Coupe": [
+                {
+                    "msrp": {
+                        "section": "MSRP",
+                        "items": [
+                            {
+                                "title": "Msrp",
+                                "value": "$2,792.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "market_value": {
+                        "section": "Market Value",
+                        "items": [
+                            {
+                                "title": "Outstanding",
+                                "value": "$24,500"
+                            },
+                            {
+                                "title": "Clean",
+                                "value": "$18,600"
+                            },
+                            {
+                                "title": "Average",
+                                "value": "$12,000"
+                            },
+                            {
+                                "title": "Rough",
+                                "value": "$4,900"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "body": {
+                        "section": "Body",
+                        "items": [
+                            {
+                                "title": "Body Maker",
+                                "value": "Fisher"
+                            },
+                            {
+                                "title": "No. Of Doors",
+                                "value": "2"
+                            },
+                            {
+                                "title": "Model Number",
+                                "value": "3537"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dimensions": {
+                        "section": "Dimensions",
+                        "items": [
+                            {
+                                "title": "Length",
+                                "value": "202.5 inches"
+                            },
+                            {
+                                "title": "Width",
+                                "value": "76.7 inches"
+                            },
+                            {
+                                "title": "Height",
+                                "value": "52 inches"
+                            },
+                            {
+                                "title": "Wheelbase",
+                                "value": "116 inches"
+                            },
+                            {
+                                "title": "Weight",
+                                "value": "3,265lbs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "engine": {
+                        "section": "Engine",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Inline 6, OHV, Single downdraft, Fully synchronous 3-speed manual"
+                            },
+                            {
+                                "title": "Displacement",
+                                "value": "250 cu. in."
+                            },
+                            {
+                                "title": "Cylinders",
+                                "value": "6"
+                            },
+                            {
+                                "title": "Bore And Stroke",
+                                "value": "3.875 & 3.53 inches"
+                            },
+                            {
+                                "title": "Compression Ratio Standard",
+                                "value": "8.5 to 1"
+                            },
+                            {
+                                "title": "Horsepower Brake",
+                                "value": "155@4200"
+                            },
+                            {
+                                "title": "Horsepower Rated",
+                                "value": "36"
+                            },
+                            {
+                                "title": "Torque",
+                                "value": "235@1600"
+                            },
+                            {
+                                "title": "Valve Lifters",
+                                "value": "Hydraulic"
+                            },
+                            {
+                                "title": "Lubrication",
+                                "value": "Pressure to all bearings excluding wrist pin"
+                            },
+                            {
+                                "title": "Carburetor Make",
+                                "value": "Rochester"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "transmision": {
+                        "section": "Transmision",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "3.5 Pints"
+                            },
+                            {
+                                "title": "Drive",
+                                "value": "Rear wheel drive"
+                            },
+                            {
+                                "title": "Number Of Gears",
+                                "value": "3"
+                            },
+                            {
+                                "title": "Gear Ratios First",
+                                "value": "2.85 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Second",
+                                "value": "1.68"
+                            },
+                            {
+                                "title": "Gear Ratios Third",
+                                "value": "1 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Fourth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Fifth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Reverse",
+                                "value": "2.95"
+                            },
+                            {
+                                "title": "Clutch Type",
+                                "value": "Single plate dry disc"
+                            },
+                            {
+                                "title": "Clutch Size",
+                                "value": "9.125 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "axle": {
+                        "section": "Axle",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Semifloating"
+                            },
+                            {
+                                "title": "Differential Type",
+                                "value": "Hypoid"
+                            },
+                            {
+                                "title": "Differential Ratio",
+                                "value": "3.23 to 1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "suspension": {
+                        "section": "Suspension",
+                        "items": [
+                            {
+                                "title": "Front",
+                                "value": "Independent ball joint with coil springs"
+                            },
+                            {
+                                "title": "Rear",
+                                "value": "Coil link"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "brakes": {
+                        "section": "Brakes",
+                        "items": [
+                            {
+                                "title": "Service Type",
+                                "value": "Hydraulic, self-adjusting drums"
+                            },
+                            {
+                                "title": "Service Front Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Service Rear Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Emergency Type",
+                                "value": "Rear service brakes"
+                            },
+                            {
+                                "title": "Emergency Size",
+                                "value": "9.5 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fuel": {
+                        "section": "Fuel",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Regular"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "wheel_&_tires": {
+                        "section": "Wheel & Tires",
+                        "items": [
+                            {
+                                "title": "Tire Size",
+                                "value": "F78 x 14"
+                            },
+                            {
+                                "title": "Spare Location",
+                                "value": "Trunk"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "capacities": {
+                        "section": "Capacities",
+                        "items": [
+                            {
+                                "title": "Fuel",
+                                "value": "21.5 Gallons"
+                            },
+                            {
+                                "title": "Oil",
+                                "value": "4 Quarts"
+                            },
+                            {
+                                "title": "Rear Differential",
+                                "value": "3 Pints"
+                            },
+                            {
+                                "title": "Front Differential",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Transfer Case",
+                                "value": "Not applicable"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "VIN/ID": {
+                        "section": "VID/ID",
+                        "items": [
+                            {
+                                "title": "Serial Number",
+                                "value": "Starting 235370a600001"
+                            },
+                            {
+                                "title": "Description Total Digits",
+                                "value": "13"
+                            },
+                            {
+                                "title": "Description Digits 1",
+                                "value": "Make"
+                            },
+                            {
+                                "title": "Description Digits 2-3",
+                                "value": "Series"
+                            },
+                            {
+                                "title": "Description Digits 4-5",
+                                "value": "Body style"
+                            },
+                            {
+                                "title": "Description Digits 6",
+                                "value": "Model year"
+                            },
+                            {
+                                "title": "Description Digits 7",
+                                "value": "Assembly plant"
+                            },
+                            {
+                                "title": "Description Digits 8-13",
+                                "value": "Production number"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "exterior_colors": {
+                        "section": "Exterior Colors",
+                        "items": [
+                            {
+                                "title": "Availability",
+                                "value": "Polar White"
+                            },
+                            {
+                                "title": "Color 1",
+                                "value": "Palladium Silver Metallic"
+                            },
+                            {
+                                "title": "Color 2",
+                                "value": "Starlight Black"
+                            },
+                            {
+                                "title": "Color 3",
+                                "value": "Bermuda Blue Metallic"
+                            },
+                            {
+                                "title": "Color 4",
+                                "value": "Lucerne Blue Metallic"
+                            },
+                            {
+                                "title": "Color 5",
+                                "value": "Atoll Blue Metallic"
+                            },
+                            {
+                                "title": "Color 6",
+                                "value": "Mint Turquoise Metallic"
+                            },
+                            {
+                                "title": "Color 7",
+                                "value": "Keylime Green Metallic"
+                            },
+                            {
+                                "title": "Color 8",
+                                "value": "Palisade Green Metallic"
+                            },
+                            {
+                                "title": "Color 9",
+                                "value": "Verdoro Green Metallic"
+                            },
+                            {
+                                "title": "Color 10",
+                                "value": "Pepper Green Metallic"
+                            },
+                            {
+                                "title": "Color 11",
+                                "value": "Sierra Yellow"
+                            },
+                            {
+                                "title": "Color 12",
+                                "value": "Coronado Gold Metallic"
+                            },
+                            {
+                                "title": "Color 13",
+                                "value": "Baja Gold Metallic"
+                            },
+                            {
+                                "title": "Color 14",
+                                "value": "Granada Gold Metallic"
+                            },
+                            {
+                                "title": "Color 15",
+                                "value": "Palomino Copper Metallic"
+                            },
+                            {
+                                "title": "Color 16",
+                                "value": "Castillian Bronze Metallic"
+                            },
+                            {
+                                "title": "Color 17",
+                                "value": "Cardinal Red"
+                            },
+                            {
+                                "title": "Color 18",
+                                "value": "Burgandy Metallic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "optional_equipment": {
+                        "section": "Optional Equipment",
+                        "items": [
+                            {
+                                "title": "Hardtop Coupe",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Turbo Hydramatic Automatic Transmission",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "400 Cu. In. V8 Engine",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Windows",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Air Conditioning",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Brakes",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Steering",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Seats",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Radio",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Front Disc Rear Drum Brakes",
+                                "value": "Optional"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Coupe": [
+                {
+                    "msrp": {
+                        "section": "MSRP",
+                        "items": [
+                            {
+                                "title": "Msrp",
+                                "value": "$2,735.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "market_value": {
+                        "section": "Market Value",
+                        "items": [
+                            {
+                                "title": "Outstanding",
+                                "value": "$25,500"
+                            },
+                            {
+                                "title": "Clean",
+                                "value": "$18,600"
+                            },
+                            {
+                                "title": "Average",
+                                "value": "$10,000"
+                            },
+                            {
+                                "title": "Rough",
+                                "value": "$4,900"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "body": {
+                        "section": "Body",
+                        "items": [
+                            {
+                                "title": "Body Maker",
+                                "value": "Fisher"
+                            },
+                            {
+                                "title": "No. Of Doors",
+                                "value": "2"
+                            },
+                            {
+                                "title": "Model Number",
+                                "value": "3527"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dimensions": {
+                        "section": "Dimensions",
+                        "items": [
+                            {
+                                "title": "Length",
+                                "value": "202.5 inches"
+                            },
+                            {
+                                "title": "Width",
+                                "value": "76.7 inches"
+                            },
+                            {
+                                "title": "Height",
+                                "value": "52 inches"
+                            },
+                            {
+                                "title": "Wheelbase",
+                                "value": "116 inches"
+                            },
+                            {
+                                "title": "Weight",
+                                "value": "3,240lbs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "engine": {
+                        "section": "Engine",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Inline 6, OHV, Single downdraft, Fully synchronous 3-speed manual"
+                            },
+                            {
+                                "title": "Displacement",
+                                "value": "250 cu. in."
+                            },
+                            {
+                                "title": "Cylinders",
+                                "value": "6"
+                            },
+                            {
+                                "title": "Bore And Stroke",
+                                "value": "3.875 & 3.53 inches"
+                            },
+                            {
+                                "title": "Compression Ratio Standard",
+                                "value": "8.5 to 1"
+                            },
+                            {
+                                "title": "Horsepower Brake",
+                                "value": "155@4200"
+                            },
+                            {
+                                "title": "Horsepower Rated",
+                                "value": "36"
+                            },
+                            {
+                                "title": "Torque",
+                                "value": "235@1600"
+                            },
+                            {
+                                "title": "Valve Lifters",
+                                "value": "Hydraulic"
+                            },
+                            {
+                                "title": "Lubrication",
+                                "value": "Pressure to all bearings excluding wrist pin"
+                            },
+                            {
+                                "title": "Carburetor Make",
+                                "value": "Rochester"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "transmision": {
+                        "section": "Transmision",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "3.5 Pints"
+                            },
+                            {
+                                "title": "Drive",
+                                "value": "Rear wheel drive"
+                            },
+                            {
+                                "title": "Number Of Gears",
+                                "value": "3"
+                            },
+                            {
+                                "title": "Gear Ratios First",
+                                "value": "2.85 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Second",
+                                "value": "1.68"
+                            },
+                            {
+                                "title": "Gear Ratios Third",
+                                "value": "1 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Fourth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Fifth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Reverse",
+                                "value": "2.95"
+                            },
+                            {
+                                "title": "Clutch Type",
+                                "value": "Single plate dry disc"
+                            },
+                            {
+                                "title": "Clutch Size",
+                                "value": "9.125 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "axle": {
+                        "section": "Axle",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Semifloating"
+                            },
+                            {
+                                "title": "Differential Type",
+                                "value": "Hypoid"
+                            },
+                            {
+                                "title": "Differential Ratio",
+                                "value": "3.23 to 1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "suspension": {
+                        "section": "Suspension",
+                        "items": [
+                            {
+                                "title": "Front",
+                                "value": "Independent ball joint with coil springs"
+                            },
+                            {
+                                "title": "Rear",
+                                "value": "Coil link"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "brakes": {
+                        "section": "Brakes",
+                        "items": [
+                            {
+                                "title": "Service Type",
+                                "value": "Hydraulic, self-adjusting drums"
+                            },
+                            {
+                                "title": "Service Front Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Service Rear Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Emergency Type",
+                                "value": "Rear service brakes"
+                            },
+                            {
+                                "title": "Emergency Size",
+                                "value": "9.5 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fuel": {
+                        "section": "Fuel",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Regular"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "wheel_&_tires": {
+                        "section": "Wheel & Tires",
+                        "items": [
+                            {
+                                "title": "Tire Size",
+                                "value": "F78 x 14"
+                            },
+                            {
+                                "title": "Spare Location",
+                                "value": "Trunk"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "capacities": {
+                        "section": "Capacities",
+                        "items": [
+                            {
+                                "title": "Fuel",
+                                "value": "21.5 Gallons"
+                            },
+                            {
+                                "title": "Oil",
+                                "value": "4 Quarts"
+                            },
+                            {
+                                "title": "Rear Differential",
+                                "value": "3 Pints"
+                            },
+                            {
+                                "title": "Front Differential",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Transfer Case",
+                                "value": "Not applicable"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "VIN/ID": {
+                        "section": "VID/ID",
+                        "items": [
+                            {
+                                "title": "Serial Number",
+                                "value": "Starting 235270a600001"
+                            },
+                            {
+                                "title": "Description Total Digits",
+                                "value": "13"
+                            },
+                            {
+                                "title": "Description Digits 1",
+                                "value": "Make"
+                            },
+                            {
+                                "title": "Description Digits 2-3",
+                                "value": "Series"
+                            },
+                            {
+                                "title": "Description Digits 4-5",
+                                "value": "Body style"
+                            },
+                            {
+                                "title": "Description Digits 6",
+                                "value": "Model year"
+                            },
+                            {
+                                "title": "Description Digits 7",
+                                "value": "Assembly plant"
+                            },
+                            {
+                                "title": "Description Digits 8-13",
+                                "value": "Production number"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "exterior_colors": {
+                        "section": "Exterior Colors",
+                        "items": [
+                            {
+                                "title": "Availability",
+                                "value": "Polar White"
+                            },
+                            {
+                                "title": "Color 1",
+                                "value": "Palladium Silver Metallic"
+                            },
+                            {
+                                "title": "Color 2",
+                                "value": "Starlight Black"
+                            },
+                            {
+                                "title": "Color 3",
+                                "value": "Bermuda Blue Metallic"
+                            },
+                            {
+                                "title": "Color 4",
+                                "value": "Lucerne Blue Metallic"
+                            },
+                            {
+                                "title": "Color 5",
+                                "value": "Atoll Blue Metallic"
+                            },
+                            {
+                                "title": "Color 6",
+                                "value": "Mint Turquoise Metallic"
+                            },
+                            {
+                                "title": "Color 7",
+                                "value": "Keylime Green Metallic"
+                            },
+                            {
+                                "title": "Color 8",
+                                "value": "Palisade Green Metallic"
+                            },
+                            {
+                                "title": "Color 9",
+                                "value": "Verdoro Green Metallic"
+                            },
+                            {
+                                "title": "Color 10",
+                                "value": "Pepper Green Metallic"
+                            },
+                            {
+                                "title": "Color 11",
+                                "value": "Sierra Yellow"
+                            },
+                            {
+                                "title": "Color 12",
+                                "value": "Coronado Gold Metallic"
+                            },
+                            {
+                                "title": "Color 13",
+                                "value": "Baja Gold Metallic"
+                            },
+                            {
+                                "title": "Color 14",
+                                "value": "Granada Gold Metallic"
+                            },
+                            {
+                                "title": "Color 15",
+                                "value": "Palomino Copper Metallic"
+                            },
+                            {
+                                "title": "Color 16",
+                                "value": "Castillian Bronze Metallic"
+                            },
+                            {
+                                "title": "Color 17",
+                                "value": "Cardinal Red"
+                            },
+                            {
+                                "title": "Color 18",
+                                "value": "Burgandy Metallic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "optional_equipment": {
+                        "section": "Optional Equipment",
+                        "items": [
+                            {
+                                "title": "Coupe",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Turbo Hydramatic Automatic Transmission",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "400 Cu. In. V8 Engine",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Windows",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Air Conditioning",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Brakes",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Steering",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Seats",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Radio",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Front Disc Rear Drum Brakes",
+                                "value": "Optional"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Station Wagon": [
+                {
+                    "msrp": {
+                        "section": "MSRP",
+                        "items": [
+                            {
+                                "title": "Msrp",
+                                "value": "$3,092.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "market_value": {
+                        "section": "Market Value",
+                        "items": [
+                            {
+                                "title": "Outstanding",
+                                "value": "$25,500"
+                            },
+                            {
+                                "title": "Clean",
+                                "value": "$18,600"
+                            },
+                            {
+                                "title": "Average",
+                                "value": "$10,000"
+                            },
+                            {
+                                "title": "Rough",
+                                "value": "$4,900"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "body": {
+                        "section": "Body",
+                        "items": [
+                            {
+                                "title": "Body Maker",
+                                "value": "Fisher"
+                            },
+                            {
+                                "title": "No. Of Doors",
+                                "value": "4"
+                            },
+                            {
+                                "title": "Passengers",
+                                "value": "6"
+                            },
+                            {
+                                "title": "Model Number",
+                                "value": "3535"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dimensions": {
+                        "section": "Dimensions",
+                        "items": [
+                            {
+                                "title": "Length",
+                                "value": "210.6 inches"
+                            },
+                            {
+                                "title": "Width",
+                                "value": "76.7 inches"
+                            },
+                            {
+                                "title": "Height",
+                                "value": "54.5 inches"
+                            },
+                            {
+                                "title": "Wheelbase",
+                                "value": "116 inches"
+                            },
+                            {
+                                "title": "Weight",
+                                "value": "3,587lbs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "engine": {
+                        "section": "Engine",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Inline 6, OHV, Single downdraft, Fully synchronous 3-speed manual"
+                            },
+                            {
+                                "title": "Displacement",
+                                "value": "250 cu. in."
+                            },
+                            {
+                                "title": "Cylinders",
+                                "value": "6"
+                            },
+                            {
+                                "title": "Bore And Stroke",
+                                "value": "3.875 & 3.53 inches"
+                            },
+                            {
+                                "title": "Compression Ratio Standard",
+                                "value": "8.5 to 1"
+                            },
+                            {
+                                "title": "Horsepower Brake",
+                                "value": "155@4200"
+                            },
+                            {
+                                "title": "Horsepower Rated",
+                                "value": "36"
+                            },
+                            {
+                                "title": "Torque",
+                                "value": "235@1600"
+                            },
+                            {
+                                "title": "Valve Lifters",
+                                "value": "Hydraulic"
+                            },
+                            {
+                                "title": "Lubrication",
+                                "value": "Pressure to all bearings excluding wrist pin"
+                            },
+                            {
+                                "title": "Carburetor Make",
+                                "value": "Rochester"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "transmision": {
+                        "section": "Transmision",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "3.5 Pints"
+                            },
+                            {
+                                "title": "Drive",
+                                "value": "Rear wheel drive"
+                            },
+                            {
+                                "title": "Number Of Gears",
+                                "value": "3"
+                            },
+                            {
+                                "title": "Gear Ratios First",
+                                "value": "2.85 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Second",
+                                "value": "1.68"
+                            },
+                            {
+                                "title": "Gear Ratios Third",
+                                "value": "1 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Fourth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Fifth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Reverse",
+                                "value": "2.95"
+                            },
+                            {
+                                "title": "Clutch Type",
+                                "value": "Single plate dry disc"
+                            },
+                            {
+                                "title": "Clutch Size",
+                                "value": "9.125 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "axle": {
+                        "section": "Axle",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Semifloating"
+                            },
+                            {
+                                "title": "Differential Type",
+                                "value": "Hypoid"
+                            },
+                            {
+                                "title": "Differential Ratio",
+                                "value": "3.23 to 1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "suspension": {
+                        "section": "Suspension",
+                        "items": [
+                            {
+                                "title": "Front",
+                                "value": "Independent ball joint with coil springs"
+                            },
+                            {
+                                "title": "Rear",
+                                "value": "Coil link"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "brakes": {
+                        "section": "Brakes",
+                        "items": [
+                            {
+                                "title": "Service Type",
+                                "value": "Hydraulic, self-adjusting drums"
+                            },
+                            {
+                                "title": "Service Front Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Service Rear Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Emergency Type",
+                                "value": "Rear service brakes"
+                            },
+                            {
+                                "title": "Emergency Size",
+                                "value": "9.5 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fuel": {
+                        "section": "Fuel",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Regular"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "wheel_&_tires": {
+                        "section": "Wheel & Tires",
+                        "items": [
+                            {
+                                "title": "Tire Size",
+                                "value": "G78 x 14"
+                            },
+                            {
+                                "title": "Spare Location",
+                                "value": "Trunk"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "capacities": {
+                        "section": "Capacities",
+                        "items": [
+                            {
+                                "title": "Fuel",
+                                "value": "21.5 Gallons"
+                            },
+                            {
+                                "title": "Oil",
+                                "value": "4 Quarts"
+                            },
+                            {
+                                "title": "Rear Differential",
+                                "value": "3 Pints"
+                            },
+                            {
+                                "title": "Front Differential",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Transfer Case",
+                                "value": "Not applicable"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "VIN/ID": {
+                        "section": "VID/ID",
+                        "items": [
+                            {
+                                "title": "Serial Number",
+                                "value": "Starting 235350a600001"
+                            },
+                            {
+                                "title": "Description Total Digits",
+                                "value": "13"
+                            },
+                            {
+                                "title": "Description Digits 1",
+                                "value": "Make"
+                            },
+                            {
+                                "title": "Description Digits 2-3",
+                                "value": "Series"
+                            },
+                            {
+                                "title": "Description Digits 4-5",
+                                "value": "Body style"
+                            },
+                            {
+                                "title": "Description Digits 6",
+                                "value": "Model year"
+                            },
+                            {
+                                "title": "Description Digits 7",
+                                "value": "Assembly plant"
+                            },
+                            {
+                                "title": "Description Digits 8-13",
+                                "value": "Production number"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "exterior_colors": {
+                        "section": "Exterior Colors",
+                        "items": [
+                            {
+                                "title": "Availability",
+                                "value": "Polar White"
+                            },
+                            {
+                                "title": "Color 1",
+                                "value": "Palladium Silver Metallic"
+                            },
+                            {
+                                "title": "Color 2",
+                                "value": "Starlight Black"
+                            },
+                            {
+                                "title": "Color 3",
+                                "value": "Bermuda Blue Metallic"
+                            },
+                            {
+                                "title": "Color 4",
+                                "value": "Lucerne Blue Metallic"
+                            },
+                            {
+                                "title": "Color 5",
+                                "value": "Atoll Blue Metallic"
+                            },
+                            {
+                                "title": "Color 6",
+                                "value": "Mint Turquoise Metallic"
+                            },
+                            {
+                                "title": "Color 7",
+                                "value": "Keylime Green Metallic"
+                            },
+                            {
+                                "title": "Color 8",
+                                "value": "Palisade Green Metallic"
+                            },
+                            {
+                                "title": "Color 9",
+                                "value": "Verdoro Green Metallic"
+                            },
+                            {
+                                "title": "Color 10",
+                                "value": "Pepper Green Metallic"
+                            },
+                            {
+                                "title": "Color 11",
+                                "value": "Sierra Yellow"
+                            },
+                            {
+                                "title": "Color 12",
+                                "value": "Coronado Gold Metallic"
+                            },
+                            {
+                                "title": "Color 13",
+                                "value": "Baja Gold Metallic"
+                            },
+                            {
+                                "title": "Color 14",
+                                "value": "Granada Gold Metallic"
+                            },
+                            {
+                                "title": "Color 15",
+                                "value": "Palomino Copper Metallic"
+                            },
+                            {
+                                "title": "Color 16",
+                                "value": "Castillian Bronze Metallic"
+                            },
+                            {
+                                "title": "Color 17",
+                                "value": "Cardinal Red"
+                            },
+                            {
+                                "title": "Color 18",
+                                "value": "Burgandy Metallic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "optional_equipment": {
+                        "section": "Optional Equipment",
+                        "items": [
+                            {
+                                "title": "Station Wagon",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Turbo Hydramatic Automatic Transmission",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "400 Cu. In. V8 Engine",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Windows",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Air Conditioning",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Brakes",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Steering",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Seats",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Radio",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Front Disc Rear Drum Brakes",
+                                "value": "Optional"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Hardtop": [
+                {
+                    "msrp": {
+                        "section": "MSRP",
+                        "items": [
+                            {
+                                "title": "Msrp",
+                                "value": "$2,921.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "market_value": {
+                        "section": "Market Value",
+                        "items": [
+                            {
+                                "title": "Outstanding",
+                                "value": "$25,500"
+                            },
+                            {
+                                "title": "Clean",
+                                "value": "$11,600"
+                            },
+                            {
+                                "title": "Average",
+                                "value": "$10,000"
+                            },
+                            {
+                                "title": "Rough",
+                                "value": "$3,900"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "body": {
+                        "section": "Body",
+                        "items": [
+                            {
+                                "title": "Body Maker",
+                                "value": "Fisher"
+                            },
+                            {
+                                "title": "No. Of Doors",
+                                "value": "4"
+                            },
+                            {
+                                "title": "Model Number",
+                                "value": "3539"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dimensions": {
+                        "section": "Dimensions",
+                        "items": [
+                            {
+                                "title": "Length",
+                                "value": "206.5 inches"
+                            },
+                            {
+                                "title": "Width",
+                                "value": "76.7 inches"
+                            },
+                            {
+                                "title": "Height",
+                                "value": "52.6 inches"
+                            },
+                            {
+                                "title": "Wheelbase",
+                                "value": "116 inches"
+                            },
+                            {
+                                "title": "Weight",
+                                "value": "3,385lbs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "engine": {
+                        "section": "Engine",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Inline 6, OHV, Single downdraft, Fully synchronous 3-speed manual"
+                            },
+                            {
+                                "title": "Displacement",
+                                "value": "250 cu. in."
+                            },
+                            {
+                                "title": "Cylinders",
+                                "value": "6"
+                            },
+                            {
+                                "title": "Bore And Stroke",
+                                "value": "3.875 & 3.53 inches"
+                            },
+                            {
+                                "title": "Compression Ratio Standard",
+                                "value": "8.5 to 1"
+                            },
+                            {
+                                "title": "Horsepower Brake",
+                                "value": "155@4200"
+                            },
+                            {
+                                "title": "Horsepower Rated",
+                                "value": "36"
+                            },
+                            {
+                                "title": "Torque",
+                                "value": "235@1600"
+                            },
+                            {
+                                "title": "Valve Lifters",
+                                "value": "Hydraulic"
+                            },
+                            {
+                                "title": "Lubrication",
+                                "value": "Pressure to all bearings excluding wrist pin"
+                            },
+                            {
+                                "title": "Carburetor Make",
+                                "value": "Rochester"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "transmision": {
+                        "section": "Transmision",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "3.5 Pints"
+                            },
+                            {
+                                "title": "Drive",
+                                "value": "Rear wheel drive"
+                            },
+                            {
+                                "title": "Number Of Gears",
+                                "value": "3"
+                            },
+                            {
+                                "title": "Gear Ratios First",
+                                "value": "2.85 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Second",
+                                "value": "1.68"
+                            },
+                            {
+                                "title": "Gear Ratios Third",
+                                "value": "1 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Fourth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Fifth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Reverse",
+                                "value": "2.95"
+                            },
+                            {
+                                "title": "Clutch Type",
+                                "value": "Single plate dry disc"
+                            },
+                            {
+                                "title": "Clutch Size",
+                                "value": "9.125 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "axle": {
+                        "section": "Axle",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Semifloating"
+                            },
+                            {
+                                "title": "Differential Type",
+                                "value": "Hypoid"
+                            },
+                            {
+                                "title": "Differential Ratio",
+                                "value": "3.23 to 1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "suspension": {
+                        "section": "Suspension",
+                        "items": [
+                            {
+                                "title": "Front",
+                                "value": "Independent ball joint with coil springs"
+                            },
+                            {
+                                "title": "Rear",
+                                "value": "Coil link"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "brakes": {
+                        "section": "Brakes",
+                        "items": [
+                            {
+                                "title": "Service Type",
+                                "value": "Hydraulic, self-adjusting drums"
+                            },
+                            {
+                                "title": "Service Front Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Service Rear Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Emergency Type",
+                                "value": "Rear service brakes"
+                            },
+                            {
+                                "title": "Emergency Size",
+                                "value": "9.5 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fuel": {
+                        "section": "Fuel",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Regular"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "wheel_&_tires": {
+                        "section": "Wheel & Tires",
+                        "items": [
+                            {
+                                "title": "Tire Size",
+                                "value": "F78 x 14"
+                            },
+                            {
+                                "title": "Spare Location",
+                                "value": "Trunk"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "capacities": {
+                        "section": "Capacities",
+                        "items": [
+                            {
+                                "title": "Fuel",
+                                "value": "21.5 Gallons"
+                            },
+                            {
+                                "title": "Oil",
+                                "value": "4 Quarts"
+                            },
+                            {
+                                "title": "Rear Differential",
+                                "value": "3 Pints"
+                            },
+                            {
+                                "title": "Front Differential",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Transfer Case",
+                                "value": "Not applicable"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "VIN/ID": {
+                        "section": "VID/ID",
+                        "items": [
+                            {
+                                "title": "Serial Number",
+                                "value": "Starting 235390a600001"
+                            },
+                            {
+                                "title": "Description Total Digits",
+                                "value": "13"
+                            },
+                            {
+                                "title": "Description Digits 1",
+                                "value": "Make"
+                            },
+                            {
+                                "title": "Description Digits 2-3",
+                                "value": "Series"
+                            },
+                            {
+                                "title": "Description Digits 4-5",
+                                "value": "Body style"
+                            },
+                            {
+                                "title": "Description Digits 6",
+                                "value": "Model year"
+                            },
+                            {
+                                "title": "Description Digits 7",
+                                "value": "Assembly plant"
+                            },
+                            {
+                                "title": "Description Digits 8-13",
+                                "value": "Production number"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "exterior_colors": {
+                        "section": "Exterior Colors",
+                        "items": [
+                            {
+                                "title": "Availability",
+                                "value": "Polar White"
+                            },
+                            {
+                                "title": "Color 1",
+                                "value": "Palladium Silver Metallic"
+                            },
+                            {
+                                "title": "Color 2",
+                                "value": "Starlight Black"
+                            },
+                            {
+                                "title": "Color 3",
+                                "value": "Bermuda Blue Metallic"
+                            },
+                            {
+                                "title": "Color 4",
+                                "value": "Lucerne Blue Metallic"
+                            },
+                            {
+                                "title": "Color 5",
+                                "value": "Atoll Blue Metallic"
+                            },
+                            {
+                                "title": "Color 6",
+                                "value": "Mint Turquoise Metallic"
+                            },
+                            {
+                                "title": "Color 7",
+                                "value": "Keylime Green Metallic"
+                            },
+                            {
+                                "title": "Color 8",
+                                "value": "Palisade Green Metallic"
+                            },
+                            {
+                                "title": "Color 9",
+                                "value": "Verdoro Green Metallic"
+                            },
+                            {
+                                "title": "Color 10",
+                                "value": "Pepper Green Metallic"
+                            },
+                            {
+                                "title": "Color 11",
+                                "value": "Sierra Yellow"
+                            },
+                            {
+                                "title": "Color 12",
+                                "value": "Coronado Gold Metallic"
+                            },
+                            {
+                                "title": "Color 13",
+                                "value": "Baja Gold Metallic"
+                            },
+                            {
+                                "title": "Color 14",
+                                "value": "Granada Gold Metallic"
+                            },
+                            {
+                                "title": "Color 15",
+                                "value": "Palomino Copper Metallic"
+                            },
+                            {
+                                "title": "Color 16",
+                                "value": "Castillian Bronze Metallic"
+                            },
+                            {
+                                "title": "Color 17",
+                                "value": "Cardinal Red"
+                            },
+                            {
+                                "title": "Color 18",
+                                "value": "Burgandy Metallic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "optional_equipment": {
+                        "section": "Optional Equipment",
+                        "items": [
+                            {
+                                "title": "Hardtop",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Turbo Hydramatic Automatic Transmission",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "400 Cu. In. V8 Engine",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Windows",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Air Conditioning",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Brakes",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Steering",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Seats",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Radio",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Front Disc Rear Drum Brakes",
+                                "value": "Optional"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Sedan": [
+                {
+                    "msrp": {
+                        "section": "MSRP",
+                        "items": [
+                            {
+                                "title": "Msrp",
+                                "value": "$2,782.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "market_value": {
+                        "section": "Market Value",
+                        "items": [
+                            {
+                                "title": "Outstanding",
+                                "value": "$25,500"
+                            },
+                            {
+                                "title": "Clean",
+                                "value": "$18,600"
+                            },
+                            {
+                                "title": "Average",
+                                "value": "$10,000"
+                            },
+                            {
+                                "title": "Rough",
+                                "value": "$4,900"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "body": {
+                        "section": "Body",
+                        "items": [
+                            {
+                                "title": "Body Maker",
+                                "value": "Fisher"
+                            },
+                            {
+                                "title": "No. Of Doors",
+                                "value": "4"
+                            },
+                            {
+                                "title": "Model Number",
+                                "value": "3569"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dimensions": {
+                        "section": "Dimensions",
+                        "items": [
+                            {
+                                "title": "Length",
+                                "value": "206.5 inches"
+                            },
+                            {
+                                "title": "Width",
+                                "value": "76.7 inches"
+                            },
+                            {
+                                "title": "Height",
+                                "value": "52.6 inches"
+                            },
+                            {
+                                "title": "Wheelbase",
+                                "value": "116 inches"
+                            },
+                            {
+                                "title": "Weight",
+                                "value": "3,315lbs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "engine": {
+                        "section": "Engine",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Inline 6, OHV, Single downdraft, Fully synchronous 3-speed manual"
+                            },
+                            {
+                                "title": "Displacement",
+                                "value": "250 cu. in."
+                            },
+                            {
+                                "title": "Cylinders",
+                                "value": "6"
+                            },
+                            {
+                                "title": "Bore And Stroke",
+                                "value": "3.875 & 3.53 inches"
+                            },
+                            {
+                                "title": "Compression Ratio Standard",
+                                "value": "8.5 to 1"
+                            },
+                            {
+                                "title": "Horsepower Brake",
+                                "value": "155@4200"
+                            },
+                            {
+                                "title": "Horsepower Rated",
+                                "value": "36"
+                            },
+                            {
+                                "title": "Torque",
+                                "value": "235@1600"
+                            },
+                            {
+                                "title": "Valve Lifters",
+                                "value": "Hydraulic"
+                            },
+                            {
+                                "title": "Lubrication",
+                                "value": "Pressure to all bearings excluding wrist pin"
+                            },
+                            {
+                                "title": "Carburetor Make",
+                                "value": "Rochester"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "transmision": {
+                        "section": "Transmision",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "3.5 Pints"
+                            },
+                            {
+                                "title": "Drive",
+                                "value": "Rear wheel drive"
+                            },
+                            {
+                                "title": "Number Of Gears",
+                                "value": "3"
+                            },
+                            {
+                                "title": "Gear Ratios First",
+                                "value": "2.85 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Second",
+                                "value": "1.68"
+                            },
+                            {
+                                "title": "Gear Ratios Third",
+                                "value": "1 to 1"
+                            },
+                            {
+                                "title": "Gear Ratios Fourth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Fifth",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Gear Ratios Reverse",
+                                "value": "2.95"
+                            },
+                            {
+                                "title": "Clutch Type",
+                                "value": "Single plate dry disc"
+                            },
+                            {
+                                "title": "Clutch Size",
+                                "value": "9.125 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "axle": {
+                        "section": "Axle",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Semifloating"
+                            },
+                            {
+                                "title": "Differential Type",
+                                "value": "Hypoid"
+                            },
+                            {
+                                "title": "Differential Ratio",
+                                "value": "3.23 to 1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "suspension": {
+                        "section": "Suspension",
+                        "items": [
+                            {
+                                "title": "Front",
+                                "value": "Independent ball joint with coil springs"
+                            },
+                            {
+                                "title": "Rear",
+                                "value": "Coil link"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "brakes": {
+                        "section": "Brakes",
+                        "items": [
+                            {
+                                "title": "Service Type",
+                                "value": "Hydraulic, self-adjusting drums"
+                            },
+                            {
+                                "title": "Service Front Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Service Rear Size",
+                                "value": "9.5 inches"
+                            },
+                            {
+                                "title": "Emergency Type",
+                                "value": "Rear service brakes"
+                            },
+                            {
+                                "title": "Emergency Size",
+                                "value": "9.5 inches"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fuel": {
+                        "section": "Fuel",
+                        "items": [
+                            {
+                                "title": "Type",
+                                "value": "Regular"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "wheel_&_tires": {
+                        "section": "Wheel & Tires",
+                        "items": [
+                            {
+                                "title": "Tire Size",
+                                "value": "F78 x 14"
+                            },
+                            {
+                                "title": "Spare Location",
+                                "value": "Trunk"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "capacities": {
+                        "section": "Capacities",
+                        "items": [
+                            {
+                                "title": "Fuel",
+                                "value": "21.5 Gallons"
+                            },
+                            {
+                                "title": "Oil",
+                                "value": "4 Quarts"
+                            },
+                            {
+                                "title": "Rear Differential",
+                                "value": "3 Pints"
+                            },
+                            {
+                                "title": "Front Differential",
+                                "value": "Not applicable"
+                            },
+                            {
+                                "title": "Transfer Case",
+                                "value": "Not applicable"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "VIN/ID": {
+                        "section": "VID/ID",
+                        "items": [
+                            {
+                                "title": "Serial Number",
+                                "value": "Starting 235690a600001"
+                            },
+                            {
+                                "title": "Description Total Digits",
+                                "value": "13"
+                            },
+                            {
+                                "title": "Description Digits 1",
+                                "value": "Make"
+                            },
+                            {
+                                "title": "Description Digits 2-3",
+                                "value": "Series"
+                            },
+                            {
+                                "title": "Description Digits 4-5",
+                                "value": "Body style"
+                            },
+                            {
+                                "title": "Description Digits 6",
+                                "value": "Model year"
+                            },
+                            {
+                                "title": "Description Digits 7",
+                                "value": "Assembly plant"
+                            },
+                            {
+                                "title": "Description Digits 8-13",
+                                "value": "Production number"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "exterior_colors": {
+                        "section": "Exterior Colors",
+                        "items": [
+                            {
+                                "title": "Availability",
+                                "value": "Polar White"
+                            },
+                            {
+                                "title": "Color 1",
+                                "value": "Palladium Silver Metallic"
+                            },
+                            {
+                                "title": "Color 2",
+                                "value": "Starlight Black"
+                            },
+                            {
+                                "title": "Color 3",
+                                "value": "Bermuda Blue Metallic"
+                            },
+                            {
+                                "title": "Color 4",
+                                "value": "Lucerne Blue Metallic"
+                            },
+                            {
+                                "title": "Color 5",
+                                "value": "Atoll Blue Metallic"
+                            },
+                            {
+                                "title": "Color 6",
+                                "value": "Mint Turquoise Metallic"
+                            },
+                            {
+                                "title": "Color 7",
+                                "value": "Keylime Green Metallic"
+                            },
+                            {
+                                "title": "Color 8",
+                                "value": "Palisade Green Metallic"
+                            },
+                            {
+                                "title": "Color 9",
+                                "value": "Verdoro Green Metallic"
+                            },
+                            {
+                                "title": "Color 10",
+                                "value": "Pepper Green Metallic"
+                            },
+                            {
+                                "title": "Color 11",
+                                "value": "Sierra Yellow"
+                            },
+                            {
+                                "title": "Color 12",
+                                "value": "Coronado Gold Metallic"
+                            },
+                            {
+                                "title": "Color 13",
+                                "value": "Baja Gold Metallic"
+                            },
+                            {
+                                "title": "Color 14",
+                                "value": "Granada Gold Metallic"
+                            },
+                            {
+                                "title": "Color 15",
+                                "value": "Palomino Copper Metallic"
+                            },
+                            {
+                                "title": "Color 16",
+                                "value": "Castillian Bronze Metallic"
+                            },
+                            {
+                                "title": "Color 17",
+                                "value": "Cardinal Red"
+                            },
+                            {
+                                "title": "Color 18",
+                                "value": "Burgandy Metallic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "optional_equipment": {
+                        "section": "Optional Equipment",
+                        "items": [
+                            {
+                                "title": "Sedan",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Turbo Hydramatic Automatic Transmission",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "400 Cu. In. V8 Engine",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Windows",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Air Conditioning",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Brakes",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Steering",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Power Seats",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Radio",
+                                "value": "Optional"
+                            },
+                            {
+                                "title": "Front Disc Rear Drum Brakes",
+                                "value": "Optional"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -26,13 +26,27 @@ const statesList = [
   'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming'
 ]
 
+const classicList = [
+  '1969 Dodge Charger', '1967 Chevrolet Impala', '1955 Chevy Bel Air',
+  '1958 Plymouth Fury', '1970 Monte Carlo', '1970 Plymouth Barracuda',
+  '1965 Lincoln Continental', '1970 Plymouth Road Runner', '1951 Hudson Hornet',
+  '1969 Pontiac GTO', '1963 Pontiac Tempest', '1940 Ford Coupe',
+  '1970 Dodge Dart', '1969 Pontiac Firebird', '1970 Pontiac LeMans',
+  '1969 Oldsmobile 442', '1967 Ford Galaxie 500', '1965 Buick Riviera',
+  '1969 Ford Mustang', '1967 Mercury Cougar'
+]
+
 interface UrlListProps {
   urlPrefix?: string;
   dataSource?: string;
 }
 
 export default function UrlList({ urlPrefix = '/', dataSource = 'makesList' }: UrlListProps) {
-  const data = dataSource === 'makesList' ? makesList : statesList
+  const data = 
+    dataSource === 'makesList' ? makesList : 
+    dataSource === 'statesList' ? statesList :
+    dataSource === 'classicList' ? classicList :
+    makesList; // default to makesList if an invalid dataSource is provided
 
   const columns = React.useMemo(() => {
     const itemsPerColumnLarge = Math.ceil(data.length / 4)
@@ -53,7 +67,10 @@ export default function UrlList({ urlPrefix = '/', dataSource = 'makesList' }: U
     <section className="bg-white">
       <div className="max-w-6xl mx-auto py-6 px-4">
         <h2 className="text-2xl font-bold mb-4">
-          {dataSource === 'makesList' ? 'Other Makes' : dataSource === 'statesList' ? 'Other States' : 'Other Items'}
+          {dataSource === 'makesList' ? 'Other Makes' : 
+           dataSource === 'statesList' ? 'Other States' : 
+           dataSource === 'classicList' ? 'Top Classic Cars' : 
+         'Other Items'}
         </h2>
         <div className="hidden lg:grid lg:grid-cols-4 gap-6">
           {columns.largeColumns.map((column, colIndex) => (

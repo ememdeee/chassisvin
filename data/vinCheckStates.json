@@ -8,6 +8,7 @@
         "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
         "reportType": "VHR",
         "heroForm": true,
+        "tags": [],
         "sections": [
         {
             "heading": "Alabama VIN Check",
@@ -129,6 +130,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Alaska VIN Check",
@@ -245,6 +247,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Arizona VIN Check",
@@ -356,6 +359,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -467,6 +471,7 @@
         "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
         "reportType": "VHR",
         "heroForm": true,
+        "tags": [],
         "sections": [
             {
                 "heading": "California VIN Check",
@@ -573,6 +578,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check and Why It Matters in Colorado",
@@ -684,6 +690,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Connecticut VIN Check",
@@ -795,6 +802,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Delaware VIN Check",
@@ -901,6 +909,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -1012,6 +1021,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Georgia VIN Check?",
@@ -1068,6 +1078,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -1179,6 +1190,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Idaho VIN Check",
@@ -1240,6 +1252,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Illinois VIN Check?",
@@ -1356,6 +1369,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is Indiana VIN Check?",
@@ -1467,6 +1481,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Iowa VIN Check?",
@@ -1583,6 +1598,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Kansas VIN Check",
@@ -1699,6 +1715,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Kentucky VIN Check?",
@@ -1810,6 +1827,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -1926,6 +1944,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -2037,6 +2056,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -2153,6 +2173,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is the Massachusetts VIN Check?",
@@ -2279,6 +2300,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is the Michigan VIN Check?",
@@ -2405,6 +2427,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -2461,6 +2484,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Mississippi VIN Check",
@@ -2577,6 +2601,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Missouri VIN Check?",
@@ -2688,6 +2713,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Montana VIN Check?",
@@ -2799,6 +2825,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -2910,6 +2937,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Nevada VIN Check?",
@@ -3021,6 +3049,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -3132,6 +3161,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a New Jersey VIN Check?",
@@ -3238,6 +3268,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -3349,6 +3380,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check and Why is it Important in New York?",
@@ -3455,6 +3487,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a North Carolina VIN Check?",
@@ -3566,6 +3599,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -3677,6 +3711,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Ohio VIN Check",
@@ -3788,6 +3823,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is the Oklahoma VIN Check?",
@@ -3899,6 +3935,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -4010,6 +4047,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Pennsylvania VIN Check",
@@ -4116,6 +4154,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Rhode Island VIN Check",
@@ -4232,6 +4271,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "South Carolina VIN Check",
@@ -4338,6 +4378,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is the South Dakota VIN Check?",
@@ -4449,6 +4490,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Tennessee VIN Check?",
@@ -4555,6 +4597,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Texas VIN Check",
@@ -4671,6 +4714,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Utah VIN Check?",
@@ -4782,6 +4826,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Check?",
@@ -4893,6 +4938,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Virginia VIN Check",
@@ -4999,6 +5045,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Washington VIN Check",
@@ -5110,6 +5157,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is the West Virginia VIN Check?",
@@ -5221,6 +5269,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Wisconsin VIN Check?",
@@ -5327,6 +5376,7 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Wyoming VIN Check?",

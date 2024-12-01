@@ -8,6 +8,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Alabama License Plate Lookup",
@@ -122,6 +123,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a License Plate Lookup?",
@@ -201,6 +203,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Why Should You Run a License Plate Lookup in Arizona?",
@@ -315,6 +318,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Arkansas License Plate Lookup?",
@@ -434,6 +438,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Why Should You Run a License Plate Lookup in California?",
@@ -543,6 +548,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Why Should You Run a License Plate Lookup in Colorado?",
@@ -657,6 +663,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Connecticut License Plate Lookup?",
@@ -731,6 +738,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Delaware License Plate Lookup?",
@@ -850,6 +858,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Why Should You Run a License Plate Lookup in Florida?",
@@ -963,6 +972,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Georgia License Plate Lookup?",
@@ -1082,6 +1092,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Hawaii License Plate Lookup?",
@@ -1201,6 +1212,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Idaho License Plate Lookup?",
@@ -1335,6 +1347,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Illinois License Plate Lookup",
@@ -1474,6 +1487,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a License Plate Lookup?",
@@ -1598,6 +1612,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a License Plate Lookup?",
@@ -1712,6 +1727,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Kansas License Plate Lookup",
@@ -1826,6 +1842,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Kentucky License Plate Lookup",
@@ -1940,6 +1957,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a License Plate Lookup?",
@@ -2054,6 +2072,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Maine License Plate Lookup",
@@ -2173,6 +2192,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Maryland License Plate Lookup?",
@@ -2287,6 +2307,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Massachusetts License Plate Lookup",
@@ -2406,6 +2427,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Michigan License Plate Lookup",
@@ -2525,6 +2547,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Minnesota License Plate Lookup?",
@@ -2659,6 +2682,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Mississippi License Plate Lookup",
@@ -2778,6 +2802,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Missouri License Plate Lookup",
@@ -2912,6 +2937,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Montana License Plate Lookup",
@@ -3031,6 +3057,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is Nebraska License Plate Lookup?",
@@ -3145,6 +3172,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Nevada License Plate Lookup",
@@ -3264,6 +3292,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Introduction",
@@ -3383,6 +3412,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a New Jersey License Plate Lookup?",
@@ -3502,6 +3532,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "New Mexico License Plate Lookup",
@@ -3621,6 +3652,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a New York License Plate Lookup?",
@@ -3755,6 +3787,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a North Carolina License Plate Lookup?",
@@ -3874,6 +3907,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "North Dakota License Plate Lookup",
@@ -3993,6 +4027,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is Ohio License Plate Lookup?",
@@ -4112,6 +4147,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is Oklahoma License Plate Lookup?",
@@ -4226,6 +4262,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Oregon License Plate Lookup",
@@ -4345,6 +4382,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Pennsylvania License Plate Lookup",
@@ -4464,6 +4502,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Rhode Island License Plate Lookup",
@@ -4598,6 +4637,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Introduction",
@@ -4732,6 +4772,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Introduction",
@@ -4846,6 +4887,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Tennessee License Plate Lookup",
@@ -4960,6 +5002,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Texas License Plate Lookup?",
@@ -5079,6 +5122,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Utah License Plate Lookup",
@@ -5198,6 +5242,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Vermont License Plate Lookup?",
@@ -5317,6 +5362,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Virginia License Plate Lookup",
@@ -5436,6 +5482,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Washington License Plate Lookup",
@@ -5555,6 +5602,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a License Plate Lookup?",
@@ -5674,6 +5722,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Wisconsin License Plate Lookup",
@@ -5793,6 +5842,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is License Plate Lookup?",

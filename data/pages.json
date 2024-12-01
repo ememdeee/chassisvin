@@ -17,6 +17,7 @@
     ],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Decode Your Vehicle Identification Number with ChassisVIN",
@@ -121,6 +122,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What Is a Window Sticker?",
@@ -220,6 +222,7 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Free License Plate Lookup",
@@ -309,6 +312,7 @@
       "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
       "reportType": "VHR",
       "heroForm": true,
+      "tags": [],
       "sections": [
         {
           "heading": "Discover Your Vehicle’s History with a State-Specific VIN Check",
@@ -388,6 +392,7 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "tags": [],
     "sections": [
       {
         "heading": "About Us",
@@ -441,6 +446,7 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "tags": [],
     "sections": [
       {
         "heading": "Introduction",
@@ -529,6 +535,7 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "tags": [],
     "sections": [
       {
         "heading": "Introduction",
@@ -602,6 +609,7 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "tags": [],
     "sections": [
       {
         "heading": "Contact Us",
@@ -660,6 +668,7 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Vehicle Recall?",
@@ -730,6 +739,7 @@
 
     "reportType": "VHR","heroForm": true,
 
+    "tags": [],
     "sections": [
       {
         "heading": "Why Check Accident History and Theft Records?",
@@ -797,6 +807,207 @@
       }
     ]
   },
+  "classic-lookup": {
+    "title": "Comprehensive Classic Car VIN Lookup and History Guide",
+    "description": "Discover trusted and detailed vehicle history reports for classic cars with VINs under 17 digits. Learn everything from title history to factory specifications, and access valuable resources for your classic car research.",
+    "metaTitle": "Classic Car VIN Lookup | Trusted Vehicle History Reports",
+    "metaDescription": "Explore how to decode, lookup, and verify the history of classic cars with VINs under 17 digits. Learn about trusted data sources and detailed reports covering title history, theft records, and more.",
+    "canonical": "https://www.chassisvin.com/classic-vin-lookup",
+    "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
+    "reportType": "VHR",
+    "heroForm": true,
+    "tags": [],
+    "sections": [
+      {
+        "heading": "Why Perform a VIN Lookup for Classic Cars?",
+        "headingLevel": "h2",
+        "content": "<p>Performing a VIN lookup for classic cars is essential to uncover valuable details about the vehicle’s past. Many classic cars, especially those manufactured before 1981, have unique VIN formats, making traditional methods ineffective. A VIN history report helps ensure authenticity, identify previous owners, verify title history, and uncover any potential issues like salvage or theft records.</p><p>Whether you're buying, selling, or simply researching a classic car, a VIN lookup provides critical data that protects your investment and preserves the legacy of these timeless vehicles. Learn more about <a href='https://www.chassisvin.com/vin-decoder'>VIN decoding here</a>.</p>"
+      },
+      {
+        "heading": "Comprehensive Data in Every VIN Report",
+        "headingLevel": "h2",
+        "content": "<p>Our Classic Car VIN History Reports are packed with actionable insights:</p><table><thead><tr><th>Category</th><th>Details</th></tr></thead><tbody><tr><td>Title History</td><td>State DMV records, including current and past titles.</td></tr><tr><td>Junk/Salvage Records</td><td>Information from salvage yards and dismantlers, including damage type and disposition.</td></tr><tr><td>Theft Records</td><td>Active and recovered theft data to ensure the car isn't flagged as stolen.</td></tr><tr><td>Vehicle Specifications</td><td>Factory options, standard equipment, and original MSRP.</td></tr><tr><td>Safety Recalls</td><td>Open and past recalls from NHTSA and manufacturers.</td></tr></tbody></table>"
+      },
+      {
+        "heading": "How to Decode VINs for Classic Cars",
+        "headingLevel": "h2",
+        "content": "<p>Classic car VINs often differ significantly from modern formats. Here’s how you can decode them:</p><ul><li><strong>Find the VIN:</strong> Check locations like the driver's side door jamb, dashboard, or engine block.</li><li><strong>Identify Key Features:</strong> Decoding reveals make, model, engine type, and manufacturing year.</li><li><strong>Use a Decoder:</strong> Use tools like our <a href='https://www.chassisvin.com/vin-decoder'>VIN Decoder</a> to interpret the VIN.</li></ul><p>Not all classic car VINs provide complete information. Combining VIN decoding with a detailed history report ensures accuracy.</p>"
+      },
+      {
+        "heading": "Trusted Data Sources for Classic Car History",
+        "headingLevel": "h2",
+        "content": "<p>Our reports use data from reputable sources, including:</p><ul><li><a href='https://www.vehiclehistory.gov/'>National Motor Vehicle Title Information System (NMVTIS)</a></li><li>DMV databases across states</li><li>Salvage auction and insurance records</li><li>Manufacturer recall information from <a href='https://www.nhtsa.gov/'>NHTSA</a></li><li>Specialized classic car clubs and forums</li></ul>"
+      },
+      {
+        "heading": "Exploring Title History and Odometer Readings",
+        "headingLevel": "h3",
+        "content": "<p>Our reports include:</p><ul><li><strong>Title Brands:</strong> Identifies salvage, rebuilt, flood damage, and other title markers.</li><li><strong>Odometer Readings:</strong> Tracks mileage progression to detect rollbacks or discrepancies.</li></ul><p>Learn how to access sample reports by visiting our <a href='https://www.chassisvin.com/sample'>Sample Reports page</a>.</p>"
+      },
+      {
+        "heading": "Window Stickers for Classic Cars",
+        "headingLevel": "h3",
+        "content": "<p>Recreate your classic car's factory window sticker with our detailed service. This includes:</p><ul><li>Original MSRP</li><li>Factory-installed options</li><li>Fuel economy ratings</li><li>Safety and warranty details</li></ul><p>For more information, explore our <a href='https://www.chassisvin.com/window-sticker'>Window Sticker page</a>.</p>"
+      },
+      {
+        "heading": "Where to Find Your Classic Car's VIN",
+        "headingLevel": "h3",
+        "content": "<p>Look for your classic car’s VIN in these locations:</p><ul><li>Driver’s side dashboard</li><li>Firewall or steering column</li><li>Door hinge post or frame rail</li><li>Engine block (may differ if replaced)</li></ul><p>Check related documents like the title, registration, or insurance policy for additional verification.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I locate a classic car VIN?",
+        "answer": "VINs can be found on the dashboard, door jamb, engine block, or frame. Check vehicle documents for additional details."
+      },
+      {
+        "question": "Can older cars without VINs still be researched?",
+        "answer": "Yes, using serial or identification numbers. Tools like ours can help track their history."
+      },
+      {
+        "question": "What should I do if a VIN history report shows negative data?",
+        "answer": "Consult a professional or verify with state DMV records for clarity on issues like salvage or theft history."
+      },
+      {
+        "question": "Can I learn about factory specifications from the VIN?",
+        "answer": "Yes, our reports provide detailed factory options, MSRP, and standard features. Visit our <a href='https://www.chassisvin.com/window-sticker'>Window Sticker</a> service."
+      },
+      {
+        "question": "Are VIN decoders free?",
+        "answer": "Some are free, while others require a fee. Our tools offer comprehensive data at competitive rates."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Answers to Your Most Asked Questions",
+    "description": "Got a question? You’re in the right place. We’ve gathered the most frequently asked questions to make finding answers quick and easy. Explore below to get the information you need!",
+    "metaTitle": "ChassisVIN Frequently Asked Questions | Check Car History & VIN for Accidents",
+    "metaDescription": "Read the FAQ or contact us via email or WhatsApp to solve any of your inquiries. We will help you get a relevant report about a vehicle.",
+    "canonical": "https://www.chassisvin.com/faq",
+    "dataSources": [],
+    "reportType": "VHR",
+    "heroForm": false,
+    "tags": [],
+    "sections": [],
+    "faqs": [
+      {
+        "question": "What is a ChassisVIN Vehicle History Report?",
+        "answer": "A ChassisVIN Vehicle History Report provides detailed information about a vehicle's past, including accidents, ownership history, and more."
+      },
+      {
+        "question": "For whom do we provide Vehicle History Reports?",
+        "answer": "We provide Vehicle History Reports for car buyers, sellers, dealers, and anyone interested in learning about a vehicle's history."
+      },
+      {
+        "question": "What is a VIN and why is it important?",
+        "answer": "A Vehicle Identification Number (VIN) is a unique 17-character code assigned to every vehicle. It provides essential information about the vehicle's make, model, year, and place of manufacture. Checking the VIN is crucial before purchasing a used car to uncover any potential issues like past accidents, theft history, or outstanding recalls."
+      },
+      {
+        "question": "Where can I find my vehicle's VIN?",
+        "answer": "The VIN can be found in several places on your vehicle: on the dashboard through the windshield on the driver's side, on the driver’s side door jamb, on your vehicle's title or registration, and on your insurance card."
+      },
+      {
+        "question": "What services do you provide?",
+        "answer": "At ChassisVIN, we offer a range of services including VIN Decoding, Window Sticker Generation, License Plate Lookup, and Vehicle History Reports covering ownership history, accident reports, title status, and more."
+      },
+      {
+        "question": "How does a VIN decoder work?",
+        "answer": "A VIN decoder interprets the unique VIN to provide detailed specifications about the vehicle. It extracts information such as the manufacturer, model year, body style, engine type, and other vital data based on the VIN structure and database lookups."
+      },
+      {
+        "question": "Do you provide reports for all vehicles?",
+        "answer": "We provide reports for a wide range of vehicles, including standard passenger vehicles, motorcycles, RVs, and classic cars. However, some older or less common vehicles may not have comprehensive data available."
+      },
+      {
+        "question": "Is the VIN check free?",
+        "answer": "Yes! You can perform a free VIN check on our website. For more detailed vehicle history reports, there may be a nominal fee, especially if you opt for our Unlimited Vehicle History Reports package."
+      },
+      {
+        "question": "How accurate is the information provided in your reports?",
+        "answer": "ChassisVIN utilizes data from multiple reliable sources, including the National Motor Vehicle Title Information System (NMVTIS), to ensure our reports are as accurate and comprehensive as possible. However, we recommend checking multiple sources if you're making a significant investment."
+      },
+      {
+        "question": "Can I get a report if I only have a license plate number?",
+        "answer": "Absolutely! Our license plate lookup feature allows you to retrieve vehicle information even if you do not have the VIN. Simply enter the U.S. license plate number, and we will provide you with the available details."
+      },
+      {
+        "question": "What if I can't find my VIN or license plate number?",
+        "answer": "If you’re unable to locate your VIN or license plate number, you can still request a vehicle history report using other identifying information. Our customer support team is also available to assist you in finding the necessary details."
+      },
+      {
+        "question": "How do I contact your customer support?",
+        "answer": "You can reach our dedicated customer support team via our website's contact page or by email. We offer chat support 24/7 and typically respond within 10 minutes during business hours (7 am - 6 pm EST, Monday - Friday)."
+      },
+      {
+        "question": "What is chassis information, and where can I find it?",
+        "answer": "Chassis information refers to the structural framework of a vehicle that houses the body and other essential components. This information can typically be found on the VIN plate, in the owner’s manual, or in detailed vehicle history reports."
+      },
+      {
+        "question": "How do I get started with my VIN check?",
+        "answer": "Getting started is easy! Simply enter your VIN or license plate number in the designated fields on our homepage and click 'Check VIN.' You’ll receive instant results and have the option to purchase more detailed reports if needed."
+      }
+    ]
+  },
+  "build-sheet-by-vin": {
+    "title": "Build Sheet by VIN: Decode Your Vehicle's Specifications",
+    "description": "Learn how to access a build sheet by VIN to uncover a vehicle's original specifications and history. Understand the importance of build sheets for buyers, sellers, and enthusiasts.",
+    "metaTitle": "Build Sheet by VIN | Unlock Your Vehicle's History and Specifications",
+    "metaDescription": "Discover how to access a build sheet by VIN to verify vehicle specifications, prevent fraud, and gain insight into its production details. Perfect for buyers, sellers, and car enthusiasts.",
+    "canonical": "https://www.chassisvin.com/build-sheet-by-vin",
+    "dataSources": [],
+    "reportType": "WS",
+    "heroForm": true,
+    "tags": [],
+    "sections": [
+      {
+        "heading": "What is a Build Sheet?",
+        "headingLevel": "h2",
+        "content": "<p>A build sheet is a detailed document generated during a vehicle's assembly. It provides essential information such as engine type, transmission, paint color, and optional equipment. Acting as the vehicle's 'birth certificate,' it highlights the specific configuration and components used in its production.</p><p>Accessing a build sheet through the <a href='https://www.chassisvin.com/vin-decoder'>VIN Decoder</a> allows buyers to verify a vehicle's specifications and avoid potential fraud. For <a href='https://www.chassisvin.com/classic-lookup'>classic vehicles</a>, it provides historical insights, enhancing their appeal among collectors.</p>"
+      },
+      {
+        "heading": "Why is a Build Sheet Important?",
+        "headingLevel": "h3",
+        "content": "<p>Build sheets hold significant value for buyers, sellers, and enthusiasts alike. Here’s why:</p><ul><li><strong>Verification:</strong> Cross-reference vehicle details to ensure accuracy.</li><li><strong>Transparency:</strong> Gain insight into the original configurations.</li><li><strong>Fraud Prevention:</strong> Identify any discrepancies or misrepresentation.</li><li><strong>Maintenance Support:</strong> Mechanics use build sheets for accurate repairs.</li><li><strong>Historical Insights:</strong> Enthusiasts can uncover rare features and special editions.</li></ul><p>Learn more about the importance of transparency in vehicle specifications through tools like our <a href='https://www.chassisvin.com/window-sticker'>Window Sticker Lookup</a>.</p>"
+      },
+      {
+        "heading": "How to Access a Build Sheet by VIN",
+        "headingLevel": "h3",
+        "content": "<p>Follow these steps to access a build sheet using a VIN decoder:</p><ol><li><strong>Locate the VIN:</strong> Find it on the dashboard, door jamb, or vehicle documents.</li><li><strong>Use a Reliable Tool:</strong> Choose our trusted <a href='https://www.chassisvin.com/vin-decoder'>VIN Decoder</a> for accurate results.</li><li><strong>Input the VIN:</strong> Enter the number to initiate the decoding process.</li><li><strong>Review the Build Sheet:</strong> Analyze the detailed specifications retrieved.</li><li><strong>Save or Print:</strong> Keep a copy for future reference.</li></ol><p>Explore how VIN decoding provides hassle-free access to vehicle specifications.</p>"
+      },
+      {
+        "heading": "Table: Build Sheet Information Breakdown",
+        "headingLevel": "h4",
+        "content": "<p>Below is an overview of what you can find in a vehicle's build sheet:</p><table><thead><tr><th>Category</th><th>Details</th></tr></thead><tbody><tr><td>Engine</td><td>Type, horsepower, and configuration</td></tr><tr><td>Transmission</td><td>Manual or automatic, number of gears</td></tr><tr><td>Paint and Trim</td><td>Exterior and interior color details</td></tr><tr><td>Options</td><td>Factory-installed packages</td></tr><tr><td>Assembly Details</td><td>Date and location of manufacture</td></tr></tbody></table><p>To see sample build sheets, visit <a href='https://www.chassisvin.com/sample'>Sample Build Sheets</a>.</p>"
+      },
+      {
+        "heading": "Build Sheets for Classic Vehicles",
+        "headingLevel": "h2",
+        "content": "<p>Classic vehicles hold unique charm and value. A <a href='https://www.chassisvin.com/classic-lookup'>Classic Build Sheet</a> provides insights into vintage automobiles' factory configurations. Discover hidden features, original pricing, and historical significance.</p><p>For example, check out:</p><ul><li><a href='https://www.chassisvin.com/sample'>1963 Dodge Polara 500 Convertible</a></li><li><a href='https://www.chassisvin.com/sample'>1967 Pontiac Catalina</a></li><li><a href='https://www.chassisvin.com/sample'>1950 Oldsmobile Series 98</a></li></ul><p>Accessing a classic build sheet enhances the buying experience by providing clarity and authenticity.</p>"
+      },
+      {
+        "heading": "Business Solutions for Automotive Professionals",
+        "headingLevel": "h2",
+        "content": "<p>Our business solutions provide tools for dealers and businesses to streamline their operations. Leverage our <a href='https://www.chassisvin.com/license-plate-lookup'>License Plate Lookup</a> and other resources to ensure compliance and boost sales.</p><p>Features include:</p><ul><li>Customizable build sheets for brand promotion.</li><li>Accurate tools for verifying vehicle data.</li><li>Enhanced customer trust through transparency.</li></ul><p>Contact us to explore tailored solutions for your business needs.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I get a build sheet for my classic car?",
+        "answer": "Contact the manufacturer, use online tools like our VIN decoder, or consult previous owners who may have retained a copy."
+      },
+      {
+        "question": "Do cars still have build sheets?",
+        "answer": "Modern cars typically use window stickers, which serve a similar purpose to traditional build sheets."
+      },
+      {
+        "question": "Can you get a build sheet from GM?",
+        "answer": "Yes, General Motors provides build sheets for some vehicles upon request. Additional fees may apply."
+      },
+      {
+        "question": "How do I find a build sheet by VIN number?",
+        "answer": "You can decode the VIN using tools like the <a href='https://www.chassisvin.com/vin-decoder'>VIN Decoder</a> to access build sheet details."
+      }
+    ]
+  },
   "example-page": {
     "title": "Example Page",
     "description": "Comprehensive Content Demonstration",
@@ -806,6 +1017,7 @@
     "dataSources": [{"source": "sampleList", "prefix": "example-page"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is This Example?",

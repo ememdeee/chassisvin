@@ -8,6 +8,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
         {
             "heading": "What is a Window Sticker?",
@@ -103,6 +104,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -198,6 +200,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -293,6 +296,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Audi Window Sticker?",
@@ -348,6 +352,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Bentley Window Sticker?",
@@ -403,6 +408,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a BMW Window Sticker?",
@@ -493,6 +499,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Buick Window Sticker?",
@@ -583,6 +590,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Cadillac Window Sticker?",
@@ -678,6 +686,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Chevrolet Window Sticker?",
@@ -773,6 +782,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Chrysler Window Sticker?",
@@ -863,6 +873,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Daewoo Window Sticker?",
@@ -953,6 +964,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
         {
             "heading": "What is a Datsun Window Sticker?",
@@ -1043,6 +1055,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
         {
             "heading": "What is a Dodge Window Sticker?",
@@ -1133,6 +1146,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Ducati Window Sticker?",
@@ -1223,6 +1237,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Eagle Window Sticker?",
@@ -1313,6 +1328,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Ferrari Window Sticker?",
@@ -1368,6 +1384,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a FIAT Window Sticker?",
@@ -1423,6 +1440,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Forest River Window Sticker?",
@@ -1518,6 +1536,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Ford Window Sticker?",
@@ -1613,6 +1632,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Freightliner Window Sticker?",
@@ -1708,6 +1728,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Geo Window Sticker?",
@@ -1803,6 +1824,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a GMC Window Sticker?",
@@ -1893,6 +1915,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Harley-Davidson Window Sticker?",
@@ -1983,6 +2006,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Honda Window Sticker?",
@@ -2038,6 +2062,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a HUMMER Window Sticker?",
@@ -2093,6 +2118,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Hyundai Window Sticker?",
@@ -2188,6 +2214,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Infiniti Window Sticker?",
@@ -2283,6 +2310,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -2338,6 +2366,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -2433,6 +2462,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Jaguar Window Sticker?",
@@ -2523,6 +2553,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Jayco Window Sticker?",
@@ -2613,6 +2644,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Jeep Window Sticker?",
@@ -2703,6 +2735,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Kawasaki Window Sticker?",
@@ -2793,6 +2826,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Kenworth Window Sticker?",
@@ -2888,6 +2922,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Kia Window Sticker?",
@@ -2983,6 +3018,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -3073,6 +3109,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -3163,6 +3200,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Land Rover Window Sticker?",
@@ -3218,6 +3256,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Lexus Window Sticker?",
@@ -3273,6 +3312,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Lincoln Window Sticker?",
@@ -3368,6 +3408,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Lotus Window Sticker?",
@@ -3463,6 +3504,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mack Window Sticker?",
@@ -3558,6 +3600,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Maserati Window Sticker?",
@@ -3653,6 +3696,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Maybach Window Sticker?",
@@ -3743,6 +3787,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mazda Window Sticker?",
@@ -3833,6 +3878,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a McLaren Window Sticker?",
@@ -3923,6 +3969,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mercedes-Benz Window Sticker?",
@@ -4013,6 +4060,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mercury Window Sticker?",
@@ -4073,6 +4121,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a MINI Window Sticker?",
@@ -4168,6 +4217,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mitsubishi Window Sticker?",
@@ -4258,6 +4308,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Nissan Window Sticker?",
@@ -4348,6 +4399,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Oldsmobile Window Sticker?",
@@ -4438,6 +4490,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Opel Window Sticker?",
@@ -4528,6 +4581,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Peterbilt Window Sticker?",
@@ -4623,6 +4677,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Peugeot Window Sticker?",
@@ -4718,6 +4773,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Plymouth Window Sticker?",
@@ -4808,6 +4864,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Polaris Window Sticker?",
@@ -4898,6 +4955,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Pontiac Window Sticker?",
@@ -4993,6 +5051,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Porsche Window Sticker?",
@@ -5088,6 +5147,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a RAM Window Sticker?",
@@ -5130,6 +5190,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Rolls-Royce Window Sticker?",
@@ -5172,6 +5233,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Saab Window Sticker?",
@@ -5227,6 +5289,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Saturn Window Sticker?",
@@ -5272,6 +5335,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Subaru Window Sticker: Original Features & Specs",
@@ -5362,6 +5426,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a SMART Window Sticker?",
@@ -5422,6 +5487,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Window Sticker?",
@@ -5517,6 +5583,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Tesla Window Sticker?",
@@ -5612,6 +5679,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Triumph Window Sticker?",
@@ -5702,6 +5770,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Toyota Window Sticker?",
@@ -5792,6 +5861,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Volkswagen Window Sticker?",
@@ -5882,6 +5952,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Volvo Window Sticker?",
@@ -5977,6 +6048,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Volvo Truck Window Sticker?",
@@ -6072,6 +6144,7 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Yamaha Window Sticker?",

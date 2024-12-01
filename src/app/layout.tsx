@@ -6,7 +6,6 @@ import Navbar from "./components/Navbar";
 import SaveBanner from "./components/SaveBanner";
 import BackgroundAnimation from "./components/BackgroundAnimation";
 import CombinedSchema from "./components/CombinedSchema";
-import { Analytics } from "@vercel/analytics/react"
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -59,7 +58,6 @@ export default function RootLayout({
           <SaveBanner/>
           <Footer />
         </div>
-        <Analytics />
       </body>
     </html>
   );

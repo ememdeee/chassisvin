@@ -3,7 +3,6 @@
 import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
 import { Star } from 'lucide-react'
-import { motion, AnimatePresence } from 'framer-motion'
 import CustomButton from './CustomButton'
 
 interface Testimonial {
@@ -41,32 +40,24 @@ const testimonials: Testimonial[] = [
 export default function Testimonials() {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isAutoPlaying, setIsAutoPlaying] = useState(true)
+  const [isAnimating, setIsAnimating] = useState(false)
 
   useEffect(() => {
-    console.log('Current Index:', currentIndex)
-    console.log('Is Auto Playing:', isAutoPlaying)
-
     if (isAutoPlaying) {
       const timer = setInterval(() => {
-        setCurrentIndex((prevIndex) => {
-          const newIndex = (prevIndex + 1) % testimonials.length
-          console.log('Auto-advancing to index:', newIndex)
-          return newIndex
-        })
+        nextTestimonial()
       }, 5000)
       return () => clearInterval(timer)
     }
-  }, [isAutoPlaying, currentIndex])
+  }, [isAutoPlaying])
 
   const nextTestimonial = () => {
-    console.log('Next Story button clicked')
-    setCurrentIndex((prevIndex) => {
-      const newIndex = (prevIndex + 1) % testimonials.length
-      console.log('Advancing to index:', newIndex)
-      return newIndex
-    })
+    setIsAnimating(true)
+    setTimeout(() => {
+      setCurrentIndex((prevIndex) => (prevIndex + 1) % testimonials.length)
+      setIsAnimating(false)
+    }, 500)
     setIsAutoPlaying(false)
-    console.log('Auto-play disabled')
   }
 
   return (
@@ -79,61 +70,56 @@ export default function Testimonials() {
         </div>
 
         <div className="relative">
-          <AnimatePresence mode="wait">
-            <motion.div
-              key={currentIndex}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -20 }}
-              transition={{ duration: 0.5 }}
-              className="flex flex-col md:flex-row items-center gap-8"
-            >
-              <div className="w-full md:w-2/3 bg-white shadow-lg rounded-lg p-6">
-                <div className="flex items-center mb-4">
-                  <Image
-                    src={testimonials[currentIndex].image}
-                    alt={testimonials[currentIndex].name}
-                    width={64}
-                    height={64}
-                    className="rounded-full mr-4"
-                  />
-                  <div>
-                    <h3 className="font-semibold text-lg text-gray-900">{testimonials[currentIndex].name}</h3>
-                    <div className="flex">
-                      {[...Array(testimonials[currentIndex].rating)].map((_, i) => (
-                        <Star key={i} className="w-4 h-4 fill-blue-500 text-blue-500" />
-                      ))}
-                    </div>
-                  </div>
-                </div>
-                <p className="text-gray-700 mb-4">&ldquo;{testimonials[currentIndex].text}&rdquo;</p>
-                <div className="flex items-center justify-between">
-                  <p className="text-sm font-semibold text-blue-600">{testimonials[currentIndex].carSaved}</p>
-                  <CustomButton text="Next Story" onClick={nextTestimonial} />
-                </div>
-              </div>
-
-              <div className="w-full md:w-1/3 space-y-4">
-                <div className="bg-blue-500 text-white rounded-lg p-6">
-                  <h4 className="text-2xl font-bold mb-2">4.5 / 5</h4>
-                  <p className="text-sm">Average Customer Rating</p>
-                  <div className="flex mt-2">
-                    {[...Array(5)].map((_, i) => (
-                      <Star key={i} className="w-5 h-5 fill-white text-white" />
+          <div
+            className={`flex flex-col md:flex-row items-center gap-8 transition-opacity duration-500 ${
+              isAnimating ? 'opacity-0' : 'opacity-100'
+            }`}
+          >
+            <div className="w-full md:w-2/3 bg-white shadow-lg rounded-lg p-6">
+              <div className="flex items-center mb-4">
+                <Image
+                  src={testimonials[currentIndex].image}
+                  alt={testimonials[currentIndex].name}
+                  width={64}
+                  height={64}
+                  className="rounded-full mr-4"
+                />
+                <div>
+                  <h3 className="font-semibold text-lg text-gray-900">{testimonials[currentIndex].name}</h3>
+                  <div className="flex">
+                    {[...Array(testimonials[currentIndex].rating)].map((_, i) => (
+                      <Star key={i} className="w-4 h-4 fill-blue-500 text-blue-500" />
                     ))}
                   </div>
                 </div>
-                <div className="bg-white text-gray-900 rounded-lg p-6 shadow-lg">
-                  <h4 className="text-2xl font-bold mb-2">10,000+</h4>
-                  <p className="text-sm">Customers Helped</p>
-                </div>
-                <div className="bg-gray-100 text-gray-900 rounded-lg p-6">
-                  <h4 className="text-2xl font-bold mb-2">$5M+</h4>
-                  <p className="text-sm">Saved in Potential Losses</p>
+              </div>
+              <p className="text-gray-700 mb-4">&ldquo;{testimonials[currentIndex].text}&rdquo;</p>
+              <div className="flex items-center justify-between">
+                <p className="text-sm font-semibold text-blue-600">{testimonials[currentIndex].carSaved}</p>
+                <CustomButton text="Next Story" onClick={nextTestimonial} />
+              </div>
+            </div>
+
+            <div className="w-full md:w-1/3 space-y-4">
+              <div className="bg-blue-500 text-white rounded-lg p-6">
+                <h4 className="text-2xl font-bold mb-2">4.5 / 5</h4>
+                <p className="text-sm">Average Customer Rating</p>
+                <div className="flex mt-2">
+                  {[...Array(5)].map((_, i) => (
+                    <Star key={i} className="w-5 h-5 fill-white text-white" />
+                  ))}
                 </div>
               </div>
-            </motion.div>
-          </AnimatePresence>
+              <div className="bg-white text-gray-900 rounded-lg p-6 shadow-lg">
+                <h4 className="text-2xl font-bold mb-2">10,000+</h4>
+                <p className="text-sm">Customers Helped</p>
+              </div>
+              <div className="bg-gray-100 text-gray-900 rounded-lg p-6">
+                <h4 className="text-2xl font-bold mb-2">$5M+</h4>
+                <p className="text-sm">Saved in Potential Losses</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

@@ -39,7 +39,7 @@ export default function FAQBasic({ title, items }: FAQProps) {
   }
 
   return (
-    <section className="w-full max-w-4xl mx-auto py-12 px-4">
+    <section id='faq-section' className="w-full max-w-4xl mx-auto [&:not(#breadcrumb+&)]:py-12 [#breadcrumb+&]:pt-0 [#breadcrumb+&]:pb-12 px-4">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}

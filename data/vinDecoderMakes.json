@@ -8,6 +8,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is Acura VIN Decoder?",
@@ -140,6 +141,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Alfa Romeo VIN Decoder?",
@@ -244,6 +246,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Aston Martin VIN Decoder",
@@ -308,6 +311,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Audi VIN Decoder?",
@@ -440,6 +444,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Bentley VIN?",
@@ -504,6 +509,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a BMW VIN Decoder?",
@@ -568,6 +574,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Buick VIN Decoder?",
@@ -687,6 +694,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN?",
@@ -836,6 +844,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Chevrolet VIN Decoder",
@@ -968,6 +977,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Chrysler VIN Decoder",
@@ -1117,6 +1127,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Daewoo VIN Decoder?",
@@ -1231,6 +1242,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Datsun VIN Decoder",
@@ -1310,6 +1322,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Dodge VIN Decoder?",
@@ -1424,6 +1437,7 @@
   "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
   "reportType": "VHR",
   "heroForm": true,
+  "tags": [],
   "sections": [
     {
       "heading": "What is a Ducati VIN Decoder?",
@@ -1538,6 +1552,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -1612,6 +1627,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Ferrari VIN Decoder?",
@@ -1726,6 +1742,7 @@
   "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
   "reportType": "VHR",
   "heroForm": true,
+  "tags": [],
   "sections": [
     {
       "heading": "What is a Fiat VIN Decoder?",
@@ -1840,6 +1857,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -1954,6 +1972,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Ford VIN Decoder?",
@@ -2068,6 +2087,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Freightliner VIN Decoder",
@@ -2182,6 +2202,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Geo VIN Decoder",
@@ -2296,6 +2317,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "GMC VIN Decoder",
@@ -2410,6 +2432,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Harley-Davidson VIN Decoder",
@@ -2524,6 +2547,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Honda VIN Decoder",
@@ -2638,6 +2662,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Hummer VIN Decoder",
@@ -2752,6 +2777,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Hyundai VIN Decoder",
@@ -2866,6 +2892,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Infiniti VIN Decoder",
@@ -2980,6 +3007,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is VIN Decoding?",
@@ -3054,6 +3082,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is an Isuzu VIN Decoder?",
@@ -3168,6 +3197,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Jaguar VIN Decoder?",
@@ -3282,6 +3312,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Jayco VIN Decoder?",
@@ -3396,6 +3427,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Jeep VIN Decoder?",
@@ -3510,6 +3542,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -3624,6 +3657,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Kenworth VIN Decoder?",
@@ -3738,6 +3772,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Kia VIN Decoder?",
@@ -3832,6 +3867,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "KTM VIN Decoder",
@@ -3946,6 +3982,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Lamborghini VIN Decoder",
@@ -4060,6 +4097,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Land Rover VIN Decoder",
@@ -4174,6 +4212,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Lexus VIN Decoder",
@@ -4288,6 +4327,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Lincoln VIN Decoder",
@@ -4402,6 +4442,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Lotus VIN Decoder",
@@ -4516,6 +4557,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Mack VIN Decoder",
@@ -4630,6 +4672,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Maserati VIN Decoder",
@@ -4714,6 +4757,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Maybach VIN Decoder",
@@ -4828,6 +4872,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Mazda VIN Decoder",
@@ -4942,6 +4987,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "McLaren VIN Decoder",
@@ -5056,6 +5102,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Mercedes-Benz VIN Decoder",
@@ -5170,6 +5217,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mercury VIN Decoder?",
@@ -5284,6 +5332,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "MINI VIN Decoder",
@@ -5398,6 +5447,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Mitsubishi VIN Decoder?",
@@ -5492,6 +5542,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Nissan VIN Decoder?",
@@ -5606,6 +5657,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
         {
             "heading": "What is an Oldsmobile VIN Decoder?",
@@ -5720,6 +5772,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is the Opel VIN Decoder?",
@@ -5834,6 +5887,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Peterbilt VIN Decoder",
@@ -5953,6 +6007,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Peugeot VIN Decoder",
@@ -6067,6 +6122,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Plymouth VIN Decoder",
@@ -6186,6 +6242,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Polaris VIN Decoder",
@@ -6300,6 +6357,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Pontiac VIN Decoder",
@@ -6419,6 +6477,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Porsche VIN Decoder",
@@ -6538,6 +6597,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "RAM VIN Decoder",
@@ -6652,6 +6712,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Rolls-Royce VIN Decoder",
@@ -6766,6 +6827,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Saab VIN Decoder",
@@ -6880,6 +6942,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Saturn VIN Decoder",
@@ -6994,6 +7057,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is Smart VIN Decoder?",
@@ -7108,6 +7172,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Subaru VIN Decoder?",
@@ -7222,6 +7287,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
         {
             "heading": "What is a Suzuki VIN Decoder?",
@@ -7336,6 +7402,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Tesla VIN Decoder?",
@@ -7450,6 +7517,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -7564,6 +7632,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Toyota VIN?",
@@ -7678,6 +7747,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "Volkswagen VIN Decoder",
@@ -7797,6 +7867,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Volvo VIN Decoder?",
@@ -7911,6 +7982,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Volvo Truck VIN Decoder?",
@@ -8025,6 +8097,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is a Yamaha VIN Decoder?",
@@ -8139,6 +8212,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "tags": [],
     "sections": [
       {
         "heading": "What is This Example?",

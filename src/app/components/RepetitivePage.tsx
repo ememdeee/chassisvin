@@ -8,6 +8,7 @@ import UrlList from '@/app/components/url-list'
 import SectionContent from './SectionContent'
 import FAQBasic from './FAQBasic'
 import ServiceList from './ServiceList'
+import ClassicYmmSpecs from './ClassicYmmSpecs'
 
 interface Section {
   heading: string;
@@ -34,6 +35,7 @@ interface Content {
   dataSources: DataSource[];
   reportType: string;
   heroForm: boolean;
+  tags: string[];
   sections: Section[];
   faqs: FAQItem[];
 }
@@ -81,6 +83,8 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
     }
   }
 
+  const showClassicYmmSpecs = content.tags.some(tag => tag.toLowerCase().includes('spec'))
+
   return (
     <>
       <Head>
@@ -91,13 +95,16 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
         <TwoColumnContainer>
           <div>
             <Breadcrumb />
-            {content.sections.map((section, index) => (
+            {content.sections && content.sections.length > 0 && content.sections.map((section, index) => (
               <div className="content px-4" key={index}>
                 {renderHeading(section)}
                 <SectionContent content={section.content} />
               </div>
             ))}
-            {content.dataSources.map((dataSource, index) => (
+
+            {showClassicYmmSpecs && <ClassicYmmSpecs />}
+            
+            {content.dataSources && content.dataSources.length > 0 && content.dataSources.map((dataSource, index) => (
               dataSource.source && dataSource.source.trim() !== "" && (
                 <UrlList 
                   key={`${dataSource.source}-${index}`}
@@ -106,7 +113,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
                 />
               )
             ))}
-            <ServiceList />
+            {content.heroForm && <ServiceList />}
             {content.faqs && content.faqs.length > 0 && (
               <FAQBasic title="Frequently Asked Questions" items={content.faqs} />
             )}
