@@ -9,6 +9,7 @@ import SectionContent from './SectionContent'
 import FAQBasic from './FAQBasic'
 import ServiceList from './ServiceList'
 import ClassicYmmSpecs from './ClassicYmmSpecs'
+import SourceAndPartner from './SourceAndPartner'
 
 interface Section {
   heading: string;
@@ -84,6 +85,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
   }
 
   const showClassicYmmSpecs = content.tags.some(tag => tag.toLowerCase().includes('spec'))
+  const showSourceAndPartner = content.tags.some(tag => tag.toLowerCase().includes('partner'))
 
   return (
     <>
@@ -103,6 +105,8 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
             ))}
 
             {showClassicYmmSpecs && <ClassicYmmSpecs />}
+
+            {showSourceAndPartner && <SourceAndPartner />}
             
             {content.dataSources && content.dataSources.length > 0 && content.dataSources.map((dataSource, index) => (
               dataSource.source && dataSource.source.trim() !== "" && (
