@@ -10,6 +10,7 @@ import VehicleReportSteps from './components/VehicleReportSteps'
 import WhatSetsUsApart from './components/WhatSetsUsApart'
 import ServiceList from './components/ServiceList'
 import UrlList from './components/url-list'
+import CheckOurBlog from './components/CheckOurBlog'
 
 export default function Home() {
 
@@ -60,6 +61,7 @@ export default function Home() {
       <UrlList dataSource='statesList' urlPrefix='license-plate-lookup' />
       <OfferBanner/>
       <FAQBasic title="Frequently Asked Questions" items={faqItems} />
+      <CheckOurBlog />
     </main>
   )
 }

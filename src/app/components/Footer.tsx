@@ -21,7 +21,7 @@ const Footer = () => {
             </Link>
           </div>
           <div className="flex flex-col mb-6 md:mb-0">
-            <h3 className="font-semibold text-gray-900 mb-2">Services</h3>
+            <span className="font-semibold text-gray-900 mb-2">Services</span>
             <nav className="flex flex-col space-y-2">
               <Link href="/vin-decoder" className="text-gray-600 hover:text-gray-900">Cars</Link>
               <Link href="/classic-lookup" className="text-gray-600 hover:text-gray-900">Classic Car</Link>
@@ -32,8 +32,9 @@ const Footer = () => {
             </nav>
           </div>
           <div className="flex flex-col mb-6 md:mb-0">
-            <h3 className="font-semibold text-gray-900 mb-2">Resources</h3>
+            <span className="font-semibold text-gray-900 mb-2">Resources</span>
             <nav className="flex flex-col space-y-2">
+              <Link href="/blogs" className="text-gray-600 hover:text-gray-900">Blogs</Link>
               <Link href="/faq" className="text-gray-600 hover:text-gray-900">FAQ</Link>
               <Link href="/sample" className="text-gray-600 hover:text-gray-900">Sample Report</Link>
               <Link href="/about-us" className="text-gray-600 hover:text-gray-900">About Us</Link>
@@ -41,7 +42,7 @@ const Footer = () => {
             </nav>
           </div>
           <div className="flex flex-col items-start">
-            <h3 className="font-semibold text-gray-900 mb-2">Follow Us</h3>
+            <span className="font-semibold text-gray-900 mb-2">Follow Us</span>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-gray-600">
                 <Search className="w-6 h-6" />

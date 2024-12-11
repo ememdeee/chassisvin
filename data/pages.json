@@ -2,8 +2,8 @@
   "vin-decoder": {
     "title": "VIN Decoder & Lookup: The Ultimate Free VIN Lookup Tool",
     "description": "Decode Your Vehicle Identification Number for Free. Check out some answers to common questions and get started with our VIN decoder service!",
-    "metaTitle": "Free VIN Decoder & Lookup | ChassisVIN",
-    "metaDescription": "Decode your Vehicle Identification Number (VIN) for free with ChassisVIN. Get instant access to vehicle history, specifications, and more with our comprehensive VIN lookup tool.",
+    "metaTitle": "Free VIN Decoder | VIN Lookup | VIN Check | ChassisVIN",
+    "metaDescription": "Decode your VIN Number for free with ChassisVIN VIN Decoder | VIN Lookup | VIN Check. Get access to vehicle history, specifications, and more.",
     "canonical": "https://www.chassisvin.com/vin-decoder",
     "dataSources": [
       {
@@ -17,6 +17,13 @@
     ],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -122,6 +129,13 @@
     "dataSources": [{"source": "makesList", "prefix": "window-sticker"}],
     "reportType": "WS",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -222,6 +236,13 @@
     "dataSources": [{"source": "statesList", "prefix": "license-plate-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -312,6 +333,13 @@
       "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
       "reportType": "VHR",
       "heroForm": true,
+      "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
       "tags": [],
       "sections": [
         {
@@ -392,6 +420,13 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": ["partner"],
     "sections": [
       {
@@ -446,6 +481,13 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -535,6 +577,13 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -609,6 +658,13 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -668,6 +724,13 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -735,10 +798,16 @@
     "metaTitle": "Accident & Theft Check | ChassisVIN – Full Vehicle Background Insight",
     "metaDescription": "Check accident and theft history with ChassisVIN. Comprehensive vehicle reports including prior accidents, theft status, ownership details, and more.",
     "canonical": "https://www.chassisvin.com/vehicle-history",
-        "dataSources": [],
-
-    "reportType": "VHR","heroForm": true,
-
+    "dataSources": [],
+    "reportType": "VHR",
+    "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -816,6 +885,13 @@
     "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -886,6 +962,13 @@
     "dataSources": [],
     "reportType": "VHR",
     "heroForm": false,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [],
     "faqs": [
@@ -956,6 +1039,13 @@
     "dataSources": [],
     "reportType": "WS",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {

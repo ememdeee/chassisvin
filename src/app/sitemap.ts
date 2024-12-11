@@ -1,6 +1,11 @@
 import { MetadataRoute } from 'next'
-import { ContentMap, Content } from './[page]/[make]/types'
-import contents from '@/data/pages.json'
+import mainPages from '@/data/pages.json'
+import vinDecoderMakes from '@/data/vinDecoderMakes.json'
+import windowStickerMakes from '@/data/windowStickerMakes.json'
+import licensePlateLookupStates from '@/data/licensePlateLookupStates.json'
+import vinCheckStates from '@/data/vinCheckStates.json'
+import classicYmmt from '@/data/classicYmmt.json'
+import blogs from '@/data/blogs.json'
 import fs from 'fs'
 import path from 'path'
 
@@ -39,25 +44,6 @@ function getManualPages(dir: string): string[] {
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://www.chassisvin.com'
 
-  const getContentMap = async (page: keyof ContentMap): Promise<Record<string, Content>> => {
-    switch (page) {
-      case 'vin-decoder':
-        return import('@/data/vinDecoderMakes.json').then(m => m.default)
-      case 'vin-check':
-        return import('@/data/vinCheckStates.json').then(m => m.default)
-      case 'window-sticker':
-        return import('@/data/windowStickerMakes.json').then(m => m.default)
-      case 'license-plate-lookup':
-        return import('@/data/licensePlateLookupStates.json').then(m => m.default)
-      case 'classic-lookup':
-        return import('@/data/classicYmmt.json').then(m => m.default)
-      default:
-        return {}
-    }
-  }
-
-  const pages: (keyof ContentMap)[] = ['vin-decoder', 'vin-check', 'window-sticker', 'license-plate-lookup', 'classic-lookup']
-
   // 1. Homepage
   const homeEntry = {
     url: formatUrl(baseUrl),
@@ -67,9 +53,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
 
   // 2. Entries from pages.json
-  const staticEntries = Object.entries(contents).map(([key]) => ({
-    url: formatUrl(baseUrl, key),
-    lastModified: new Date(),
+  const pageEntries = Object.entries(mainPages).map(([slug, page]) => ({
+    url: formatUrl(baseUrl, slug),
+    lastModified: new Date(page.dateModified),
     changeFrequency: 'weekly' as const,
     priority: 0.8,
   }))
@@ -86,26 +72,55 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.8,
     }))
 
-  // 4. Entries from other JSON files
-  const dynamicEntries = await Promise.all(
-    pages.map(async (pageType) => {
-      const pageContents = await getContentMap(pageType)
-      return Object.keys(pageContents).map((make) => ({
-        url: formatUrl(baseUrl, `${pageType}/${make}`),
-        lastModified: new Date(),
-        changeFrequency: 'monthly' as const,
-        priority: 0.7,
-      }))
-    })
-  )
-  const flattenedDynamicEntries = dynamicEntries.flat()
+  // 4. Entries from other json files
+  const dynamicEntries = [
+    ...Object.entries(vinDecoderMakes).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `vin-decoder/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    ...Object.entries(windowStickerMakes).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `window-sticker/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    ...Object.entries(licensePlateLookupStates).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `license-plate-lookup/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    ...Object.entries(vinCheckStates).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `vin-check/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    ...Object.entries(classicYmmt).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `classic-lookup/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+  ]
+
+  // 5. Entries from blogs.json
+  const blogEntries = Object.entries(blogs).map(([slug, blog]) => ({
+    url: formatUrl(baseUrl, `blogs/${slug}`),
+    lastModified: new Date(blog.dateModified),
+    changeFrequency: 'monthly' as const,
+    priority: 0.6,
+  }))
 
   // Combine all entries in the specified order
   const allEntries = [
     homeEntry,
-    ...staticEntries,
+    ...pageEntries,
     ...manualEntries,
-    ...flattenedDynamicEntries,
+    ...dynamicEntries,
+    ...blogEntries,
   ]
 
   // Remove duplicate entries
@@ -114,3 +129,4 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return uniqueEntries
 }
+

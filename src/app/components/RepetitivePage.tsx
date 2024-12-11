@@ -10,6 +10,7 @@ import FAQBasic from './FAQBasic'
 import ServiceList from './ServiceList'
 import ClassicYmmSpecs from './ClassicYmmSpecs'
 import SourceAndPartner from './SourceAndPartner'
+import CheckOurBlog from './CheckOurBlog'
 
 interface Section {
   heading: string;
@@ -121,6 +122,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
             {content.faqs && content.faqs.length > 0 && (
               <FAQBasic title="Frequently Asked Questions" items={content.faqs} />
             )}
+            <CheckOurBlog />
           </div>
           <TwoColumnSidebar />
         </TwoColumnContainer>

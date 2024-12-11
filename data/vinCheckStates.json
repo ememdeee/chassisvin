@@ -1,127 +1,134 @@
 {
-    "alabama": {
-        "title": "Alabama VIN Check",
-        "description": "Decode any Alabama vehicle VIN to access its history, records, and more. Check accident history, mileage, and other essential information for confident purchases.",
-        "metaTitle": "Alabama VIN Check | VIN Lookup and History",
-        "metaDescription": "Run an Alabama VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Alabama DMV VIN check!",
-        "canonical": "https://www.chassisvin.com/vin-check/alabama",
-        "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
-        "reportType": "VHR",
-        "heroForm": true,
-        "tags": [],
-        "sections": [
-        {
-            "heading": "Alabama VIN Check",
-            "headingLevel": "h1",
-            "content": "<p>An Alabama VIN Check is essential for anyone buying a used car. With the check, you can access a detailed vehicle history and ensure your next purchase is safe and reliable.</p>"
-        },
-        {
-            "heading": "Introduction",
-            "headingLevel": "h2",
-            "content": "<p>Alabama's Department of Motor Vehicles (DMV) and Motor Vehicle Division (MVD) offer limited information for VIN checks. By using an Alabama VIN check, you get a comprehensive look into a car's past with more convenience than traditional DMV services. Knowing the history is a must before buying a used vehicle.</p>"
-        },
-        {
-            "heading": "Why Should You Run a VIN Check in Alabama?",
-            "headingLevel": "h2",
-            "content": "<p>Running a VIN check in Alabama can reveal critical details about a car's history, helping you avoid costly mistakes.</p>"
-        },
-        {
-            "heading": "Decode Vehicle History",
-            "headingLevel": "h3",
-            "content": "<p>A VIN check reveals title history, accident records, odometer readings, and more. This ensures transparency and lets you make informed decisions.</p>"
-        },
-        {
-            "heading": "Verify Window Sticker",
-            "headingLevel": "h3",
-            "content": "<p>To check the original features, try an Alabama Window Sticker lookup. <a href='https://www.chassisvin.com/window-sticker'>Verify window sticker details here</a> to confirm features and trim before purchase.</p>"
-        },
-        {
-            "heading": "Accident History",
-            "headingLevel": "h3",
-            "content": "<p>Past accidents can impact performance and safety. With a VIN check, get a full report of any accidents that a vehicle has encountered.</p>"
-        },
-        {
-            "heading": "Mileage and Odometer Verification",
-            "headingLevel": "h3",
-            "content": "<p>Odometer tampering is illegal and affects resale value. Verify mileage to ensure the odometer reading is accurate with an Alabama VIN check.</p>"
-        },
-        {
-            "heading": "Recalls History",
-            "headingLevel": "h3",
-            "content": "<p>Check if there are any outstanding recalls for vehicle safety issues. Use our <a href='https://www.chassisvin.com/vehicle-recalls'>recalls checker</a> to see if repairs are needed.</p>"
-        },
-        {
-            "heading": "Theft Check",
-            "headingLevel": "h3",
-            "content": "<p>Find out if the vehicle was reported stolen. A VIN check can help prevent you from buying a stolen vehicle unknowingly.</p>"
-        },
-        {
-            "heading": "Vehicle Usage History",
-            "headingLevel": "h3",
-            "content": "<p>Discover if the vehicle was a rental, taxi, or fleet vehicle. Knowing usage history can affect resale value and vehicle longevity.</p>"
-        },
-        {
-            "heading": "Lien Check",
-            "headingLevel": "h3",
-            "content": "<p>Check for liens on the vehicle. Avoid unexpected legal issues by confirming there are no active liens with a VIN check.</p>"
-        },
-        {
-            "heading": "Useful Resources for Car Buyers in Alabama",
-            "headingLevel": "h2",
-            "content": "<p>Get to know the requirements and processes for buying and registering vehicles in Alabama:</p><ul><li><a href='https://doa.alabama.gov/dmv/'>Alabama DMV</a> - General information</li><li><a href='https://doa.alabama.gov/dmv/reg/index.htm'>Registering a Vehicle in Alabama</a> - Step-by-step guide</li><li><a href='https://www.chassisvin.com/license-plate-lookup/alabama'>Alabama License Plate Lookup</a> - Get more information using license plate data</li></ul>"
-        },
-        {
-            "heading": "Alabama Laws Related to VIN Checks",
-            "headingLevel": "h2",
-            "content": "<p>Alabama has specific laws for title transfers, insurance, and registrations that are important to follow when purchasing a vehicle.</p>"
-        },
-        {
-            "heading": "Title Transfers in Alabama",
-            "headingLevel": "h3",
-            "content": "<p>In Alabama, title transfers typically require a fee and proof of ownership. Ensure all liens are cleared, and expect a wait time of a few weeks for processing.</p>"
-        },
-        {
-            "heading": "Alabama Insurance and Registrations",
-            "headingLevel": "h3",
-            "content": "<p>Alabama mandates liability insurance for all drivers. Make sure your vehicle is insured and registered to avoid fines.</p>"
-        },
-        {
-            "heading": "Applying for Titles in Alabama",
-            "headingLevel": "h3",
-            "content": "<p>To apply for a title in Alabama, bring the bill of sale, proof of insurance, and any necessary inspections to your DMV branch.</p>"
-        },
-        {
-            "heading": "Why ChassisVIN Vehicle History?",
-            "headingLevel": "h2",
-            "content": "<p>ChassisVIN offers reliable vehicle history reports that go beyond basic VIN information. Get accident history, ownership details, and recalls conveniently on our site. Choose ChassisVIN for fast, thorough insights into any vehicle's past.</p>"
-        },
-        {
-            "heading": "Frequently Asked Questions about VIN Check in Alabama",
-            "headingLevel": "h2",
-            "content": "<ul><li><strong>How Can I Find the Owner of a Vehicle in Alabama?</strong> You can use license plate or VIN data, but owner information is restricted in public records.</li><li><strong>How Can I Do a Title Search in Alabama?</strong> Contact Alabama DMV or use our title search to check for existing titles and liens.</li><li><strong>How Do I Run a VIN Number Check in Alabama?</strong> Enter the VIN on ChassisVIN or Alabama DMV for instant information.</li></ul>"
-        },
-        {
-            "heading": "Alabama Vehicle Information Table",
-            "headingLevel": "h2",
-            "content": "<p>Here's a quick guide to Alabama VIN and vehicle title details:</p><table><thead><tr><th>Service</th><th>Details</th><th>Link</th></tr></thead><tbody><tr><td>VIN Check</td><td>Complete vehicle history</td><td><a href='https://www.chassisvin.com/vin-check/alabama'>Alabama VIN Check</a></td></tr><tr><td>Window Sticker Lookup</td><td>Check vehicle's original features</td><td><a href='https://www.chassisvin.com/window-sticker'>Verify Sticker</a></td></tr><tr><td>Accident History</td><td>Records of accidents and repairs</td><td><a href='https://www.chassisvin.com/vehicle-history'>Accident Check</a></td></tr><tr><td>Theft Status</td><td>Check if the vehicle was stolen</td><td><a href='https://www.chassisvin.com/vehicle-history'>Theft Check</a></td></tr><tr><td>Recalls</td><td>See all safety recalls</td><td><a href='https://www.chassisvin.com/vehicle-recalls'>Recall Check</a></td></tr></tbody></table>"
-        }
-        ],
-        "faqs": [
-        {
-            "question": "How Can I Find the Owner of a Vehicle in Alabama?",
-            "answer": "You can use license plate or VIN data, but owner information is restricted in public records."
-        },
-        {
-            "question": "How Can I Do a Title Search in Alabama?",
-            "answer": "Contact Alabama DMV or use our title search to check for existing titles and liens."
-        },
-        {
-            "question": "How Do I Run a VIN Number Check in Alabama?",
-            "answer": "Enter the VIN on ChassisVIN or Alabama DMV for instant information."
-        }
-        ]
+  "alabama": {
+    "title": "Alabama VIN Check",
+    "description": "Decode any Alabama vehicle VIN to access its history, records, and more. Check accident history, mileage, and other essential information for confident purchases.",
+    "metaTitle": "Alabama VIN Check | VIN Lookup and History",
+    "metaDescription": "Run an Alabama VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Alabama DMV VIN check!",
+    "canonical": "https://www.chassisvin.com/vin-check/alabama",
+    "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
+    "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
     },
-    "alaska": {
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
+    "tags": [],
+    "sections": [
+      {
+          "heading": "Alabama VIN Check",
+          "headingLevel": "h1",
+          "content": "<p>An Alabama VIN Check is essential for anyone buying a used car. With the check, you can access a detailed vehicle history and ensure your next purchase is safe and reliable.</p>"
+      },
+      {
+          "heading": "Introduction",
+          "headingLevel": "h2",
+          "content": "<p>Alabama's Department of Motor Vehicles (DMV) and Motor Vehicle Division (MVD) offer limited information for VIN checks. By using an Alabama VIN check, you get a comprehensive look into a car's past with more convenience than traditional DMV services. Knowing the history is a must before buying a used vehicle.</p>"
+      },
+      {
+          "heading": "Why Should You Run a VIN Check in Alabama?",
+          "headingLevel": "h2",
+          "content": "<p>Running a VIN check in Alabama can reveal critical details about a car's history, helping you avoid costly mistakes.</p>"
+      },
+      {
+          "heading": "Decode Vehicle History",
+          "headingLevel": "h3",
+          "content": "<p>A VIN check reveals title history, accident records, odometer readings, and more. This ensures transparency and lets you make informed decisions.</p>"
+      },
+      {
+          "heading": "Verify Window Sticker",
+          "headingLevel": "h3",
+          "content": "<p>To check the original features, try an Alabama Window Sticker lookup. <a href='https://www.chassisvin.com/window-sticker'>Verify window sticker details here</a> to confirm features and trim before purchase.</p>"
+      },
+      {
+          "heading": "Accident History",
+          "headingLevel": "h3",
+          "content": "<p>Past accidents can impact performance and safety. With a VIN check, get a full report of any accidents that a vehicle has encountered.</p>"
+      },
+      {
+          "heading": "Mileage and Odometer Verification",
+          "headingLevel": "h3",
+          "content": "<p>Odometer tampering is illegal and affects resale value. Verify mileage to ensure the odometer reading is accurate with an Alabama VIN check.</p>"
+      },
+      {
+          "heading": "Recalls History",
+          "headingLevel": "h3",
+          "content": "<p>Check if there are any outstanding recalls for vehicle safety issues. Use our <a href='https://www.chassisvin.com/vehicle-recalls'>recalls checker</a> to see if repairs are needed.</p>"
+      },
+      {
+          "heading": "Theft Check",
+          "headingLevel": "h3",
+          "content": "<p>Find out if the vehicle was reported stolen. A VIN check can help prevent you from buying a stolen vehicle unknowingly.</p>"
+      },
+      {
+          "heading": "Vehicle Usage History",
+          "headingLevel": "h3",
+          "content": "<p>Discover if the vehicle was a rental, taxi, or fleet vehicle. Knowing usage history can affect resale value and vehicle longevity.</p>"
+      },
+      {
+          "heading": "Lien Check",
+          "headingLevel": "h3",
+          "content": "<p>Check for liens on the vehicle. Avoid unexpected legal issues by confirming there are no active liens with a VIN check.</p>"
+      },
+      {
+          "heading": "Useful Resources for Car Buyers in Alabama",
+          "headingLevel": "h2",
+          "content": "<p>Get to know the requirements and processes for buying and registering vehicles in Alabama:</p><ul><li><a href='https://doa.alabama.gov/dmv/'>Alabama DMV</a> - General information</li><li><a href='https://doa.alabama.gov/dmv/reg/index.htm'>Registering a Vehicle in Alabama</a> - Step-by-step guide</li><li><a href='https://www.chassisvin.com/license-plate-lookup/alabama'>Alabama License Plate Lookup</a> - Get more information using license plate data</li></ul>"
+      },
+      {
+          "heading": "Alabama Laws Related to VIN Checks",
+          "headingLevel": "h2",
+          "content": "<p>Alabama has specific laws for title transfers, insurance, and registrations that are important to follow when purchasing a vehicle.</p>"
+      },
+      {
+          "heading": "Title Transfers in Alabama",
+          "headingLevel": "h3",
+          "content": "<p>In Alabama, title transfers typically require a fee and proof of ownership. Ensure all liens are cleared, and expect a wait time of a few weeks for processing.</p>"
+      },
+      {
+          "heading": "Alabama Insurance and Registrations",
+          "headingLevel": "h3",
+          "content": "<p>Alabama mandates liability insurance for all drivers. Make sure your vehicle is insured and registered to avoid fines.</p>"
+      },
+      {
+          "heading": "Applying for Titles in Alabama",
+          "headingLevel": "h3",
+          "content": "<p>To apply for a title in Alabama, bring the bill of sale, proof of insurance, and any necessary inspections to your DMV branch.</p>"
+      },
+      {
+          "heading": "Why ChassisVIN Vehicle History?",
+          "headingLevel": "h2",
+          "content": "<p>ChassisVIN offers reliable vehicle history reports that go beyond basic VIN information. Get accident history, ownership details, and recalls conveniently on our site. Choose ChassisVIN for fast, thorough insights into any vehicle's past.</p>"
+      },
+      {
+          "heading": "Frequently Asked Questions about VIN Check in Alabama",
+          "headingLevel": "h2",
+          "content": "<ul><li><strong>How Can I Find the Owner of a Vehicle in Alabama?</strong> You can use license plate or VIN data, but owner information is restricted in public records.</li><li><strong>How Can I Do a Title Search in Alabama?</strong> Contact Alabama DMV or use our title search to check for existing titles and liens.</li><li><strong>How Do I Run a VIN Number Check in Alabama?</strong> Enter the VIN on ChassisVIN or Alabama DMV for instant information.</li></ul>"
+      },
+      {
+          "heading": "Alabama Vehicle Information Table",
+          "headingLevel": "h2",
+          "content": "<p>Here's a quick guide to Alabama VIN and vehicle title details:</p><table><thead><tr><th>Service</th><th>Details</th><th>Link</th></tr></thead><tbody><tr><td>VIN Check</td><td>Complete vehicle history</td><td><a href='https://www.chassisvin.com/vin-check/alabama'>Alabama VIN Check</a></td></tr><tr><td>Window Sticker Lookup</td><td>Check vehicle's original features</td><td><a href='https://www.chassisvin.com/window-sticker'>Verify Sticker</a></td></tr><tr><td>Accident History</td><td>Records of accidents and repairs</td><td><a href='https://www.chassisvin.com/vehicle-history'>Accident Check</a></td></tr><tr><td>Theft Status</td><td>Check if the vehicle was stolen</td><td><a href='https://www.chassisvin.com/vehicle-history'>Theft Check</a></td></tr><tr><td>Recalls</td><td>See all safety recalls</td><td><a href='https://www.chassisvin.com/vehicle-recalls'>Recall Check</a></td></tr></tbody></table>"
+      }
+      ],
+      "faqs": [
+      {
+          "question": "How Can I Find the Owner of a Vehicle in Alabama?",
+          "answer": "You can use license plate or VIN data, but owner information is restricted in public records."
+      },
+      {
+          "question": "How Can I Do a Title Search in Alabama?",
+          "answer": "Contact Alabama DMV or use our title search to check for existing titles and liens."
+      },
+      {
+          "question": "How Do I Run a VIN Number Check in Alabama?",
+          "answer": "Enter the VIN on ChassisVIN or Alabama DMV for instant information."
+      }
+    ]
+  },
+  "alaska": {
     "title": "Alaska VIN Check | VIN Lookup and History",
     "description": "Run an Alaska VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the Alaska DMV VIN check!",
     "metaTitle": "Alaska VIN Check | VIN Lookup and History",
@@ -130,6 +137,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -238,7 +252,7 @@
       }
     ]
   },
-"arizona": {
+  "arizona": {
     "title": "Arizona VIN Check | Vehicle History and VIN Lookup",
     "description": "Explore the benefits of running an Arizona VIN check. Get a quick and detailed history report for any vehicle in Arizona.",
     "metaTitle": "Arizona VIN Check | VIN Lookup and History",
@@ -247,6 +261,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -359,6 +380,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -463,113 +491,120 @@
     ]
   },
   "california": {
-        "title": "California VIN Check | VIN Lookup and Vehicle History",
-        "description": "Get accurate vehicle history information with California VIN Check services. Your best alternative to the California DMV VIN check.",
-        "metaTitle": "California VIN Check | VIN Lookup and History",
-        "metaDescription": "Run a California VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the California DMV VIN check!",
-        "canonical": "https://www.chassisvin.com/vin-check/california",
-        "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
-        "reportType": "VHR",
-        "heroForm": true,
-        "tags": [],
-        "sections": [
-            {
-                "heading": "California VIN Check",
-                "headingLevel": "h1",
-                "content": "<p>In California, a VIN check is an essential tool for understanding a vehicle's history. Whether you're looking to buy a used car, verify your own vehicle's past, or understand the details of an auction purchase, a California VIN check can help you find information easily. Here at ChassisVIN, we offer fast and comprehensive VIN decoding services tailored for California's unique market, covering details like accident history, mileage verification, title transfers, and window sticker information.</p>"
-            },
-            {
-                "heading": "Why Should You Run a VIN Check in California?",
-                "headingLevel": "h2",
-                "content": "<p>A California VIN check helps you verify details about a vehicle's past, including important records related to its ownership and usage. Knowing a car's history before purchasing it can prevent future surprises, like undisclosed accidents or liens. With ChassisVIN, you'll receive instant access to extensive data, giving you more peace of mind than waiting for DMV verification.</p>"
-            },
-            {
-                "heading": "Decode Vehicle History",
-                "headingLevel": "h3",
-                "content": "<p>California's vehicle market is diverse, and a VIN check can reveal specific details about a car's past. This includes data like title transfers, accident records, and vehicle registration. Our California VIN check at ChassisVIN provides easy access to these records, ensuring a detailed understanding of each vehicle's background.</p>"
-            },
-            {
-                "heading": "Verify Window Sticker",
-                "headingLevel": "h3",
-                "content": "<p>A window sticker lookup reveals factory options, original MSRP, and dealer details. Use our <a href='https://www.chassisvin.com/window-sticker'>California Window Sticker lookup</a> to uncover the exact specifications and additional features included when the car was first sold.</p>"
-            },
-            {
-                "heading": "Accident History",
-                "headingLevel": "h3",
-                "content": "<p>An accident history check provides crucial insights. Accidents impact a car's value and performance, so it's wise to verify them. Our California VIN check lists all reported accidents to help you make a better-informed decision.</p>"
-            },
-            {
-                "heading": "Mileage and Odometer Verification",
-                "headingLevel": "h3",
-                "content": "<p>Odometer discrepancies are serious, as they may indicate fraud. The California VIN check checks for mileage irregularities, allowing you to confirm that the odometer readings are consistent with the vehicle's history.</p>"
-            },
-            {
-                "heading": "Recalls History",
-                "headingLevel": "h3",
-                "content": "<p>Find out if a vehicle has any outstanding recalls. Our <a href='https://www.chassisvin.com/vehicle-recalls'>recall history lookup</a> shows if a car has pending repairs, making it easier to schedule any necessary fixes.</p>"
-            },
-            {
-                "heading": "Theft Check",
-                "headingLevel": "h3",
-                "content": "<p>A VIN check can reveal if the car was ever reported stolen in California or elsewhere. Knowing this information adds a layer of security to your purchase, preventing legal issues later.</p>"
-            },
-            {
-                "heading": "Vehicle Usage History",
-                "headingLevel": "h3",
-                "content": "<p>Was the car used as a taxi, rental, or lease? These uses often affect wear and resale value. With ChassisVIN, you can find out if the car you're interested in had commercial or other high-usage backgrounds.</p>"
-            },
-            {
-                "heading": "Lien Check",
-                "headingLevel": "h3",
-                "content": "<p>Our California VIN check also checks for any liens on the vehicle, ensuring that you won't be held responsible for another party's debt if you buy the car.</p>"
-            },
-            {
-                "heading": "Useful Resources for Car Buyers in California",
-                "headingLevel": "h2",
-                "content": "<p>Here are some resources to help you understand California's vehicle regulations:</p><ul><li><a href='https://doa.ca.gov/dmv/'>California DMV</a> - General DMV services for VIN decoding, licensing, and registration.</li><li><a href='https://doa.ca.gov/dmv/reg/index.htm'>Registering a Vehicle in California</a> - Details on the process for registering a vehicle in California.</li><li><a href='https://www.chassisvin.com/license-plate-lookup/california'>California License Plate Lookup</a> - Access ChassisVIN's license plate lookup for more vehicle information.</li></ul>"
-            },
-            {
-                "heading": "California Laws Related to VIN Checks",
-                "headingLevel": "h2",
-                "content": "<p>Understanding California's legal requirements for VIN checks can simplify your car buying experience.</p>"
-            },
-            {
-                "heading": "Title Transfers in California",
-                "headingLevel": "h3",
-                "content": "<p>Title transfers in California come with fees and specific documentation requirements. A typical title transfer can cost up to $15 and takes around 10-15 days. Make sure to confirm the vehicle's VIN details during the transfer.</p>"
-            },
-            {
-                "heading": "California Insurance and Registrations",
-                "headingLevel": "h3",
-                "content": "<p>California requires minimum auto insurance before registration. Liability insurance is a must for every driver, and it ensures financial protection in the event of an accident.</p>"
-            },
-            {
-                "heading": "Applying for Titles in California",
-                "headingLevel": "h3",
-                "content": "<p>Applying for a title in California requires documentation like a completed application form, proof of ownership, and smog inspection (if applicable). Visit the California DMV website for more details on these requirements.</p>"
-            },
-            {
-                "heading": "Why ChassisVIN Vehicle History?",
-                "headingLevel": "h2",
-                "content": "<p>ChassisVIN offers fast, reliable vehicle history reports designed for California's automotive market. From VIN decoding to comprehensive title and accident histories, our services ensure you know everything about the car you're buying, and in just minutes.</p>"
-            }
-        ],
-        "faqs": [
-            {
-                "question": "How Can I Find the Owner of a Vehicle in California?",
-                "answer": "Due to privacy laws, ownership details are generally unavailable without a valid reason."
-            },
-            {
-                "question": "How Can I Do a Title Search in California?",
-                "answer": "You can perform a title search with California DMV or online services like ChassisVIN."
-            },
-            {
-                "question": "How Do I Run a VIN Number Check in California?",
-                "answer": "Use a California VIN check like ChassisVIN to access vehicle history and details quickly."
-            }
-        ]
+    "title": "California VIN Check | VIN Lookup and Vehicle History",
+    "description": "Get accurate vehicle history information with California VIN Check services. Your best alternative to the California DMV VIN check.",
+    "metaTitle": "California VIN Check | VIN Lookup and History",
+    "metaDescription": "Run a California VIN check to get the most accurate history report for any vehicle. It's a quicker alternative to the California DMV VIN check!",
+    "canonical": "https://www.chassisvin.com/vin-check/california",
+    "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
+    "reportType": "VHR",
+    "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
     },
-    "colorado": {
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
+    "tags": [],
+    "sections": [
+      {
+        "heading": "California VIN Check",
+        "headingLevel": "h1",
+        "content": "<p>In California, a VIN check is an essential tool for understanding a vehicle's history. Whether you're looking to buy a used car, verify your own vehicle's past, or understand the details of an auction purchase, a California VIN check can help you find information easily. Here at ChassisVIN, we offer fast and comprehensive VIN decoding services tailored for California's unique market, covering details like accident history, mileage verification, title transfers, and window sticker information.</p>"
+      },
+      {
+        "heading": "Why Should You Run a VIN Check in California?",
+        "headingLevel": "h2",
+        "content": "<p>A California VIN check helps you verify details about a vehicle's past, including important records related to its ownership and usage. Knowing a car's history before purchasing it can prevent future surprises, like undisclosed accidents or liens. With ChassisVIN, you'll receive instant access to extensive data, giving you more peace of mind than waiting for DMV verification.</p>"
+      },
+      {
+        "heading": "Decode Vehicle History",
+        "headingLevel": "h3",
+        "content": "<p>California's vehicle market is diverse, and a VIN check can reveal specific details about a car's past. This includes data like title transfers, accident records, and vehicle registration. Our California VIN check at ChassisVIN provides easy access to these records, ensuring a detailed understanding of each vehicle's background.</p>"
+      },
+      {
+        "heading": "Verify Window Sticker",
+        "headingLevel": "h3",
+        "content": "<p>A window sticker lookup reveals factory options, original MSRP, and dealer details. Use our <a href='https://www.chassisvin.com/window-sticker'>California Window Sticker lookup</a> to uncover the exact specifications and additional features included when the car was first sold.</p>"
+      },
+      {
+        "heading": "Accident History",
+        "headingLevel": "h3",
+        "content": "<p>An accident history check provides crucial insights. Accidents impact a car's value and performance, so it's wise to verify them. Our California VIN check lists all reported accidents to help you make a better-informed decision.</p>"
+      },
+      {
+        "heading": "Mileage and Odometer Verification",
+        "headingLevel": "h3",
+        "content": "<p>Odometer discrepancies are serious, as they may indicate fraud. The California VIN check checks for mileage irregularities, allowing you to confirm that the odometer readings are consistent with the vehicle's history.</p>"
+      },
+      {
+        "heading": "Recalls History",
+        "headingLevel": "h3",
+        "content": "<p>Find out if a vehicle has any outstanding recalls. Our <a href='https://www.chassisvin.com/vehicle-recalls'>recall history lookup</a> shows if a car has pending repairs, making it easier to schedule any necessary fixes.</p>"
+      },
+      {
+        "heading": "Theft Check",
+        "headingLevel": "h3",
+        "content": "<p>A VIN check can reveal if the car was ever reported stolen in California or elsewhere. Knowing this information adds a layer of security to your purchase, preventing legal issues later.</p>"
+      },
+      {
+        "heading": "Vehicle Usage History",
+        "headingLevel": "h3",
+        "content": "<p>Was the car used as a taxi, rental, or lease? These uses often affect wear and resale value. With ChassisVIN, you can find out if the car you're interested in had commercial or other high-usage backgrounds.</p>"
+      },
+      {
+        "heading": "Lien Check",
+        "headingLevel": "h3",
+        "content": "<p>Our California VIN check also checks for any liens on the vehicle, ensuring that you won't be held responsible for another party's debt if you buy the car.</p>"
+      },
+      {
+        "heading": "Useful Resources for Car Buyers in California",
+        "headingLevel": "h2",
+        "content": "<p>Here are some resources to help you understand California's vehicle regulations:</p><ul><li><a href='https://doa.ca.gov/dmv/'>California DMV</a> - General DMV services for VIN decoding, licensing, and registration.</li><li><a href='https://doa.ca.gov/dmv/reg/index.htm'>Registering a Vehicle in California</a> - Details on the process for registering a vehicle in California.</li><li><a href='https://www.chassisvin.com/license-plate-lookup/california'>California License Plate Lookup</a> - Access ChassisVIN's license plate lookup for more vehicle information.</li></ul>"
+      },
+      {
+        "heading": "California Laws Related to VIN Checks",
+        "headingLevel": "h2",
+        "content": "<p>Understanding California's legal requirements for VIN checks can simplify your car buying experience.</p>"
+      },
+      {
+        "heading": "Title Transfers in California",
+        "headingLevel": "h3",
+        "content": "<p>Title transfers in California come with fees and specific documentation requirements. A typical title transfer can cost up to $15 and takes around 10-15 days. Make sure to confirm the vehicle's VIN details during the transfer.</p>"
+      },
+      {
+        "heading": "California Insurance and Registrations",
+        "headingLevel": "h3",
+        "content": "<p>California requires minimum auto insurance before registration. Liability insurance is a must for every driver, and it ensures financial protection in the event of an accident.</p>"
+      },
+      {
+        "heading": "Applying for Titles in California",
+        "headingLevel": "h3",
+        "content": "<p>Applying for a title in California requires documentation like a completed application form, proof of ownership, and smog inspection (if applicable). Visit the California DMV website for more details on these requirements.</p>"
+      },
+      {
+        "heading": "Why ChassisVIN Vehicle History?",
+        "headingLevel": "h2",
+        "content": "<p>ChassisVIN offers fast, reliable vehicle history reports designed for California's automotive market. From VIN decoding to comprehensive title and accident histories, our services ensure you know everything about the car you're buying, and in just minutes.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How Can I Find the Owner of a Vehicle in California?",
+        "answer": "Due to privacy laws, ownership details are generally unavailable without a valid reason."
+      },
+      {
+        "question": "How Can I Do a Title Search in California?",
+        "answer": "You can perform a title search with California DMV or online services like ChassisVIN."
+      },
+      {
+        "question": "How Do I Run a VIN Number Check in California?",
+        "answer": "Use a California VIN check like ChassisVIN to access vehicle history and details quickly."
+      }
+    ]
+  },
+  "colorado": {
     "title": "Colorado VIN Check",
     "description": "Run a Colorado VIN check to get a complete vehicle history report. Discover title records, accidents, and more for any vehicle registered in Colorado.",
     "metaTitle": "Colorado VIN Check | VIN Lookup and History",
@@ -578,6 +613,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -690,6 +732,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -802,6 +851,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -909,6 +965,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1021,6 +1084,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1078,6 +1148,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1190,6 +1267,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1252,6 +1336,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1369,6 +1460,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1481,6 +1579,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1598,6 +1703,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1715,6 +1827,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1827,6 +1946,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -1944,6 +2070,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2056,6 +2189,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2173,6 +2313,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2300,6 +2447,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2427,6 +2581,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2484,6 +2645,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2601,6 +2769,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2713,6 +2888,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2825,6 +3007,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -2937,6 +3126,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3049,6 +3245,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3161,6 +3364,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3268,6 +3478,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3380,6 +3597,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3487,6 +3711,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3599,6 +3830,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3711,6 +3949,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3823,6 +4068,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -3935,6 +4187,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4047,6 +4306,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4154,6 +4420,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4271,6 +4544,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4378,6 +4658,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4490,6 +4777,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4597,6 +4891,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4714,6 +5015,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4826,6 +5134,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -4938,6 +5253,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -5045,6 +5367,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -5157,6 +5486,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -5269,6 +5605,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {
@@ -5376,6 +5719,13 @@
     "dataSources": [{"source": "statesList", "prefix": "vin-check"}],
     "reportType": "VHR",
     "heroForm": true,
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "/blogs/branded-title-car.webp",
+    "datePublished": "2024-12-09T08:00:00Z",
+    "dateModified": "2024-12-09T08:00:00Z",
     "tags": [],
     "sections": [
       {

@@ -1,9 +1,10 @@
-"example-page": {
+{
+  "example-page-url": {
     "title": "Example Page",
     "description": "Comprehensive Content Demonstration",
     "metaTitle": "Example Meta Title | Showcasing Various Content Structures",
     "metaDescription": "This example page demonstrates different content structures including paragraphs, lists, and tables, providing a comprehensive overview of possible content layouts.",
-    "canonical": "https://example.com/example-page",
+    "canonical": "https://example.com/example-page-url",
     "dataSources": [{"source": "sampleList", "prefix": "example-page"}],
     "reportType": "VHR",
     "heroForm": true,
@@ -41,3 +42,4 @@
       }
     ]
   }
+}
