@@ -1,7 +1,16 @@
+import { Metadata } from 'next'
 import BlogList from "../components/BlogList";
 
 interface BlogPageProps {
   searchParams: { [key: string]: string | string[] | undefined };
+}
+
+export const metadata: Metadata = {
+  title: 'Our Blog Articles | ChassisVIN',
+  description: 'Discover insights about vehicle history, maintenance, and buying guides on our blog.',
+  alternates: {
+    canonical: 'https://www.chassisvin.com/blogs',
+  },
 }
 
 export default function BlogPage({ searchParams }: BlogPageProps) {
