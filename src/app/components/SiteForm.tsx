@@ -18,6 +18,7 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
   const [error, setError] = useState<string | null>(null)
   const [displayedError, setDisplayedError] = useState<string | null>(null)
   const [showVinTooltip, setShowVinTooltip] = useState(false)
+  const [currentURL, setCurrentURL] = useState('')
   const router = useRouter()
 
   const states = [
@@ -85,6 +86,12 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
     }
   }, [error])
 
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      setCurrentURL(window.location.href)
+    }
+  }, [])
+
   const isValidVin = (vin: string) => vin.length == 17
 
   const fetchVinData = async (state: string, plate: string): Promise<string | null> => {
@@ -113,12 +120,29 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
     }
   }
 
+  const exportCurrentURL = () => {
+    const url = new URL(currentURL);
+    let path = url.pathname;
+
+    if (path.endsWith('/')) {
+      path = path.slice(0, -1);
+    }
+
+    const abbreviation = 'cv';
+
+    const readablePath = path === '' ? '_homePage' : path.replace(/[/:?&=]/g, '_');
+
+    return `${abbreviation}${readablePath}`;
+  }
+
   const redirectToReport = (vin: string) => {
-    const baseUrl = 'https://www.clearvin.com/en/'
-    const affiliateParam = '?a_aid=b3a49a62'
+    const baseUrl = 'https://www.clearvin.com/en/';
+    const affiliateParam = '?a_aid=b3a49a62';
+    const affiliateTracking = '&variation=' + exportCurrentURL();
+    const affiliateData = '&data2=' + exportCurrentURL() + '_2';
     const url = reportType === 'VHR'
-      ? `${baseUrl}payment/prepare/${vin}/${affiliateParam}`
-      : `${baseUrl}window-sticker/checkout/${vin}/${affiliateParam}`
+      ? `${baseUrl}payment/prepare/${vin}/${affiliateParam}${affiliateTracking}${affiliateData}`
+      : `${baseUrl}window-sticker/checkout/${vin}/${affiliateParam}${affiliateTracking}${affiliateData}`
     router.push(url)
   }
 
