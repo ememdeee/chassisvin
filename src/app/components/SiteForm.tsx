@@ -138,11 +138,12 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
   const redirectToReport = (vin: string) => {
     const baseUrl = 'https://www.clearvin.com/en/';
     const affiliateParam = '?a_aid=b3a49a62';
+    const affiliateChannel = '&chan=cv';
     const affiliateTracking = '&variation=' + exportCurrentURL();
     const affiliateData = '&data2=' + exportCurrentURL() + '_2';
     const url = reportType === 'VHR'
-      ? `${baseUrl}payment/prepare/${vin}/${affiliateParam}${affiliateTracking}${affiliateData}`
-      : `${baseUrl}window-sticker/checkout/${vin}/${affiliateParam}${affiliateTracking}${affiliateData}`
+      ? `${baseUrl}payment/prepare/${vin}/${affiliateParam}${affiliateChannel}${affiliateTracking}${affiliateData}`
+      : `${baseUrl}window-sticker/checkout/${vin}/${affiliateParam}}${affiliateChannel}${affiliateTracking}${affiliateData}`
     router.push(url)
   }
 
