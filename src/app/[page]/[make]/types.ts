@@ -20,6 +20,8 @@ export interface Content {
   metaTitle: string;
   metaDescription: string;
   canonical: string;
+  imageUrl: string;
+  dateModified: string,
   dataSources: DataSource[];
   reportType: string;
   heroForm: boolean;

@@ -19,16 +19,25 @@ const Footer = () => {
               />
               <span className="text-xl font-semibold text-gray-900">ChassisVIN</span>
             </Link>
+            <div className="flex flex-col">
+              <span className="font-semibold text-gray-900 mb-2">Service</span>
+              <nav className="flex flex-col space-y-2">
+                <Link href="/vin-decoder" className="text-gray-600 hover:text-gray-900">VIN Decoder</Link>
+                <Link href="/classic-lookup" className="text-gray-600 hover:text-gray-900">Classic Car Lookup</Link>
+                <Link href="/window-sticker" className="text-gray-600 hover:text-gray-900">Window Sticker</Link>
+                <Link href="/build-sheet-by-vin" className="text-gray-600 hover:text-gray-900">Build Sheet</Link>
+              </nav>
+            </div>
           </div>
           <div className="flex flex-col mb-6 md:mb-0">
-            <span className="font-semibold text-gray-900 mb-2">Services</span>
+            <span className="font-semibold text-gray-900 mb-2">Other Services</span>
             <nav className="flex flex-col space-y-2">
-              <Link href="/vin-decoder" className="text-gray-600 hover:text-gray-900">Cars</Link>
-              <Link href="/classic-lookup" className="text-gray-600 hover:text-gray-900">Classic Car</Link>
-              <Link href="/window-sticker" className="text-gray-600 hover:text-gray-900">Window Sticker</Link>
-              <Link href="/build-sheet-by-vin" className="text-gray-600 hover:text-gray-900">Buildsheet</Link>
               <Link href="/vin-check" className="text-gray-600 hover:text-gray-900">US Vin Check</Link>
               <Link href="/license-plate-lookup" className="text-gray-600 hover:text-gray-900">License Plate Lookup</Link>
+              <Link href="/build-sheet-by-vin" className="text-gray-600 hover:text-gray-900">Buildsheet</Link>
+              <Link href="/warranty-by-vin" className="text-gray-600 hover:text-gray-900">Warranty Check</Link>
+              <Link href="/rv-vin-lookup" className="text-gray-600 hover:text-gray-900">RV & Camper Check</Link>
+              <Link href="/vin-decoder" className="text-gray-600 hover:text-gray-900">Cars</Link>
             </nav>
           </div>
           <div className="flex flex-col mb-6 md:mb-0">

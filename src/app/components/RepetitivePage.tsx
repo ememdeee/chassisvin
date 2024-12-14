@@ -34,6 +34,8 @@ interface Content {
   metaTitle: string;
   metaDescription: string;
   canonical: string;
+  imageUrl: string;
+  dateModified: string,
   dataSources: DataSource[];
   reportType: string;
   heroForm: boolean;
@@ -61,6 +63,29 @@ export function generateMetadata({ contents, params }: Pick<RepetitivePageProps,
     description: content.metaDescription,
     alternates: {
       canonical: content.canonical,
+    },
+    openGraph: {
+      title: content.title,
+      description: content.description,
+      images: [
+        {
+          url: content.imageUrl,
+          width: 1200,
+          height: 630,
+          alt: content.title,
+        },
+      ],
+      type: 'article',
+      siteName: 'ChassisVIN',
+      locale: 'en_US',
+      url: content.canonical,
+      modifiedTime: content.dateModified,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: content.title,
+      description: content.description,
+      images: [content.imageUrl],
     },
   }
 }

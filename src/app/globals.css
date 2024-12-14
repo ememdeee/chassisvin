@@ -14,6 +14,10 @@
 .content h3{
     font-size: 18px;
 }
+.content img{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 @layer base {
   :root {
         --background: 0 0% 100%;
