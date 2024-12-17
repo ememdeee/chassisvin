@@ -37,7 +37,7 @@ const Footer = () => {
               <Link href="/build-sheet-by-vin" className="text-gray-600 hover:text-gray-900">Buildsheet</Link>
               <Link href="/warranty-by-vin" className="text-gray-600 hover:text-gray-900">Warranty Check</Link>
               <Link href="/rv-vin-lookup" className="text-gray-600 hover:text-gray-900">RV & Camper Check</Link>
-              <Link href="/vin-decoder" className="text-gray-600 hover:text-gray-900">Cars</Link>
+              <Link href="/unlimited-vehicle-history-reports" className="text-gray-600 hover:text-gray-900">Become a Dealer</Link>
             </nav>
           </div>
           <div className="flex flex-col mb-6 md:mb-0">

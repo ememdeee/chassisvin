@@ -8,6 +8,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -15,7 +16,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "1970 Plymouth Roadrunner Gallery",
@@ -72,6 +73,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -79,7 +81,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "The Allure of the 1969 Dodge Charger",
@@ -140,6 +142,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -147,7 +150,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "The 1967 Chevrolet Impala: An Icon of American Muscle",
@@ -209,6 +212,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -216,7 +220,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "The Timeless 1955 Chevrolet Bel-Air",
@@ -273,6 +277,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -280,7 +285,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
             {
                 "heading": "The Iconic 1958 Plymouth Fury",
@@ -350,6 +355,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -357,7 +363,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
             {
             "heading": "The Iconic 1970 Chevrolet Monte Carlo",
@@ -432,6 +438,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -439,7 +446,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "1970 Plymouth Barracuda: Most Expensive Sales",
@@ -494,6 +501,7 @@
         ],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -501,7 +509,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Overview of the 1965 Lincoln Continental",
@@ -565,6 +573,7 @@
         ],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -572,7 +581,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Introduction to the 1951 Hudson Hornet",
@@ -643,6 +652,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -650,7 +660,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "The Iconic 1969 Pontiac GTO",
@@ -729,6 +739,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -736,7 +747,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Overview of the 1963 Pontiac Tempest",
@@ -797,6 +808,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -804,7 +816,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Overview of the 1963 Pontiac Tempest",
@@ -869,6 +881,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -876,7 +889,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Overview of the 1970 Dodge Dart",
@@ -947,6 +960,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -954,7 +968,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "1969 Pontiac Firebird Gallery",
@@ -1015,6 +1029,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -1022,7 +1037,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "1969 Oldsmobile 442 Gallery",
@@ -1074,6 +1089,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -1081,7 +1097,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Overview of the 1970 Pontiac LeMans",
@@ -1133,6 +1149,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -1140,7 +1157,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "Introduction to the 1967 Ford Galaxie 500",
@@ -1217,6 +1234,7 @@
         ],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -1224,7 +1242,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "1965 Buick Riviera Gallery",
@@ -1286,6 +1304,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -1293,7 +1312,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
         {
             "heading": "1969 Ford Mustang Overview",
@@ -1363,6 +1382,7 @@
         "dataSources": [{"source": "classicList", "prefix": "classic-lookup"}],
         "reportType": "VHR",
         "heroForm": true,
+        "heroCta": [],
         "author": {
             "name": "Chassis VIN",
             "url": "https://www.chassisvin.com/about-us"
@@ -1370,7 +1390,7 @@
         "imageUrl": "https://www.chassisvin.com/auction-classic-og-image.png",
         "datePublished": "2024-12-09T08:00:00Z",
         "dateModified": "2024-12-09T08:00:00Z",
-        "tags": ["specs"],
+        "tags": ["specs", "service"],
         "sections": [
             {
             "heading": "1967 Mercury Cougar Gallery",

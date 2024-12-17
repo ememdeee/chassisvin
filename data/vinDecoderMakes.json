@@ -8,6 +8,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -15,7 +16,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is Acura VIN Decoder?",
@@ -148,6 +149,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -155,7 +157,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is an Alfa Romeo VIN Decoder?",
@@ -260,6 +262,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -267,7 +270,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Aston Martin VIN Decoder",
@@ -332,6 +335,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -339,7 +343,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is an Audi VIN Decoder?",
@@ -472,6 +476,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -479,7 +484,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Bentley VIN?",
@@ -544,6 +549,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -551,7 +557,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a BMW VIN Decoder?",
@@ -616,6 +622,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -623,7 +630,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Buick VIN Decoder?",
@@ -743,6 +750,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -750,7 +758,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a VIN?",
@@ -900,6 +908,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -907,7 +916,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Chevrolet VIN Decoder",
@@ -1040,6 +1049,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1047,7 +1057,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Chrysler VIN Decoder",
@@ -1197,6 +1207,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1204,7 +1215,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Daewoo VIN Decoder?",
@@ -1319,6 +1330,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1326,7 +1338,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Datsun VIN Decoder",
@@ -1406,6 +1418,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1413,7 +1426,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Dodge VIN Decoder?",
@@ -1528,6 +1541,7 @@
   "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
   "reportType": "VHR",
   "heroForm": true,
+  "heroCta": [],
   "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1535,7 +1549,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-  "tags": [],
+  "tags": ["service"],
   "sections": [
     {
       "heading": "What is a Ducati VIN Decoder?",
@@ -1650,6 +1664,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1657,7 +1672,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -1732,6 +1747,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1739,7 +1755,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Ferrari VIN Decoder?",
@@ -1854,6 +1870,7 @@
   "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
   "reportType": "VHR",
   "heroForm": true,
+  "heroCta": [],
   "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1861,7 +1878,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-  "tags": [],
+  "tags": ["service"],
   "sections": [
     {
       "heading": "What is a Fiat VIN Decoder?",
@@ -1976,6 +1993,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -1983,7 +2001,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -2098,6 +2116,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2105,7 +2124,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Ford VIN Decoder?",
@@ -2220,6 +2239,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2227,7 +2247,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Freightliner VIN Decoder",
@@ -2342,6 +2362,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2349,7 +2370,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Geo VIN Decoder",
@@ -2464,6 +2485,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2471,7 +2493,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "GMC VIN Decoder",
@@ -2586,6 +2608,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2593,7 +2616,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Harley-Davidson VIN Decoder",
@@ -2708,6 +2731,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2715,7 +2739,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Honda VIN Decoder",
@@ -2830,6 +2854,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2837,7 +2862,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Hummer VIN Decoder",
@@ -2952,6 +2977,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -2959,7 +2985,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Hyundai VIN Decoder",
@@ -3074,6 +3100,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3081,7 +3108,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Infiniti VIN Decoder",
@@ -3196,6 +3223,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3203,7 +3231,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is VIN Decoding?",
@@ -3278,6 +3306,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3285,7 +3314,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is an Isuzu VIN Decoder?",
@@ -3400,6 +3429,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3407,7 +3437,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Jaguar VIN Decoder?",
@@ -3522,6 +3552,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3529,7 +3560,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Jayco VIN Decoder?",
@@ -3644,6 +3675,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3651,7 +3683,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Jeep VIN Decoder?",
@@ -3766,6 +3798,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3773,7 +3806,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -3888,6 +3921,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -3895,7 +3929,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Kenworth VIN Decoder?",
@@ -4010,6 +4044,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4017,7 +4052,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Kia VIN Decoder?",
@@ -4112,6 +4147,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4119,7 +4155,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "KTM VIN Decoder",
@@ -4234,6 +4270,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4241,7 +4278,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Lamborghini VIN Decoder",
@@ -4356,6 +4393,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4363,7 +4401,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Land Rover VIN Decoder",
@@ -4478,6 +4516,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4485,7 +4524,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Lexus VIN Decoder",
@@ -4600,6 +4639,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4607,7 +4647,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Lincoln VIN Decoder",
@@ -4722,6 +4762,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4729,7 +4770,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Lotus VIN Decoder",
@@ -4844,6 +4885,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4851,7 +4893,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Mack VIN Decoder",
@@ -4966,6 +5008,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -4973,7 +5016,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Maserati VIN Decoder",
@@ -5058,6 +5101,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5065,7 +5109,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Maybach VIN Decoder",
@@ -5180,6 +5224,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5187,7 +5232,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Mazda VIN Decoder",
@@ -5302,6 +5347,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5309,7 +5355,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "McLaren VIN Decoder",
@@ -5424,6 +5470,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5431,7 +5478,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Mercedes-Benz VIN Decoder",
@@ -5546,6 +5593,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5553,7 +5601,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Mercury VIN Decoder?",
@@ -5668,6 +5716,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5675,7 +5724,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "MINI VIN Decoder",
@@ -5790,6 +5839,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5797,7 +5847,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Mitsubishi VIN Decoder?",
@@ -5892,6 +5942,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -5899,7 +5950,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Nissan VIN Decoder?",
@@ -6014,6 +6065,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6021,7 +6073,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
         {
             "heading": "What is an Oldsmobile VIN Decoder?",
@@ -6136,6 +6188,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6143,7 +6196,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is the Opel VIN Decoder?",
@@ -6258,6 +6311,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6265,7 +6319,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Peterbilt VIN Decoder",
@@ -6385,6 +6439,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6392,7 +6447,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Peugeot VIN Decoder",
@@ -6507,6 +6562,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6514,7 +6570,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Plymouth VIN Decoder",
@@ -6634,6 +6690,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6641,7 +6698,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Polaris VIN Decoder",
@@ -6756,6 +6813,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6763,7 +6821,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Pontiac VIN Decoder",
@@ -6883,6 +6941,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -6890,7 +6949,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Porsche VIN Decoder",
@@ -7010,6 +7069,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7017,7 +7077,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "RAM VIN Decoder",
@@ -7132,6 +7192,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7139,7 +7200,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Rolls-Royce VIN Decoder",
@@ -7254,6 +7315,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7261,7 +7323,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Saab VIN Decoder",
@@ -7376,6 +7438,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7383,7 +7446,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Saturn VIN Decoder",
@@ -7498,6 +7561,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7505,7 +7569,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is Smart VIN Decoder?",
@@ -7620,6 +7684,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7627,7 +7692,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Subaru VIN Decoder?",
@@ -7742,6 +7807,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7749,7 +7815,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
         {
             "heading": "What is a Suzuki VIN Decoder?",
@@ -7864,6 +7930,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7871,7 +7938,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Tesla VIN Decoder?",
@@ -7986,6 +8053,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -7993,7 +8061,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a VIN Decoder?",
@@ -8108,6 +8176,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -8115,7 +8184,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-15T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Toyota VIN?",
@@ -8230,6 +8299,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -8237,7 +8307,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "Volkswagen VIN Decoder",
@@ -8357,6 +8427,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -8364,7 +8435,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Volvo VIN Decoder?",
@@ -8479,6 +8550,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -8486,7 +8558,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Volvo Truck VIN Decoder?",
@@ -8601,6 +8673,7 @@
     "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "reportType": "VHR",
     "heroForm": true,
+    "heroCta": [],
     "author": {
       "name": "Chassis VIN",
       "url": "https://www.chassisvin.com/about-us"
@@ -8608,7 +8681,7 @@
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
     "dateModified": "2024-12-09T08:00:00Z",
-    "tags": [],
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is a Yamaha VIN Decoder?",

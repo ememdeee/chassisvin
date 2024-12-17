@@ -8,7 +8,15 @@
     "dataSources": [{"source": "sampleList", "prefix": "example-page"}],
     "reportType": "VHR",
     "heroForm": true,
-    "tags": [],
+    "heroCta": [{"text": "Register Now", "link": "https://www.clearvin.com/dealer/login/?a_aid=b3a49a62"}],
+    "author": {
+      "name": "Chassis VIN",
+      "url": "https://www.chassisvin.com/about-us"
+    },
+    "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
+    "datePublished": "2024-12-14T08:00:00Z",
+    "dateModified": "2024-12-14T08:00:00Z",
+    "tags": ["service"],
     "sections": [
       {
         "heading": "What is This Example?",

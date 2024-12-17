@@ -9,6 +9,11 @@ interface DataSource {
   prefix: string;
 }
 
+interface HeroCta {
+  text: string;
+  link: string;
+}
+
 interface FAQItem {
   question: string;
   answer: string;
@@ -25,6 +30,7 @@ export interface Content {
   dataSources: DataSource[];
   reportType: string;
   heroForm: boolean;
+  heroCta: HeroCta[];
   tags: string[];
   sections: Section[];
   faqs: FAQItem[];

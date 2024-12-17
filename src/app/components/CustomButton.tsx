@@ -35,10 +35,12 @@ const CustomButton: React.FC<CustomButtonProps> = ({ text, href, onClick }) => {
   }
 
   if (href && href !== '#') {
+    const shouldOpenNewTab = href.includes('.');
     return (
       <Link 
         href={href} 
         className={className}
+        {...(shouldOpenNewTab ? { target: "_blank", rel: "noopener noreferrer" } : {})}
       >
         {text} <span className="ml-2">→</span>
       </Link>

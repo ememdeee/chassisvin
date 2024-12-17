@@ -23,6 +23,11 @@ interface DataSource {
   prefix: string;
 }
 
+interface HeroCta {
+  text: string;
+  link: string;
+}
+
 interface FAQItem {
   question: string;
   answer: string;
@@ -39,6 +44,7 @@ interface Content {
   dataSources: DataSource[];
   reportType: string;
   heroForm: boolean;
+  heroCta: HeroCta[];
   tags: string[];
   sections: Section[];
   faqs: FAQItem[];
@@ -112,6 +118,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
 
   const showClassicYmmSpecs = content.tags.some(tag => tag.toLowerCase().includes('spec'))
   const showSourceAndPartner = content.tags.some(tag => tag.toLowerCase().includes('partner'))
+  const showServiceList = content.tags.some(tag => tag.toLowerCase().includes('service'))
 
   return (
     <>
@@ -119,7 +126,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
         <link rel="canonical" href={content.canonical} />
       </Head>
       <main>
-        <HeroSection showForm={content.heroForm} title={content.title} description={content.description} reportType={content.reportType as 'VHR' | 'WS'} />
+        <HeroSection showForm={content.heroForm} title={content.title} description={content.description} reportType={content.reportType as 'VHR' | 'WS'} heroCta={content.heroCta} />
         <TwoColumnContainer>
           <div>
             <Breadcrumb />
@@ -137,13 +144,15 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
             {content.dataSources && content.dataSources.length > 0 && content.dataSources.map((dataSource, index) => (
               dataSource.source && dataSource.source.trim() !== "" && (
                 <UrlList 
-                  key={`${dataSource.source}-${index}`}
-                  dataSource={dataSource.source} 
-                  urlPrefix={dataSource.prefix} 
+                key={`${dataSource.source}-${index}`}
+                dataSource={dataSource.source} 
+                urlPrefix={dataSource.prefix} 
                 />
               )
             ))}
-            {content.heroForm && <ServiceList />}
+            
+            {showServiceList && <ServiceList />}
+            
             {content.faqs && content.faqs.length > 0 && (
               <FAQBasic title="Frequently Asked Questions" items={content.faqs} />
             )}
