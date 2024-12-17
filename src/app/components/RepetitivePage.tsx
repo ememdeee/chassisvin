@@ -11,6 +11,7 @@ import ServiceList from './ServiceList'
 import ClassicYmmSpecs from './ClassicYmmSpecs'
 import SourceAndPartner from './SourceAndPartner'
 import CheckOurBlog from './CheckOurBlog'
+import SectionCta from './SectionCta'
 
 interface Section {
   heading: string;
@@ -104,12 +105,31 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
     notFound()
   }
 
+  const renderSection = (section: Section, index: number) => {
+    if (section.headingLevel === 'CTA') {
+      return (
+        <div className="content px-4 my-6" key={index}>
+          <SectionCta text={section.heading} href={section.content} />
+        </div>
+      )
+    }
+
+    return (
+      <div className="content px-4" key={index}>
+        {renderHeading(section)}
+        <SectionContent content={section.content} />
+      </div>
+    )
+  }
+
   const renderHeading = (section: Section) => {
     switch (section.headingLevel) {
       case "h3":
         return <h3>{section.heading}</h3>
       case "h4":
         return <h4>{section.heading}</h4>
+      case "CTA":
+        return null
       case "h2":
       default:
         return <h2>{section.heading}</h2>
@@ -130,12 +150,13 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
         <TwoColumnContainer>
           <div>
             <Breadcrumb />
-            {content.sections && content.sections.length > 0 && content.sections.map((section, index) => (
+            {content.sections && content.sections.length > 0 && content.sections.map((section, index) => renderSection(section, index))}
+            {/* {content.sections && content.sections.length > 0 && content.sections.map((section, index) => (
               <div className="content px-4" key={index}>
                 {renderHeading(section)}
                 <SectionContent content={section.content} />
               </div>
-            ))}
+            ))} */}
 
             {showClassicYmmSpecs && <ClassicYmmSpecs />}
 
