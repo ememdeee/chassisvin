@@ -48,18 +48,19 @@ const Footer = () => {
               <Link href="/sample" className="text-gray-600 hover:text-gray-900">Sample Report</Link>
               <Link href="/about-us" className="text-gray-600 hover:text-gray-900">About Us</Link>
               <Link href="/contact-us" className="text-gray-600 hover:text-gray-900">Contact Us</Link>
+              <Link href="/vin-explorer" className="text-gray-600 hover:text-gray-900">VIN Explorer</Link>
             </nav>
           </div>
           <div className="flex flex-col items-start">
             <span className="font-semibold text-gray-900 mb-2">Follow Us</span>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-gray-600">
+              <a href="/vin-explorer" aria-label="Search" className="text-gray-400 hover:text-gray-600">
                 <Search className="w-6 h-6" />
               </a>
-              <a href="https://www.linkedin.com/in/muhammad-basurah/" className="text-gray-400 hover:text-gray-600">
+              <a href="https://www.linkedin.com/in/muhammad-basurah/" aria-label="LinkedIn profile of Muhammad Basurah" className="text-gray-400 hover:text-gray-600">
                 <Linkedin className="w-6 h-6" />
               </a>
-              <a href="https://github.com/ememdeee" className="text-gray-400 hover:text-gray-600">
+              <a href="https://github.com/ememdeee" aria-label="GitHub profile of Muhammad Basurah" className="text-gray-400 hover:text-gray-600">
                 <Github className="w-6 h-6" />
               </a>
             </div>
