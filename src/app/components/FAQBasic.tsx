@@ -11,9 +11,10 @@ interface FAQItem {
 interface FAQProps {
   title: string
   items: FAQItem[]
+  style?: 'default' | 'style2'
 }
 
-export default function FAQBasic({ title, items }: FAQProps) {
+export default function FAQBasic({ title, items, style = 'default' }: FAQProps) {
   const [openIndex, setOpenIndex] = useState<number | null>(null)
   const answerRefs = useRef<(HTMLDivElement | null)[]>([])
 
@@ -39,16 +40,18 @@ export default function FAQBasic({ title, items }: FAQProps) {
   }
 
   return (
-    <section id='faq-section' className="w-full max-w-4xl mx-auto [&:not(#breadcrumb+&)]:py-12 [#breadcrumb+&]:pt-0 [#breadcrumb+&]:pb-12 px-4">
+    <section id='faq-section' className={`w-full mx-auto [&:not(#breadcrumb+&)]:py-12 [#breadcrumb+&]:pt-0 [#breadcrumb+&]:pb-12 px-4 ${style === 'default' ? 'max-w-4xl' : ''}`}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
       />
       <div className="text-center mb-8">
-        <div className="inline-block p-3 bg-gray-100 rounded-full mb-4">
-          <HelpCircle className="w-6 h-6 text-gray-500" />
-        </div>
-        <h2 className="text-3xl font-bold">{title}</h2>
+        {style === 'default' && (
+          <div className="inline-block p-3 bg-gray-100 rounded-full mb-4">
+            <HelpCircle className="w-6 h-6 text-gray-500" />
+          </div>
+        )}
+        <h2 className={`text-3xl font-bold ${style === 'style2' ? 'text-left' : ''}`}>{title}</h2>
       </div>
       <div className="space-y-4">
         {items.map((item, index) => (

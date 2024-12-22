@@ -34,6 +34,11 @@
         "content": "<p>Tables can be used to display structured data. Here's an example:</p><table><thead><tr><th>Header 1</th><th>Header 2</th><th>Header 3</th></tr></thead><tbody><tr><td>Row 1, Cell 1</td><td>Row 1, Cell 2</td><td>Row 1, Cell 3</td></tr><tr><td>Row 2, Cell 1</td><td>Row 2, Cell 2</td><td>Row 2, Cell 3</td></tr><tr><td>Row 3, Cell 1</td><td>Row 3, Cell 2</td><td>Row 3, Cell 3</td></tr></tbody></table>"
       },
       {
+        "heading": "Register Now",
+        "headingLevel": "CTA",
+        "content": "/some-link"
+      },
+      {
         "heading": "Combined Example",
         "headingLevel": "h2",
         "content": "<p>This section demonstrates how different HTML elements can be combined:</p><ul><li>List item with a <a href='/link-in-list'>link</a></li><li>List item with nested content:<ul><li>Nested list item 1</li><li>Nested list item 2</li></ul></li><li>List item with a table:<table><tr><th>Column 1</th><th>Column 2</th></tr><tr><td>Data 1</td><td>Data 2</td></tr></table></li></ul>"

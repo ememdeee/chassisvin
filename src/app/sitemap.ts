@@ -6,8 +6,10 @@ import licensePlateLookupStates from '@/data/licensePlateLookupStates.json'
 import vinCheckStates from '@/data/vinCheckStates.json'
 import classicYmmt from '@/data/classicYmmt.json'
 import blogs from '@/data/blogs.json'
+import { getPageDates } from '@/data/pageDates'
 import fs from 'fs'
 import path from 'path'
+import { autoData } from '@/lib/data'
 
 function formatUrl(baseUrl: string, path: string = ''): string {
   const cleanBaseUrl = baseUrl.replace(/\/+$/, '')
@@ -45,9 +47,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://www.chassisvin.com'
 
   // 1. Homepage
+  const homePageDates = getPageDates('/');
   const homeEntry = {
     url: formatUrl(baseUrl),
-    lastModified: new Date(),
+    lastModified: homePageDates ? new Date(homePageDates.dateModified) : new Date(),
     changeFrequency: 'daily' as const,
     priority: 1,
   }
@@ -65,13 +68,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const manualPages = getManualPages(appDir)
   const manualEntries = manualPages
     .filter(page => page !== '/') // Remove root page to avoid duplication
-    .map(page => ({
-      url: formatUrl(baseUrl, page),
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.8,
-    }))
-
+    .map(page => {
+      const pageDates = getPageDates(page)
+      return {
+        url: formatUrl(baseUrl, page),
+        lastModified: pageDates ? new Date(pageDates.dateModified) : new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.8,
+      }
+    })
+    
+  const vinExplorerDates = getPageDates('/vin-explorer');
   // 4. Entries from other json files
   const dynamicEntries = [
     ...Object.entries(vinDecoderMakes).map(([slug, page]) => ({
@@ -101,6 +108,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...Object.entries(classicYmmt).map(([slug, page]) => ({
       url: formatUrl(baseUrl, `classic-lookup/${slug}`),
       lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    // Add entries for make pages from autoData
+    ...autoData.map((make) => ({
+      url: formatUrl(baseUrl, `vin-explorer/${make.name.toLowerCase()}`),
+      lastModified: vinExplorerDates ? new Date(vinExplorerDates.dateModified) : new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     })),

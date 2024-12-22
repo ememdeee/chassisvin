@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import React from 'react'
 import HeroSection from './components/HeroSection'
 import InfoSection from './components/InfoSection'
@@ -11,6 +12,24 @@ import WhatSetsUsApart from './components/WhatSetsUsApart'
 import ServiceList from './components/ServiceList'
 import UrlList from './components/url-list'
 import CheckOurBlog from './components/CheckOurBlog'
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://www.chassisvin.com/', // Replace with your actual URL
+  },
+  openGraph: {
+    images: [
+      {
+        url: 'https://www.chassisvin.com/auction-og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'ChassisVIN - Vehicle History Reports',
+      },
+    ],
+    type: 'website',
+    url: 'https://www.chassisvin.com/',
+  }
+}
 
 export default function Home() {
 

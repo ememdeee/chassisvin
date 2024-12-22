@@ -11,6 +11,10 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.chassisvin.com/blogs',
   },
+  other: {
+    datePublished: '2024-12-09',
+    dateModified: '2024-12-17',
+  },
 }
 
 export default function BlogPage({ searchParams }: BlogPageProps) {
