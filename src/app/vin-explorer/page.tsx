@@ -32,7 +32,7 @@ export default function ExploreRootPage() {
   const description = "Explore VIN decoder, window sticker, license plate lookup, and dealer signups for top car makes. Get detailed vehicle history, specs, and ownership insights to make informed decisions.";
   const listItems = autoData.map((m) => ({
     name: m.name,
-    href: `/vin-explorer/${m.name.toLowerCase()}`
+    href: `/vin-explorer/${m.name.toLowerCase().replace(/\s+/g, '-')}`
   }));
 
   const faqItems = [

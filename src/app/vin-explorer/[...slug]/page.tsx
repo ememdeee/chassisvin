@@ -3,7 +3,7 @@ import { getMake, getModel, getYear } from '@/lib/data';
 import ExplorePageContent from '@/app/components/ExplorePageContent';
 
 function capitalize(str: string): string {
-  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+  return str.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
 }
 
 type Props = {
@@ -119,7 +119,7 @@ export default function ExplorePage({ params }: { params: { slug: string[] } }) 
     const description = `Unlock detailed information about your ${make} ${model} with our VIN decoder. Access build sheets, service history, safety recalls, and more. Try our license plate lookup for complete vehicle insights!`;
     const listItems = modelData.years.map((y) => ({
       name: y.year.toString(),
-      href: `/vin-explorer/${make.toLowerCase()}/${model.toLowerCase()}/${y.year}`
+      href: `/vin-explorer/${make.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]+/g, '')}/${model.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]+/g, '')}/${y.year}`
     }));
 
     const faqItems = [
@@ -164,7 +164,7 @@ export default function ExplorePage({ params }: { params: { slug: string[] } }) 
     const description = `Unlock detailed information about your ${makeData.name} with our VIN decoder. Access build sheets, service history, safety recalls, and more. Try our license plate lookup for complete vehicle insights!`;
     const listItems = makeData.models.map((m) => ({
       name: capitalize(m.name),
-      href: `/vin-explorer/${make.toLowerCase()}/${m.name.toLowerCase()}`
+      href: `/vin-explorer/${make.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]+/g, '')}/${m.name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]+/g, '')}`
     }));
 
     const faqItems = [
