@@ -113,7 +113,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
     // Add entries for make pages from autoData
     ...autoData.map((make) => ({
-      url: formatUrl(baseUrl, `vin-explorer/${make.name.toLowerCase()}`),
+      url: formatUrl(baseUrl, `vin-explorer/${make.name.toLowerCase().replace(/\s+/g, '-')}`),
       lastModified: vinExplorerDates ? new Date(vinExplorerDates.dateModified) : new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
