@@ -431,7 +431,7 @@
     },
     "imageUrl": "https://www.chassisvin.com/auction-og-image.png",
     "datePublished": "2024-12-09T08:00:00Z",
-    "dateModified": "2024-12-14T08:00:00Z",
+    "dateModified": "2024-12-24T08:00:00Z",
     "tags": ["partner"],
     "sections": [
       {
@@ -473,6 +473,11 @@
         "heading": "Our Mission",
         "headingLevel": "h2",
         "content": "<p>At ChassisVIN, we are committed to helping both buyers and sellers make informed, secure choices in the used car market. Explore the confidence that comes with a clear view into a vehicle's history—powered by ChassisVIN.</p>"
+      },
+      {
+        "heading": "We Are Registered In",
+        "headingLevel": "h2",
+        "content": "<p>Explore our presence and registrations on trusted platforms:</p><table><thead><tr><th>Platform</th><th>Link</th></tr></thead><tbody><tr><td>Crunchbase</td><td><a href=\"https://www.crunchbase.com/organization/chassisvin\" target=\"_blank\">https://www.crunchbase.com/organization/chassisvin</a></td></tr><tr><td>Webwiki</td><td><a href=\"https://www.webwiki.com/chassisvin.com\" target=\"_blank\">https://www.webwiki.com/chassisvin.com</a></td></tr><tr><td>Freshdesk</td><td><a href=\"https://chassisvin.freshdesk.com/support/home\" target=\"_blank\">https://chassisvin.freshdesk.com/support/home</a></td></tr></tbody></table>"
       }
     ],
     "faqs": []

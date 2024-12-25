@@ -117,13 +117,13 @@ export default function ClassicYmmSpecs() {
   return (
     <div className="bg-white min-h-screen px-4">
       <div className="relative mb-6">
-        <h2 className="text-3xl font-bold py-6 text-gray-800">
+        <span className="text-3xl font-bold py-6 text-gray-800">
           {isLoading ? (
             <div className="h-8 bg-gray-200 rounded animate-pulse"></div>
           ) : (
             vehicleData?.title
           )}
-        </h2>
+        </span>
       </div>
 
       <div className="mb-6">

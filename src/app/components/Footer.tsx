@@ -71,9 +71,10 @@ const Footer = () => {
           {/* <p className="text-center mb-4 md:mb-0">© 2024 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/' target="_blank" rel="noopener noreferrer" className="hover:text-gray-700">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer" className="hover:text-gray-700">CloudTeamize</a></p> */}
           
           <div className="flex space-x-4">
-            <Link href="/sitemap.xml" className="hover:text-gray-700">Sitemap</Link>
+            <a href="https://chassisvin.freshdesk.com/support/home" target="_blank" className="hover:text-gray-700">Help</a>
             <Link href="/privacy-policy" className="hover:text-gray-700">Privacy Policy</Link>
             <Link href="/terms-and-conditions" className="hover:text-gray-700">Terms of Use</Link>
+            <Link href="/sitemap.xml" className="hover:text-gray-700">Sitemap</Link>
           </div>
         </div>
       </div>

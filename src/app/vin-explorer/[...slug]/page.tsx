@@ -170,7 +170,7 @@ export default function ExplorePage({ params }: { params: { slug: string[] } }) 
     const faqItems = [
       {
         question: `How can I decode a ${makeData.name} VIN for free?`,
-        answer: `Yes, you can perform a basic {makeData.name} VIN decoding for free to retrieve limited information like manufacturing details and basic specifications. However, for a comprehensive report including accident history, service records, odometer verification, and recalls, a premium VIN decoding service is recommended. This ensures you get detailed insights into your {makeData.name} vehicle's past.`
+        answer: `Yes, you can perform a basic ${makeData.name} VIN decoding for free to retrieve limited information like manufacturing details and basic specifications. However, for a comprehensive report including accident history, service records, odometer verification, and recalls, a premium VIN decoding service is recommended. This ensures you get detailed insights into your ${makeData.name} vehicle's past.`
       },
       {
         question: `What details can I find using the ${makeData.name} VIN Decoder?`,
@@ -186,7 +186,7 @@ export default function ExplorePage({ params }: { params: { slug: string[] } }) 
       },
       {
         question: `Why is the ${makeData.name} VIN important for safety recalls?`,
-        answer: `The ${makeData.name} VIN is crucial for identifying any outstanding safety recalls. Manufacturers use the VIN to track vehicles that need repairs or replacements due to potential safety issues. By using the {makeData.name} VIN Decoder, you can ensure your vehicle is up-to-date on all recalls, keeping you and your passengers safe.`
+        answer: `The ${makeData.name} VIN is crucial for identifying any outstanding safety recalls. Manufacturers use the VIN to track vehicles that need repairs or replacements due to potential safety issues. By using the ${makeData.name} VIN Decoder, you can ensure your vehicle is up-to-date on all recalls, keeping you and your passengers safe.`
       }
     ];
 
