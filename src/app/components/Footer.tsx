@@ -57,7 +57,7 @@ const Footer = () => {
               <a href="/vin-explorer" aria-label="Search" className="text-gray-400 hover:text-gray-600">
                 <Search className="w-6 h-6" />
               </a>
-              <a href="https://www.linkedin.com/in/muhammad-basurah/" aria-label="LinkedIn profile of Muhammad Basurah" className="text-gray-400 hover:text-gray-600">
+              <a href="https://www.linkedin.com/company/chassisvin/" aria-label="LinkedIn profile of Muhammad Basurah" className="text-gray-400 hover:text-gray-600">
                 <Linkedin className="w-6 h-6" />
               </a>
               <a href="https://github.com/ememdeee" aria-label="GitHub profile of Muhammad Basurah" className="text-gray-400 hover:text-gray-600">

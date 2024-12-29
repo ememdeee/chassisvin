@@ -6,17 +6,29 @@ import Script from 'next/script';
 import Image from 'next/image';
 
 interface BlogListProps {
-  limit: number;
-  page: number;
-  showPagination: boolean;
+  limit?: number;
+  page?: number;
+  showPagination?: boolean;
+  author?: string;
 }
 
-export default function BlogList({ limit, page, showPagination }: BlogListProps) {
+export default function BlogList({ 
+  limit = 9,
+  page = 1,
+  showPagination = true,
+  author= 'all'
+}: BlogListProps) {
   const blogEntries = Object.entries(blogs);
-  const totalPages = Math.ceil(blogEntries.length / limit);
+
+  // Filter blogs by author if specified
+  const filteredBlogs = author === 'all' 
+  ? blogEntries 
+  : blogEntries.filter((entry) => entry[1].author.name === author);
+
+  const totalPages = Math.ceil(filteredBlogs.length / limit);
   const startIndex = (page - 1) * limit;
   const endIndex = startIndex + limit;
-  const currentPageBlogs = blogEntries.slice(startIndex, endIndex);
+  const currentPageBlogs = filteredBlogs.slice(startIndex, endIndex);
 
   // Generate schema markup for each blog post
   const schemaMarkup = currentPageBlogs.map(([slug, blog]) => ({
@@ -52,12 +64,21 @@ export default function BlogList({ limit, page, showPagination }: BlogListProps)
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
       />
       <div className="space-y-8">
+      {filteredBlogs.length === 0 ? (
+        <div className="text-center py-12">
+          <p className="text-xl text-gray-600">No related posts found.</p>
+        </div>
+      ) : (
+        <>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {currentPageBlogs.map(([slug, blog]) => (
+          <div 
+          key={slug}
+          className="relative bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 flex flex-col h-full"
+        >
             <Link 
-              key={slug} 
               href={`/blogs/${slug}`}
-              className="group relative bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 flex flex-col h-full"
+              className="relative h-48 w-full block"
             >
               {blog.imageUrl && (
                 <div className="relative h-48 w-full">
@@ -70,33 +91,38 @@ export default function BlogList({ limit, page, showPagination }: BlogListProps)
                   />
                 </div>
               )}
+            </Link>
+
               <div className={`p-6 flex flex-col flex-grow ${!blog.imageUrl ? 'h-full' : ''}`}>
                 <div className="flex-grow space-y-4">
-                  <h2 className="text-xl font-semibold text-gray-900 line-clamp-2 leading-tight">
-                    {blog.title}
-                  </h2>
+                  <Link href={`/blogs/${slug}`} className="block">
+                    <h2 className="text-xl font-semibold text-gray-900 line-clamp-2 leading-tight">
+                      {blog.title}
+                    </h2>
+                  </Link>
                   <p className="text-gray-600 text-sm line-clamp-3 leading-relaxed">
                     {blog.description}
                   </p>
                 </div>
                 <div className="mt-4 flex justify-between items-center">
-                  <span className="text-sm text-gray-500">
+                  <Link href={`${blog.author.url}`} className="text-sm text-gray-500 hover:text-blue-600 transition-colors duration-200">
                     By {blog.author.name}
-                  </span>
+                  </Link>
                   <span className="text-sm text-gray-500">
                     {new Date(blog.datePublished).toLocaleDateString()}
                   </span>
                 </div>
                 <div className="mt-5">
-                  <span 
-                    className="inline-flex items-center text-sm font-medium border border-blue-600 text-blue-600 group-hover:text-white transition-all duration-300 ease-in-out px-3 py-2 rounded-md group-hover:bg-blue-600"
+                  <Link 
+                    href={`/blogs/${slug}`}
+                    className="inline-flex items-center text-sm font-medium border border-blue-600 text-blue-600 hover:text-white transition-all duration-300 ease-in-out px-3 py-2 rounded-md hover:bg-blue-600"
                   >
                     Read Article
                     <ArrowRight className="ml-2 h-4 w-4 transform transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
-                  </span>
+                  </Link>
                 </div>
               </div>
-            </Link>
+            </div>
           ))}
         </div>
 
@@ -128,8 +154,9 @@ export default function BlogList({ limit, page, showPagination }: BlogListProps)
             ))}
           </div>
         )}
+        </>
+        )}
       </div>
     </>
   );
 }
-

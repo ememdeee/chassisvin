@@ -12,6 +12,7 @@ import ClassicYmmSpecs from './ClassicYmmSpecs'
 import SourceAndPartner from './SourceAndPartner'
 import CheckOurBlog from './CheckOurBlog'
 import SectionCta from './SectionCta'
+import AuthorBox from './AuthorBox'
 
 interface Section {
   heading: string;
@@ -139,6 +140,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
   const showClassicYmmSpecs = content.tags.some(tag => tag.toLowerCase().includes('spec'))
   const showSourceAndPartner = content.tags.some(tag => tag.toLowerCase().includes('partner'))
   const showServiceList = content.tags.some(tag => tag.toLowerCase().includes('service'))
+  const showAuthorBox = content.tags.some(tag => tag.toLowerCase().includes('authorbox'))
 
   return (
     <>
@@ -150,13 +152,8 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
         <TwoColumnContainer>
           <div>
             <Breadcrumb />
+
             {content.sections && content.sections.length > 0 && content.sections.map((section, index) => renderSection(section, index))}
-            {/* {content.sections && content.sections.length > 0 && content.sections.map((section, index) => (
-              <div className="content px-4" key={index}>
-                {renderHeading(section)}
-                <SectionContent content={section.content} />
-              </div>
-            ))} */}
 
             {showClassicYmmSpecs && <ClassicYmmSpecs />}
 
@@ -173,6 +170,8 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
             ))}
             
             {showServiceList && <ServiceList />}
+            
+            {showAuthorBox && <AuthorBox authorName='Ethan J. Caldwell' />}
             
             {content.faqs && content.faqs.length > 0 && (
               <FAQBasic title="Frequently Asked Questions" items={content.faqs} />
