@@ -6,17 +6,21 @@ interface CustomButtonProps {
   text: string
   href?: string
   onClick?: () => void
+  fullWidth?: boolean
+  className?: string
 }
 
-const CustomButton: React.FC<CustomButtonProps> = ({ text, href, onClick }) => {
-  const className = "inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-blue-500 hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+const CustomButton: React.FC<CustomButtonProps> = ({ text, href, onClick, fullWidth = false, className = '' }) => {
+  const baseClassName = "inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-blue-500 hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+  const fullWidthClass = fullWidth ? 'w-full justify-center' : ''
+  const combinedClassName = `${baseClassName} ${fullWidthClass} ${className}`.trim()
 
   if (href === '#') {
     return (
       <>
         <button 
           type="button"
-          className={className}
+          className={combinedClassName}
           data-scroll-top
         >
           {text} <span className="ml-2">→</span>
@@ -39,7 +43,7 @@ const CustomButton: React.FC<CustomButtonProps> = ({ text, href, onClick }) => {
     return (
       <Link 
         href={href} 
-        className={className}
+        className={combinedClassName}
         {...(shouldOpenNewTab ? { target: "_blank", rel: "noopener noreferrer" } : {})}
       >
         {text} <span className="ml-2">→</span>
@@ -51,7 +55,7 @@ const CustomButton: React.FC<CustomButtonProps> = ({ text, href, onClick }) => {
     <button 
       type="button"
       onClick={onClick}
-      className={className}
+      className={combinedClassName}
     >
       {text} <span className="ml-2">→</span>
     </button>

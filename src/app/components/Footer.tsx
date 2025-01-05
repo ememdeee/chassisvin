@@ -67,8 +67,8 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <p className="text-center mb-4 md:mb-0">© 2024 ChassisVIN. Made with ❤</p>
-          {/* <p className="text-center mb-4 md:mb-0">© 2024 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/' target="_blank" rel="noopener noreferrer" className="hover:text-gray-700">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer" className="hover:text-gray-700">CloudTeamize</a></p> */}
+          <p className="text-center mb-4 md:mb-0">© 2025 ChassisVIN. Made with ❤</p>
+          {/* <p className="text-center mb-4 md:mb-0">© 2025 ChassisVIN. Made with ❤ by <a href='https://www.basrh.com/' target="_blank" rel="noopener noreferrer" className="hover:text-gray-700">Basrh</a> | <a href='https://cloudteamize.com/' target="_blank" rel="noopener noreferrer" className="hover:text-gray-700">CloudTeamize</a></p> */}
           
           <div className="flex space-x-4">
             <a href="https://chassisvin.freshdesk.com/support/home" target="_blank" className="hover:text-gray-700">Help</a>

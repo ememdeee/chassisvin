@@ -1,0 +1,4189 @@
+{
+    "status": "success",
+    "data": {
+      "vin": "1HGCM56877A125806",
+      "year": 2007,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "2.4 EX",
+      "style": "4dr Sedan Automatic",
+      "trim_and_style": "2.4 EX 4dr Sedan Automatic",
+      "summary": "The 2007 Honda Accord 2.4 EX is a sedan that comes with a range of standard features. It is equipped with a 2.4L I-4 166HP engine and a 5-speed automatic transmission with overdrive. Safety features include 4-wheel anti-lock brakes, side seat mounted airbags, and curtain airbags for the first and second rows. The car also has a navigation system, cruise control, and a power driver seat with 8-way adjustment. The exterior features 16\" alloy wheels. Overall, the 2007 Honda Accord 2.4 EX offers a comfortable and well-equipped driving experience.",
+      "price": {
+        "base_msrp": "27,200",
+        "delivery_charges": "635",
+        "invoice_price": "24,639",
+        "total_price": "27,835",
+        "currency": "USD"
+      },
+      "vehicle": {
+        "epa_classification": "Midsize Car",
+        "rear_door_type": "",
+        "body_type": "Sedan",
+        "doors": "4"
+      },
+      "dimensions": [
+        {
+          "exterior": [
+            {
+              "overall_length": [
+                {
+                  "value": "4,854",
+                  "unit": "mm"
+                },
+                {
+                  "value": "191.1",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "overall_length_without_rear_bumper": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "overall_length_with_rear_bumper": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "overall_width": [
+                {
+                  "value": "1,819",
+                  "unit": "mm"
+                },
+                {
+                  "value": "71.61",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "max_width_without_mirrors": [
+                {
+                  "value": "71.6",
+                  "unit": "in"
+                },
+                {
+                  "value": "1,818.64",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "overall_height": [
+                {
+                  "value": "1,453",
+                  "unit": "mm"
+                },
+                {
+                  "value": "57.2",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "liftover_height": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "overhang_front": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "overhang_rear_without_bumper": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "rear_door_opening_height": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "rear_door_opening_width": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "side_door_opening_height": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "track_width_front": [
+                {
+                  "value": "61.1",
+                  "unit": "in"
+                },
+                {
+                  "value": "1,551.94",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "track_width_rear": [
+                {
+                  "value": "61.2",
+                  "unit": "in"
+                },
+                {
+                  "value": "1,554.48",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "wheelbase": [
+                {
+                  "value": "2,741",
+                  "unit": "mm"
+                },
+                {
+                  "value": "107.91",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "front_step_height": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "side_step_height": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "ground_to_top_of_load_floor": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "cab_to_end_of_frame": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "bed_length": [
+                {
+                  "value": "",
+                  "unit": "ft"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "interior": [
+            {
+              "passenger_volume": [
+                {
+                  "value": "2,767",
+                  "unit": "l"
+                },
+                {
+                  "value": "97.7",
+                  "unit": "cu.ft"
+                }
+              ]
+            },
+            {
+              "trunk_volume": [
+                {
+                  "value": "14",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "396.44",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "front_head_room": [
+                {
+                  "value": "973",
+                  "unit": "mm"
+                },
+                {
+                  "value": "38.3",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "rear_head_room": [
+                {
+                  "value": "935",
+                  "unit": "mm"
+                },
+                {
+                  "value": "36.8",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "third_row_head_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fourth_row_head_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fifth_row_head_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "front_shoulder_room": [
+                {
+                  "value": "1,445",
+                  "unit": "mm"
+                },
+                {
+                  "value": "56.9",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "rear_shoulder_room": [
+                {
+                  "value": "1,425",
+                  "unit": "mm"
+                },
+                {
+                  "value": "56.1",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "third_row_shoulder_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fourth_row_shoulder_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fifth_row_shoulder_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "front_hip_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "rear_hip_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "third_row_hip_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fourth_row_hip_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fifth_row_hip_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "front_leg_room": [
+                {
+                  "value": "1,082",
+                  "unit": "mm"
+                },
+                {
+                  "value": "42.6",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "rear_leg_room": [
+                {
+                  "value": "935",
+                  "unit": "mm"
+                },
+                {
+                  "value": "36.8",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "third_row_leg_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fourth_row_leg_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "fifth_row_leg_room": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cargo": [
+            {
+              "cargo_volume": [
+                {
+                  "value": "396",
+                  "unit": "l"
+                },
+                {
+                  "value": "14",
+                  "unit": "cu.ft"
+                }
+              ]
+            },
+            {
+              "max_cargo_volume": [
+                {
+                  "value": "396",
+                  "unit": "l"
+                },
+                {
+                  "value": "14",
+                  "unit": "cu.ft"
+                }
+              ]
+            },
+            {
+              "front_cargo_volume": [
+                {
+                  "value": "",
+                  "unit": "l"
+                },
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                }
+              ]
+            },
+            {
+              "cargo_volume_to_seat1": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "cargo_volume_to_seat2": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "cargo_volume_to_seat3": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "cargo_volume_to_seat4": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "cargo_volume_with_rear_seat_down": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "cargo_volume_with_rear_seat_up": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "extended_cab_cargo_volume": [
+                {
+                  "value": "",
+                  "unit": "cu.ft"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "floor_to_console_cargo_area_length": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "floor_to_seat1_cargo_area_length": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "floor_to_seat2_cargo_area_length": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "floor_to_seat3_cargo_area_length": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "beltline_cargo_area_width": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "cargo_box_height": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "cargo_box_floor_length": [
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "cargo_box_floor_width": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "cargo_box_wheelhousings_width": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "tailgate_width": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weights": [
+            {
+              "curb_weight_as_spec'd": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "payload_as_spec'd": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "curb_weight_base": [
+                {
+                  "value": "3,250",
+                  "unit": "lb"
+                },
+                {
+                  "value": "1,473.92",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "curb_weight": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "curb_weight_front": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "curb_weight_rear": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "gross_axle_weight_rating": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "gross_combined_weight_rating": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "gross_vehicle_weight_rating": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_payload_capacity": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "option_weight_front": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "option_weight_rear": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "total_option_weight": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "towing_capacity": [
+                {
+                  "value": "1,001.07",
+                  "unit": "lb"
+                },
+                {
+                  "value": "454",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "payload_capacity": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ground_clearance": [
+            {
+              "ground_clearance_max": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "ground_clearance_min": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "off_road_attributes": [
+            {
+              "approach_angle": [
+                {
+                  "value": "",
+                  "unit": "deg"
+                }
+              ]
+            },
+            {
+              "departure_angle": [
+                {
+                  "value": "",
+                  "unit": "deg"
+                }
+              ]
+            },
+            {
+              "ramp_breakover_angle": [
+                {
+                  "value": "",
+                  "unit": "deg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "steering": [
+            {
+              "turning_diameter_curb_to_curb": [
+                {
+                  "value": "36.1",
+                  "unit": "ft"
+                },
+                {
+                  "value": "11",
+                  "unit": "m"
+                }
+              ]
+            },
+            {
+              "turning_diameter_wall_to_wall": [
+                {
+                  "value": "",
+                  "unit": "ft"
+                },
+                {
+                  "value": "",
+                  "unit": "m"
+                }
+              ]
+            },
+            {
+              "turning_radius_curb_to_curb": [
+                {
+                  "value": "18.05",
+                  "unit": "ft"
+                },
+                {
+                  "value": "5.5",
+                  "unit": "m"
+                }
+              ]
+            },
+            {
+              "turning_radius_wall_to_wall": [
+                {
+                  "value": "",
+                  "unit": "ft"
+                },
+                {
+                  "value": "",
+                  "unit": "m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "trailering": [
+            {
+              "max_capacity": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_tongue_dead_weight_hitch": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_trailer_dead_weight_hitch": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_tongue_fifth_wheel_hitch": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_trailer_fifth_wheel_hitch": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_tongue_weigth_distributing_hitch": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "max_trailer_weigth_distributing_hitch": [
+                {
+                  "value": "",
+                  "unit": "lb"
+                },
+                {
+                  "value": "",
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "braking": [
+            {
+              "front_brake_rotor_dia": [
+                {
+                  "value": "11.1",
+                  "unit": "in"
+                },
+                {
+                  "value": "281.94",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "front_brake_rotor_thickness": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "rear_brake_rotor_dia": [
+                {
+                  "value": "10.2",
+                  "unit": "in"
+                },
+                {
+                  "value": "259.08",
+                  "unit": "mm"
+                }
+              ]
+            },
+            {
+              "rear_brake_rotor_thickness": [
+                {
+                  "value": "",
+                  "unit": "in"
+                },
+                {
+                  "value": "",
+                  "unit": "mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wheels": [
+            {
+              "front_wheel_size": [
+                {
+                  "value": "16 x -TBD- ",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "rear_wheel_size": [
+                {
+                  "value": "16 x -TBD- ",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "spare_wheel_size": [
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "engine": [
+            {
+              "engine_size": [
+                {
+                  "value": 2.4,
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "horsepower": [
+                {
+                  "value": "5,800",
+                  "unit": "rpm"
+                },
+                {
+                  "value": "166",
+                  "unit": "hp"
+                }
+              ]
+            },
+            {
+              "torque": [
+                {
+                  "value": "4,000",
+                  "unit": "rpm"
+                },
+                {
+                  "value": "161",
+                  "unit": "lb.ft"
+                }
+              ]
+            },
+            {
+              "bore": [
+                {
+                  "value": "87",
+                  "unit": "mm"
+                },
+                {
+                  "value": "3.43",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "stroke": [
+                {
+                  "value": "99",
+                  "unit": "mm"
+                },
+                {
+                  "value": "3.9",
+                  "unit": "in"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fuel": [
+            {
+              "tank_capacity": [
+                {
+                  "value": "17.1",
+                  "unit": "gal"
+                },
+                {
+                  "value": "64.72",
+                  "unit": "l"
+                }
+              ]
+            },
+            {
+              "auxiliary_fuel_tank_capacity": [
+                {
+                  "value": "",
+                  "unit": "gal"
+                },
+                {
+                  "value": "",
+                  "unit": "l"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mpg": [
+            {
+              "cruising_range_city": [
+                {
+                  "value": "410.4",
+                  "unit": "mi"
+                }
+              ]
+            },
+            {
+              "cruising_range_hwy": [
+                {
+                  "value": "581.4",
+                  "unit": "mi"
+                }
+              ]
+            },
+            {
+              "estimated_battery_range": [
+                {
+                  "value": "",
+                  "unit": "mi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "electric_powertrain": [
+            {
+              "motor1_torque": [
+                {
+                  "value": "",
+                  "unit": "lb.ft"
+                }
+              ]
+            },
+            {
+              "motor2_torque": [
+                {
+                  "value": "",
+                  "unit": "lb.ft"
+                }
+              ]
+            },
+            {
+              "motor3_torque": [
+                {
+                  "value": "",
+                  "unit": "lb.ft"
+                }
+              ]
+            },
+            {
+              "motor4_torque": [
+                {
+                  "value": "",
+                  "unit": "lb.ft"
+                }
+              ]
+            },
+            {
+              "motor_horsepower": [
+                {
+                  "value": "",
+                  "unit": "hp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "traction_battery": [
+            {
+              "all_electric_range": [
+                {
+                  "value": "",
+                  "unit": "miles"
+                }
+              ]
+            },
+            {
+              "total_dual_fusion": [
+                {
+                  "value": "",
+                  "unit": "miles"
+                }
+              ]
+            },
+            {
+              "peak_dc_fast_charge_time": [
+                {
+                  "value": "",
+                  "unit": "minutes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range_extender": [
+            {
+              "output": [
+                {
+                  "value": "",
+                  "unit": "hp"
+                }
+              ]
+            },
+            {
+              "rpm": [
+                {
+                  "value": "",
+                  "unit": "rpm"
+                }
+              ]
+            },
+            {
+              "bore": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "stroke": [
+                {
+                  "value": "",
+                  "unit": "mm"
+                },
+                {
+                  "value": "",
+                  "unit": "in"
+                }
+              ]
+            },
+            {
+              "torque": [
+                {
+                  "value": "",
+                  "unit": "lb.ft"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "exterior": {
+            "cab_style": ""
+          }
+        },
+        {
+          "steering": {
+            "type": "Pwr Rack & Pinion",
+            "overall_ratio": "15.2",
+            "turns_to_turns_ratio": "2.94"
+          }
+        },
+        {
+          "braking": {
+            "type": "Pwr",
+            "primary_abs_system": "4-Wheel",
+            "secondary_abs_system": "",
+            "front_disc": "Yes",
+            "rear_disc": "Yes",
+            "rear_drum": ""
+          }
+        },
+        {
+          "electrical": {
+            "cold_cranking_capacity_amps": "",
+            "max_alternator_capacity_amps": "80"
+          }
+        },
+        {
+          "suspensions": {
+            "front_type": "Double Wishbone",
+            "front_type_extended": "",
+            "rear_type": "Five-Link",
+            "rear_type_extended": "Double Wishbone",
+            "front_axle": "",
+            "rear_axle": ""
+          }
+        },
+        {
+          "seating": {
+            "number_of_seats": "5",
+            "max_seating_capacity": "5"
+          }
+        },
+        {
+          "wheels": {
+            "front_wheel_material": "Alloy",
+            "rear_wheel_material": "Alloy",
+            "spare_wheel_material": ""
+          }
+        },
+        {
+          "tires": {
+            "front_tire_size": "205/60R16",
+            "rear_tire_size": "205/60R16",
+            "spare_tire_size": "Compact",
+            "type": "All-season"
+          }
+        },
+        {
+          "emissions": {
+            "greenhouse_gas_score": "",
+            "air_pollution_score": ""
+          }
+        },
+        {
+          "engine": {
+            "type": "Gas I-4",
+            "code": "STDEN",
+            "cylinders_configuration": "I-4",
+            "displacement": 2400,
+            "compressor": "",
+            "drivetype": "FWD",
+            "oil_cooler": "",
+            "engine_location": "Front",
+            "valves": "16",
+            "compression": "9.7",
+            "variable_intake_manifold": "",
+            "block_type": "I",
+            "block_material": "",
+            "cam_type": "DOHC"
+          }
+        },
+        {
+          "fuel": {
+            "type": "Gasoline",
+            "standard_fuel_economy_type": "",
+            "grade": "Regular Unleaded"
+          }
+        },
+        {
+          "mpg": {
+            "epa_city_economy": "24",
+            "epa_hwy_economy": "34",
+            "epa_combined_economy": "28",
+            "epa_city_equivalent": "",
+            "epa_hwy_equivalent": "",
+            "epa_combined_equivalent": ""
+          }
+        },
+        {
+          "electric_powertrain": {
+            "type": "",
+            "starter_electric_motor": "",
+            "battery_solar_charging": "",
+            "number_of_motors": "",
+            "system_net_power": "",
+            "system_net_torque": "",
+            "limited_slip_differential": "",
+            "front_locking_differential": "",
+            "rear_locking_differential": "",
+            "alternator_electric_motor": ""
+          }
+        },
+        {
+          "traction_battery": {
+            "type": "",
+            "number_of_cells": "",
+            "battery_capacity_kwh": "",
+            "battery_capacity_ah": "",
+            "charge_time_hrs_@_240v": "",
+            "dc_fast_charge_connector": "",
+            "onboard_charger_kw": "",
+            "peak_dc_fast_charge_rate_kw": "",
+            "voltage": ""
+          }
+        },
+        {
+          "range_extender": {
+            "block_material": "",
+            "compression_ratio": "",
+            "cylinders": "",
+            "displacement_cm3": "",
+            "displacement_cu.in": "",
+            "head_material": "",
+            "injection": "",
+            "liters": "",
+            "location": "",
+            "output_kw": "",
+            "recommended_fuel": "",
+            "torque_nm": "",
+            "valves_per_cylinder": "",
+            "valvetrain": ""
+          }
+        }
+      ],
+      "towing_details": [],
+      "transmission": {
+        "type": "Automatic",
+        "code": "5AT",
+        "number_of_speeds": "5",
+        "description": "Automatic",
+        "power_takeoff": "",
+        "first_gear_ratio": "2.65",
+        "second_gear_ratio": "1.52",
+        "third_gear_ratio": "1.04",
+        "fourth_gear_ratio": "0.74",
+        "fifth_gear_ratio": "0.57",
+        "sixth_gear_ratio": "",
+        "seventh_gear_ratio": "",
+        "eighth_gear_ratio": "",
+        "ninth_gear_ratio": "",
+        "tenth_gear_ratio": "",
+        "reverse_gear_ratio": "2",
+        "final_drive_axle_ratio": "4.44",
+        "transfer_case_gear_ratio_high": "",
+        "transfer_case_gear_ratio_low": "",
+        "transfer_case_model": "",
+        "transfer_case_power_takeoff": ""
+      },
+      "exterior_colors": [
+        {
+          "generic_name": "Silver",
+          "description": "Alabaster Silver Metallic",
+          "color_code": "ASM",
+          "rgb_value": "190,189,189",
+          "hex_value": "#bebdbd",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Carbon",
+          "description": "Carbon Bronze Pearl",
+          "color_code": "CBP",
+          "rgb_value": "80,73,68",
+          "hex_value": "#504944",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Blue",
+          "description": "Cool Blue Metallic",
+          "color_code": "CBM",
+          "rgb_value": "64,92,123",
+          "hex_value": "#405c7b",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "",
+          "description": "Desert Mist Metallic",
+          "color_code": "DSM",
+          "rgb_value": "174,164,128",
+          "hex_value": "#aea480",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "",
+          "description": "Graphite Pearl",
+          "color_code": "GRP",
+          "rgb_value": "94,94,94",
+          "hex_value": "#5e5e5e",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Red",
+          "description": "Moroccan Red Pearl",
+          "color_code": "MRP",
+          "rgb_value": "97,3,29",
+          "hex_value": "#61031d",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Black",
+          "description": "Nighthawk Black Pearl",
+          "color_code": "NBP",
+          "rgb_value": "11,12,24",
+          "hex_value": "#0b0c18",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Blue",
+          "description": "Royal Blue Pearl",
+          "color_code": "RBP",
+          "rgb_value": "16,26,54",
+          "hex_value": "#101a36",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "White",
+          "description": "Taffeta White",
+          "color_code": "TFW",
+          "rgb_value": "216,216,216",
+          "hex_value": "#d8d8d8",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        }
+      ],
+      "interior_colors": [
+        {
+          "generic_name": "Black",
+          "description": "Black w/Leather Seat Trim",
+          "color_code": "BK",
+          "rgb_value": "29,30,29",
+          "hex_value": "#1d1e1d",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Gray",
+          "description": "Gray w/Leather Seat Trim",
+          "color_code": "GY",
+          "rgb_value": "89,93,93",
+          "hex_value": "#595d5d",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        },
+        {
+          "generic_name": "Ivory",
+          "description": "Ivory w/Leather Seat Trim",
+          "color_code": "IV",
+          "rgb_value": "210,200,181",
+          "hex_value": "#d2c8b5",
+          "color_price": "0",
+          "color_invoice": "0",
+          "color_type": "Standard"
+        }
+      ],
+      "oem_options_and_packages": [
+        {
+          "engine": [
+            {
+              "title": "Engine",
+              "description": {
+                "package_name": "Engine: 2.4L 16-Valve DOHC i-VTEC I-4",
+                "package_features": [],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "STDEN",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "transmissions": [
+            {
+              "title": "Transmissions",
+              "description": {
+                "package_name": "Transmission: Elect. 5-Speed Automatic w/OD",
+                "package_features": [
+                  "4.44 Axle Ratio"
+                ],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "5AT",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "packages": [
+            {
+              "title": "Packages",
+              "description": {
+                "package_name": "Exposed Premium Protection Package w/Gray Mats",
+                "package_features": [
+                  "Steel Wheel Locks",
+                  "Trunk Tray",
+                  "Gray Premium Floormats",
+                  "Splash Guards"
+                ],
+                "package_price": "337",
+                "package_invoice": "0",
+                "package_code": "PREPKG_",
+                "package_type": "Custom"
+              }
+            },
+            {
+              "title": "Packages",
+              "description": {
+                "package_name": "Exposed Premium Protection Package w/Black Mats",
+                "package_features": [
+                  "Steel Wheel Locks",
+                  "Trunk Tray",
+                  "Black Premium Floormats",
+                  "Splash Guards"
+                ],
+                "package_price": "337",
+                "package_invoice": "0",
+                "package_code": "PREPKG__",
+                "package_type": "Custom"
+              }
+            }
+          ]
+        },
+        {
+          "wheels": [
+            {
+              "title": "Wheels",
+              "description": {
+                "package_name": "Wheels: 16\" Alloy",
+                "package_features": [],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "STDWL",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "tires": [
+            {
+              "title": "Tires",
+              "description": {
+                "package_name": "Tires: P205/60R16 91V AS",
+                "package_features": [],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "STDTR",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "exterior": [
+            {
+              "title": "Exterior",
+              "description": {
+                "package_name": "Monotone Paint Application",
+                "package_features": [],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "PAINT",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "seats": [
+            {
+              "title": "Seats",
+              "description": {
+                "package_name": "Front Bucket Seats",
+                "package_features": [
+                  "Includes driver's seat adjustable lumbar support and power height adjustment."
+                ],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "STDST",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "seat_trim": [
+            {
+              "title": "Seat Trim",
+              "description": {
+                "package_name": "Leather Seat Trim",
+                "package_features": [
+                  "Dual-Zone Automatic Climate Control System",
+                  "Perforated Leather-Wrapped Steering Wheel",
+                  "Heated Front Seats",
+                  "Driver's Seat w/8-Way Power Adjustment",
+                  "XM Satellite Radio",
+                  "Exterior Temperature Indicator",
+                  "Includes leather-trimmed door panel inserts."
+                ],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "LTHR",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        },
+        {
+          "audio": [
+            {
+              "title": "Audio",
+              "description": {
+                "package_name": "Radio: 120-Watt AM/FM/6-Disc In-Dash CD Changer",
+                "package_features": [
+                  "Includes 6 speakers."
+                ],
+                "package_price": "0",
+                "package_invoice": "0",
+                "package_code": "STDRD",
+                "package_type": "Standard"
+              }
+            }
+          ]
+        }
+      ],
+      "warranties": [
+        {
+          "type": "Basic warranty",
+          "months": "36",
+          "miles": "36,000"
+        },
+        {
+          "type": "Corrosion perforation warranty",
+          "months": "60",
+          "miles": "0"
+        },
+        {
+          "type": "Powertrain warranty",
+          "months": "60",
+          "miles": "60,000"
+        }
+      ],
+      "safety_ratings": [
+        {
+          "nhtsa_crash_test_ratings": [
+            {
+              "type": "Driver's",
+              "rating": "5"
+            },
+            {
+              "type": "Passenger's",
+              "rating": "5"
+            },
+            {
+              "type": "Overall Rollover Rating",
+              "rating": "4"
+            },
+            {
+              "type": "Side Barrier Rating Driver",
+              "rating": "4"
+            },
+            {
+              "type": "Side Barrier Rating Passenger Rear Seat",
+              "rating": "5"
+            }
+          ]
+        },
+        {
+          "highway_safety_ratings": []
+        },
+        {
+          "highway_loss_ratings": []
+        }
+      ],
+      "standard_options": [
+        {
+          "name": "Engine",
+          "description": "2.4L 16-Valve DOHC i-VTEC I-4"
+        },
+        {
+          "name": "Transmission",
+          "description": "Elect. 5-Speed Automatic w/OD"
+        },
+        {
+          "name": "Wheels",
+          "description": "16\" Alloy"
+        },
+        {
+          "name": "Tires",
+          "description": "P205/60R16 91V AS"
+        },
+        {
+          "name": "Monotone Paint Application",
+          "description": ""
+        },
+        {
+          "name": "Front Bucket Seats",
+          "description": ""
+        },
+        {
+          "name": "Leather Seat Trim",
+          "description": ""
+        },
+        {
+          "name": "Radio",
+          "description": "120-Watt AM/FM/6-Disc In-Dash CD Changer"
+        }
+      ],
+      "standard_specifications": [],
+      "standard_features": [
+        "15\" steel Wheels",
+        "2.4L I-4 Engine",
+        "5-spd man w/OD Transmission",
+        "166 @ 5,800 rpm Horsepower",
+        "161 @ 4,000 rpm Torque",
+        "front-wheel Drive type",
+        "front air conditioning, manual",
+        "AM/FM stereo, seek-scan Radio",
+        "keyfob (all doors) Remote keyless entry",
+        "cloth Seat trim"
+      ],
+      "additional_or_replacing_features": [],
+      "annual_mileage": [],
+      "features": [
+        {
+          "title": "Interior Features",
+          "description": [
+            "Headrests at all seating positions",
+            "Front leather heated bucket seats-inc: driver 8-way pwr adjustment, pwr lumbar",
+            "Rear seat heater ducts",
+            "Adjustable steering column",
+            "Leather-wrapped steering wheel",
+            "Steering wheel-mounted cruise/audio/navigation controls",
+            "Outside temp gauge",
+            "Multifunctional center storage console w/sliding armrest",
+            "Ambient console lighting",
+            "60/40 split fold rear seat w/lift-up feature, underseat storage",
+            "Driver/front passenger illuminated vanity mirrors w/sliding extensions",
+            "Beverage holders",
+            "Sunglasses holder",
+            "Front/rear HD all-weather floor mats",
+            "Pwr windows w/auto-up/down driver window",
+            "Warning lights-inc: low-fuel, low-oil pressure, tailgate open, bed trunk open, pwr sliding cabin window open",
+            "Front/rear map lights",
+            "HomeLink universal garage door opener",
+            "Cruise control",
+            "Auto pwr door locks",
+            "Remote fuel filler door release",
+            "(2) front/(1) rear 12V pwr outlets",
+            "Remote keyless entry",
+            "Immobilizer theft-deterrent system",
+            "Micron air-filtration system",
+            "Maintenance minder",
+            "Tire pressure monitoring system-inc: location & pressure indicators",
+            "Satellite-linked navigation system w/voice recognition",
+            "Security system",
+            "Dual-zone automatic climate control",
+            "AM/FM/XM stereo w/6-disc in-dash CD changer-inc: (7) speakers, 160-watt amp, aux input jack, subwoofer",
+            "Hidden roof-mounted antenna",
+            "Front door courtesy lights"
+          ]
+        },
+        {
+          "title": "Exterior Features",
+          "description": [
+            "Multi-reflector halogen headlights w/auto-off feature",
+            "Heat-rejecting green-tinted glass",
+            "Wheels: 17 x 7.5J Styled Steel",
+            "Body-color bumpers",
+            "Pwr folding body-color heated mirrors",
+            "Tires: P245/65R17 105S AS",
+            "Pwr sliding rear window w/open indicator, reminder chime",
+            "Variable intermittent windshield wipers w/auto heated wiper zone",
+            "Rear privacy glass",
+            "Body-color door handles",
+            "Pwr moonroof",
+            "245/65SR17.0"
+          ]
+        },
+        {
+          "title": "Safety Features",
+          "description": [
+            "4-wheel anti-lock braking system (ABS) w/electronic brake distribution (EBD)",
+            "Brake assist",
+            "Driver & front passenger airbags (SRS)",
+            "Driver & front passenger side-impact airbags w/occupant position detection system (OPDS)",
+            "Front/rear side curtain airbags",
+            "3-point seatbelts at all seating positions",
+            "Front adjustable seatbelt anchors",
+            "Childproof rear door locks",
+            "2nd row lower anchors & tether for children (LATCH) w/(3) positions",
+            "Vehicle stability assist (VSA) w/traction control"
+          ]
+        },
+        {
+          "title": "Mechanical Features",
+          "description": [
+            "Engine: 2.4L 16-Valve DOHC i-VTEC I-4",
+            "Four-Wheel",
+            "Front/rear stabilizer bars",
+            "22.0gal. Fuel Tank",
+            "Variable-assist pwr rack & pinion steering",
+            "Independent multi-link rear suspension w/trailing arm",
+            "Drive-by-wire throttle",
+            "Brake assist",
+            "Pwr ventilated front/solid rear disc brakes",
+            "Direct ignition system",
+            "Locking rear differential",
+            "Boxed ladder frame w/unibody construction",
+            "4-pin/7-pin trailer pre-wiring",
+            "HD front/rear tow hooks",
+            "Vehicle stability assist (VSA) w/traction control",
+            "Transmission: 5-Speed Automatic",
+            "Independent MacPherson strut front suspension",
+            "GVWR: 6,050 lbs",
+            "HD pwr steering cooler",
+            "4.533 Axle Ratio"
+          ]
+        }
+      ],
+      "recalls": [
+        {
+          "campaign_id": "19E068000",
+          "description": {
+            "date": "10/10/2019",
+            "component": "Vehicle Speed Control",
+            "summary": "dorman products, inc. (dorman) is recalling certain accelerator pedal assemblies part numbers 699-114 and 825-5029-1, sold as replacement parts for 2003-2006 acura mdx, 2004-2008 acura tl and tsx, 2003-2007 honda accord, 2005-2006 honda cr-v, 2007-2011 honda element, 2005-2008 honda pilot and 2006-2014 honda ridgeline vehicles. the rotating portion of the accelerator pedal assembly may bind. as such, these vehicles fail to comply with the requirements of federal motor vehicle safety standard (fmvss) number 124, \"accelerator control systems.\"",
+            "consequences": "if the accelerator pedal binds, the engine may not quickly return to idle after the pedal is no longer pressed, increasing the risk of a crash.",
+            "remedy": "dorman will notify owners, and qualified service facilities will replace the affected accelerator pedal assemblies, free of charge. the recall began december 9, 2019. owners may contact dorman customer service at 1-800-523-2492, using option 5. dorman's number for this recall is as1019xxxx."
+          }
+        },
+        {
+          "campaign_id": "19V499000",
+          "description": {
+            "date": "06/27/2019",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling certain 2003 acura 3.2cl, 2002-2003 3.2tl, 2003-2006 mdx, 2001-2007 honda accord, 2001-2005 civic, 2003-2005 civic hybrid, 2001-2005 civic gx ngv, 2002-2006 cr-v, 2003-2011 element, 2002-2004 odyssey, 2003-2008 pilot and 2006 ridgeline vehicles. these vehicles are equipped with driver frontal air bag inflators assembled as a recall remedy part or replacement service part, that may explode due to propellant degradation occurring after long-term exposure to high absolute humidity, temperature and temperature cycling.",
+            "consequences": "an inflator explosion may result in sharp metal fragments striking the driver or other occupants resulting in serious injury or death.",
+            "remedy": "honda will notify owners, and dealers will replace the driver frontal air bag inflator, free of charge. the recall began august 12, 2019. owners may contact honda customer service at 1-888-234-2138. honda's numbers for this recall are q5a and y58."
+          }
+        },
+        {
+          "campaign_id": "19V501000",
+          "description": {
+            "date": "06/27/2019",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling certain 2003-2006 acura mdx, 2005-2012 rl, 2003-2007 honda accord, 2001-2005 civic, 2003-2005 civic hybrid, 2001-2005 civic gx ngv, 2002-2006 cr-v, 2003-2011 element, 2007-2008 fit, 2002-2004 odyssey, 2003-2008 pilot, and 2006-2014 ridgeline vehicles. the vehicles are equipped with passenger frontal air bag inflators assembled as a recall remedy part or replacement service part, that may explode due to propellant degradation occurring after long-term exposure to high absolute humidity, temperature and temperature cycling.",
+            "consequences": "an inflator explosion may result in sharp metal fragments striking the driver or other occupants resulting in serious injury or death.",
+            "remedy": "honda will notify owners, and dealers will replace the passenger frontal airbag inflator, free of charge. the recall began august 12, 2019. owners may contact honda customer service at 1-888-234-2138. honda's numbers for this recall are e5d and x5c."
+          }
+        },
+        {
+          "campaign_id": "19V182000",
+          "description": {
+            "date": "03/06/2019",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling specific 2003 acura 3.2cl, 2013-2016 ilx, 2013-2014 ilx hybrid, 2003-2006 mdx, 2007-2016 rdx, 2002-2003 3.2tl, 2004-2006, and 2009-2014 tl, 2010-2013 zdx and 2001-2007 and 2009 honda accord, 2001-2005 civic, 2003-2005 civic hybrid, 2001-2005 civic gx ngv, 2002-2007 and 2010-2011 cr-v, 2003-2011 element, 2007 fit, 2002-2004 odyssey, 2003-2008 pilot, and 2006-2014 ridgeline vehicles. the affected vehicles received a replacement driver air bag inflator as part of a previous takata inflator recall remedy or a replacement driver air bag module containing the same inflator type as a service part. due to a manufacturing error, in the event of a crash necessitating deployment of the driver frontal air bag, these inflators may explode.",
+            "consequences": "an explosion of an inflator within the driver frontal air bag module may result in sharp metal fragments striking the driver, front seat passenger or other occupants resulting in serious injury or death.",
+            "remedy": "honda will notify owners, and dealers will replace the driver's air bag inflator with an alternate inflator, free of charge. the recall began april 10, 2019. honda owners may contact customer service at 1-888-234-2138. honda's number for this recall is o41. acura owners may contact customer service at 1-888-234-2138. acura's number for this recall is u40."
+          }
+        },
+        {
+          "campaign_id": "18V268000",
+          "description": {
+            "date": "04/26/2018",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling certain 2003-2012 honda accord and pilot, 2010 accord crosstour, 2001-2011 civic, 2002-2011 cr-v, 2003-2004, 2006-2008 and 2011 element, 2007 and 2009-2013 fit, 2010-2012 insight, 2002-2004 odyssey, and 2012 ridgeline vehicles. the front passenger air bag may have been installed incorrectly during replacement.",
+            "consequences": "an incorrectly installed air bag may deploy improperly in the event of a crash, increasing the risk of injury.",
+            "remedy": "honda will notify owners, and dealers will inspect and, if necessary, replace the passenger frontal air bag module assembly, free of charge. the recall began june 22, 2018. owners may contact honda customer service at 1-888-234-2138. honda's numbers for this recall are k1p, and m1o."
+          }
+        },
+        {
+          "campaign_id": "16V178000",
+          "description": {
+            "date": "03/30/2016",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling certain model year 2004-2007 accord vehicles manufactured october 1, 2003, to august 17, 2007. the affected vehicles may have been assembled with an incorrect passenger frontal air bag module that does not comply with the advanced air bag requirements. as such, these vehicles fail to comply with the requirements of federal motor vehicle safety standard (fmvss) number 208, \"occupant crash protection.\"",
+            "consequences": "an air bag module does not meet the advanced air bag requirements can increase the risk of injury or death in the event of a crash.",
+            "remedy": "honda will notify owners, and dealers will inspect and replace the air bag module as necessary, free of charge. the recall began on may 2, 2016. owners may contact honda customer service at 1-800-999-1009. honda's number for this recall is jz3."
+          }
+        },
+        {
+          "campaign_id": "15V370000",
+          "description": {
+            "date": "06/15/2015",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling certain model year 2001-2005 honda civic vehicles manufactured march 21, 2000, to january 20, 2005, 2001-2004 honda civic gx vehicles manufactured june 14, 2000, to august 19, 2004, 2003-2005 honda civic hybrid vehicles manufactured february 24, 2002, to january 18, 2005, 2003-2007 honda accord vehicles manufactured february 21, 2002, to august 28, 2007, 2002-2004 honda cr-v vehicles, 2002-2003 honda odyssey vehicles manufactured june 19, 2001, to july 12, 2003, 2003 acura mdx vehicles manufactured september 19, 2002, to june 19, 2003, 2003 honda element vehicles manufactured june 25, 2002, to july 31, 2003, and 2003 honda pilot vehicles manufactured november 26, 2001, to august 21, 2003. the affected vehicles have a passenger side frontal air bag that may be susceptible to moisture intrusion which, over time, could cause the inflator to rupture upon its deployment.",
+            "consequences": "in the event of a crash necessitating deployment of the passenger's frontal air bag, the inflator could rupture with metal fragments striking the passenger seat occupant or other occupants possibly causing serious injury or death.",
+            "remedy": "honda will notify owners, and dealers will replace the passenger air bag inflator, free of charge. the recall began on july 1, 2015. owners may contact honda customer service at 1-888-234-2138. honda's numbers for this recall are js1 and js2. note: vehicles that have already received a replacement passenger air bag inflator as part of the recall remedy for an earlier campaign such as 14v353 or 14v700 (honda recall numbers s95, jh6, jh7, jh8, jh9, jj0, jj1, jj2, jj6, jm5 and jm6) are not included in this recall. however, this recall does supersede 13v132 and 14v349. note: on december 18, 2015 honda informed nhtsa of an expansion of this recall to include certain model year 2004 honda cr-v vehicles in addition to additional model year 2003 cr-v vehicles."
+          }
+        },
+        {
+          "campaign_id": "15V320000",
+          "description": {
+            "date": "05/28/2015",
+            "component": "Air Bags",
+            "summary": "honda (american honda motor co.) is recalling certain model year 2001-2007 accord, 2001-2005 civic, 2001-2004 honda civic gx, 2003-2005 honda civic hybrid, 2002-2006 cr-v, 2003-2011 element, 2002-2004 odyssey, 2003-2008 pilot, 2006 ridgeline, 2003 acura 3.2cl, 2003-2006 acura mdx, and 2002-2003 acura 3.2tl vehicles. the affected vehicles are equipped with a dual-stage driver frontal air bag that may be susceptible to moisture intrusion and other factors, including manufacturing variability that, over time, could cause the inflator to rupture.",
+            "consequences": "in the event of a crash necessitating deployment of the driver's frontal air bag, the inflator could rupture with metal fragments striking the driver or other occupants resulting in serious injury or death.",
+            "remedy": "honda will notify owners, and dealers will replace the driver frontal air bag inflator, free of charge. the recall began on july 1, 2015. owners may contact honda customer service at 1-888-234-2138. owners may contact acura customer service at 1-800-382-2238, select option 4. note: vehicles that have had their driver frontal air bag replaced previously as part of a recall remedy prior to september 12, 2014 need to have their air bag replaced under this recall as well. vehicles that, on or after september 12, 2014, received a remedy for a prior driver frontal air bag inflator recall already received an inflator of a different design, and therefore are not included in this recall and do not require additional servicing. note: this recall fully supersedes recalls 08v-593, 09v-259, 10v-041, 11v-260, 14v-351 and 15v-153. honda's numbers for this recall are jq9, jr0, jr1, jr2, jr3, jr4, jr5, jr6, jr7, and jr8."
+          }
+        },
+        {
+          "campaign_id": "12V222000",
+          "description": {
+            "date": "05/17/2012",
+            "component": "Steering",
+            "summary": "honda is recalling certain model year 2007 and 2008 acura tl and model year 2003-2007 accord v6 vehicles. in may 2012, honda filed a defect report to recall certain model year 2007 and 2008 acura tl vehicles. in september 2012, honda informed the agency that it was including an additional 573,147 vehicles including certain model year 2003 through 2007 accord v6 vehicles. the total number of vehicles being recalled is now 625,762. prolonged under-hood and power steering fluid temperatures may cause the power steering hose to deteriorate prematurely, resulting in cracks and power steering fluid leakage.",
+            "consequences": "if this occurs, power steering fluid can leak onto a hot catalytic converter, leading to smoke and possibly an under-hood fire.",
+            "remedy": "honda will notify owners, and dealers will install a new heat resistant power steering hose, free of charge. the original recall began in june 2012, and owners of those vehicles may obtain the free remedy. sufficient parts are not yet available for owners of the vehicles covered by the september 2012 expansion, but are expected to be available in early 2013. honda will notify owners of these vehicles beginning on october 26, 2012, and will notify these owners again when parts are available so those vehicles can be brought to dealers for applications of the free remedy. owners may contact honda customer service at 1-800-999-1009."
+          }
+        },
+        {
+          "campaign_id": "11V395000",
+          "description": {
+            "date": "08/04/2011",
+            "component": "Power Train",
+            "summary": "honda is recalling certain model year 2005-2010 accord, 2007-2010 cr-v, and 2005-2008 element passenger cars manufactured from july 1, 2004, through september 3, 2010. the outer race of the secondary shaft bearing may be broken during certain driving styles. a broken outer race may cause abnormal noise, the malfunction indicator light to turn on, and allow contact between the transmission idle gear and an electronic sensor housing within the transmission.",
+            "consequences": "this could result in a short circuit causing the engine to stall. additionally, broken pieces of the outer race or ball bearing from the secondary shaft may become lodged in the parking pawl resulting in the vehicle rolling after the driver has placed the gear selector in the park position. engine stall and unexpected vehicle movement increases the risk of a crash or personal injury to persons within the path of a rolling vehicle.",
+            "remedy": "honda will notify owners and dealers will update the automatic transmission control module software free of charge. the safety recall began on august 27, 2011. owners may contact honda automobile customer service at 1-800-999-1009."
+          }
+        }
+      ],
+      "maintenance": [
+        {
+          "mileage": "5,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "10,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "15,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "20,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "25,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "30,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "35,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "40,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "45,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "50,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "55,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "60,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "65,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "70,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "75,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "80,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "85,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "90,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "95,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "100,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "105,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "110,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "115,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "120,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "125,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "130,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "135,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "140,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "145,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "150,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "155,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "160,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "165,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "170,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "175,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "180,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "185,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "190,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "195,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "200,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "205,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "210,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "215,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "220,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "225,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "230,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "235,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        },
+        {
+          "mileage": "240,000",
+          "conditions": [
+            {
+              "status": "Severe",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            },
+            {
+              "status": "Normal",
+              "description": [
+                "Maintenance Minder B (Engine Oil & Filter Change with Honda Inspections)",
+                "Minder Sub Item 1 (Rotate Tires)",
+                "Minder Sub Item 2 (Air Filter & Dust Filter Replacement)",
+                "Minder Sub Item 3 (Automatic Transmission only)",
+                "Minder Sub Item 4 (Spark Plug & Timing Belt Replacement)",
+                "Minder Sub Item 5 (Engine Coolant Replacement)"
+              ]
+            }
+          ]
+        }
+      ],
+      "repair": [
+        {
+          "title": "Air Conditioning - Replace Compressor",
+          "description": "When temperatures rise, your vehicle’s air conditioning system has to work harder to keep you cool. Over time, the A/C may not blow as cold as you want, even though the control is at the coldest setting. Eventually, the compressor will wear out and need to be replaced. Probably the most important part of the air conditioning system, the compressor ensures a constant flow of refrigerant to cool the air channeled into the passenger cabin. Lack of cold air plus noises from clattering bearings or a squealing belt are signs of compressor failure. Although this repair is relatively straightforward, it’s best done by a professional versed in evacuating and recharging the compressor’s refrigerant.  ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "634",
+              "min": "468"
+            },
+            {
+              "name": "Labor",
+              "max": "1,176",
+              "min": "870"
+            }
+          ]
+        },
+        {
+          "title": "Air Conditioning - Recharge",
+          "description": "Over time, air conditioning may not blow as cold as when the car was new. That means that the refrigerant used in the air conditioning compressor is no longer capable of cooling. This service involves determining if the refrigerant is lost, which means there’s a leak in the system that needs to be repaired (it may be a faulty seal or connector) or merely has lost its ability to cool. This service is best performed by a service technician.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "108",
+              "min": "80"
+            },
+            {
+              "name": "Labor",
+              "max": "201",
+              "min": "149"
+            }
+          ]
+        },
+        {
+          "title": "Wheels - Alignment",
+          "description": "Alignment is the process of making sure all 4 wheels point in the same direction, which will cause the vehicle to drive straight and not drift. Performing this service regularly (yearly or after the vehicle starts drifting) will extend the life of your tires. Alignment is measured in degrees of camber (tire leaning inward or outward), caster (forward or backward slope of steering components in relation to the McPherson struts) and toe (the direction the tires are pointing). Toe-in means that the tires are pointing inward; toe-out means that the tires are pointing outward. Most vehicles are “averaged” for everyday driving. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "154",
+              "min": "113"
+            }
+          ]
+        },
+        {
+          "title": "Battery - Replace",
+          "description": "Diamonds may be forever, but batteries are not. A car battery lasts approximately 3-4 years – or less in regions with high heat and humidity. A key sign of pending failure could be sluggish starting cycle. Many mechanics suggest having a battery “load tested” once every two years, in an attempt to predict just how much life may be left in your battery.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "162",
+              "min": "120"
+            },
+            {
+              "name": "Labor",
+              "max": "87",
+              "min": "64"
+            }
+          ]
+        },
+        {
+          "title": "Brakes - Adjust",
+          "description": "Please note: Pricing shown is for either front brakes or rear brakes.  Modern braking systems typically are self-adjusting to ensure that the brake pad maintains constant contact with the braking surface on a rotor or drum when the brakes are applied. Older brakes may need periodic adjustment where the pad is realigned to close the gap between it and the surface by tightening adjustment screws in the brake mechanism.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "106",
+              "min": "78"
+            }
+          ]
+        },
+        {
+          "title": "Brake Fluid - Flush Fluid & Bleed Brakes",
+          "description": "Air in the brake lines can create a spongy feeling when you apply the brakes. Bleeding the brake lines usually removes the air, but it isn’t a job for the faint of heart. Better left to professionals, newer ABS braking systems require specialized equipment to complete the job. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "80",
+              "min": "59"
+            },
+            {
+              "name": "Labor",
+              "max": "120",
+              "min": "88"
+            }
+          ]
+        },
+        {
+          "title": "Brakes - Replace Pads & Rotors",
+          "description": "Please note: Pricing shown is for either front brakes or rear brakes. Made of ceramic, organic or metallic material, brake pads squeeze against the brake disc rotors to slow the vehicle down. Every time you apply the brakes, the pads wear down a tiny bit. Eventually a wear indicator starts squeaking to tell you it’s time to replace the brake pads.  A mechanic can examine brake pad thickness during a tire rotation or other service. Sometimes you feel a vibration while applying the brakes. That’s a sign that you may need to  resurface or  replace the brake rotors. Resurfacing a brake rotor will extend the life of the rotors by grinding a tiny amount of the metal surface area away to remove any irregularities or other imperfections that have cropped up over time. After a while, the entire brake rotor may need replacement if it has become too thin (through repeated grindings) or warped from variations in temperature. Don’t delay, as brakes are probably one of the most critical safety devices on your vehicle, right up there with seat belts.  ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "277",
+              "min": "205"
+            },
+            {
+              "name": "Labor",
+              "max": "156",
+              "min": "115"
+            }
+          ]
+        },
+        {
+          "title": "Brakes - Replace Pads",
+          "description": "Please note: Pricing shown is for either front brakes or rear brakes.  Made of ceramic, organic or metallic material, brake pads squeeze against the brake disc rotors to slow the vehicle down. Every time you apply the brakes, the pads wear down a tiny bit. Eventually a wear indicator starts squeaking to tell you it’s time to replace the brake pads. It’s always better to replace the pads before they start squeaking, to avoid damaging the brake rotors. A mechanic can check brake pad thickness during a tire rotation or other service. The number of miles you can go before replacing the brake pads really depends on your driving style.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "109",
+              "min": "81"
+            },
+            {
+              "name": "Labor",
+              "max": "203",
+              "min": "149"
+            }
+          ]
+        },
+        {
+          "title": "Brakes - Replace Pads & Resurface Rotors",
+          "description": "Please note: Pricing shown is for either front brakes or rear brakes. Made of ceramic, organic or metallic material, brake pads squeeze against the brake disc rotors to slow the vehicle down. Every time you apply the brakes, the pads wear down a tiny bit. Eventually a wear indicator starts squeaking to tell you it’s time to replace the brake pads. A mechanic can check brake pad thickness during a tire rotation or other service. As part of the service, the rotors will be resurfaced by grinding part of the metal surface away to remove irregularities or other imperfections. Resurfacing extends the life of the rotor and is less expensive than replacing the rotor. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "152",
+              "min": "112"
+            },
+            {
+              "name": "Labor",
+              "max": "228",
+              "min": "168"
+            }
+          ]
+        },
+        {
+          "title": "Brakes - Replace Rotors",
+          "description": "Please note: Pricing shown is for either front brakes or rear brakes. Sometimes you feel a vibration while applying the brakes. That’s a sign that you may need to resurface or replace the brake rotors. Resurfacing a brake rotor will extend the life of the rotors by grinding a tiny amount of the metal away, to remove irregularities or other imperfections that have cropped up over time. After a while, the entire brake rotor may need to be replaced if it has become too thin (through repeated grindings) or warped from variations in temperature. Don’t delay, as brakes are one of the most critical safety devices on your vehicle, right up there with seat belts.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "219",
+              "min": "162"
+            },
+            {
+              "name": "Labor",
+              "max": "178",
+              "min": "132"
+            }
+          ]
+        },
+        {
+          "title": "Brakes - Resurface Rotors",
+          "description": "Please note: Pricing shown is for either front brakes or rear brakes. Sometimes you feel a vibration while applying the brakes. That’s a sign that you may need t resurface the brake rotors. Resurfacing extends the life of the rotors by grinding a tiny amount of the metal surface area away, to remove any irregularities or other imperfections that have cropped up over time. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "240",
+              "min": "178"
+            }
+          ]
+        },
+        {
+          "title": "Cabin Air Filter - Replace",
+          "description": "Modern heating and air conditioning systems in cars use an in-cabin air filter to help purify the air and eliminate outside odors. Consult your owner’s manual or maintenance schedule for how often it should be changed. For convenience, you might consider having the cabin air filter changed in conjunction with other routine maintenance. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "42",
+              "min": "31"
+            },
+            {
+              "name": "Labor",
+              "max": "51",
+              "min": "37"
+            }
+          ]
+        },
+        {
+          "title": "Coolant - Flush",
+          "description": "Periodically flushing the engine coolant can help keep contaminants that clog the radiator’s cooling element from building up. A clogged radiator could make the engine run hot, cause premature wear and even lead to engine failure. Fresh coolant also contains inhibitors that will keep the entire cooling system clean from rust, which could cause leaks in the radiator. Typically, you should flush and replace the coolant every 30,000 miles or five years, whichever comes first.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "79",
+              "min": "58"
+            },
+            {
+              "name": "Labor",
+              "max": "182",
+              "min": "134"
+            }
+          ]
+        },
+        {
+          "title": "Engine Diagnostics - Check Engine Light",
+          "description": "Diagnostics are periodic checks of the system operations of your car, truck or SUV that can give you a quick window into your vehicle’s health. A mechanic performs diagnostics by plugging into a receptacle under the dashboard to access the On Board Diagnostics (OBD-II) tool or by tapping into a system like General Motors’ OnStar. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "263",
+              "min": "195"
+            }
+          ]
+        },
+        {
+          "title": "Differential Fluid - Flush",
+          "description": "In addition to wheels, a vehicle’s drive axle includes a differential unit, which uses gears to synchronize the rate at which the wheels rotate. When your vehicle turns, the inside wheels don’t need to make as many rotations as the outside wheels, which have a greater distance to cover. The differential helps keep the axle from binding up from this difference in turning rates. A thin coat of oil lubricates these gears, and that oil needs to be changed from time to time. Your owner’s manual or maintenance minder will tell you when to replace it. If the oil becomes contaminated or the level drops too low, the gears could be damaged, which would lead to a more expensive repair or replacement. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "85",
+              "min": "63"
+            },
+            {
+              "name": "Labor",
+              "max": "102",
+              "min": "76"
+            }
+          ]
+        },
+        {
+          "title": "Engine Belt - Replace",
+          "description": "Several types of engine belts need to be replaced from time to time. Vehicles from 1990 and newer typically have a serpentine belt. The belt snakes around the pulleys located at the front of the engine (or the side of a transverse-mounted engine) and drives multiple accessories including the alternator, power steering pump and air conditioning compressor. If it is squeaking or worn, it could break, which would make the engine inoperable. Check it at 60,000 miles but change it before 100,000 miles. Older vehicles usually have separate belts for the water pump, alternator, radiator fan and air conditioning system, but when they break, you still may be able to get home. Finally, engine timing belts help to keep the camshaft and crankshaft in sync so that pistons and valves operate in sync. They typically last from 60,000 to 90,000 miles. A broken timing belt could result in engine damage and an expensive rebuild.  ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "104",
+              "min": "77"
+            },
+            {
+              "name": "Labor",
+              "max": "155",
+              "min": "115"
+            }
+          ]
+        },
+        {
+          "title": "Engine Control Unit (ECU) - Reprogram",
+          "description": "Flashing or reprogramming your engine’s computer keeps it up-to-date and operating properly. The engine control unit (ECU) is a computer that controls all of your vehicle’s electronic systems. Like many computers, it occasionally requires reprogramming of its operating software. Your vehicle’s warranty may covered it, but there’s usually an additional charge. For example,  Mazda charged a fee to re-flash the system so their vehicles could operate Apple CarPlay or Android Auto. On occasion, other vehicles revert to limp-home mode following an ECU malfunction. In order to diagnose what needs to be done, a dealership technician will connect a computer to the vehicle’s On-Board Diagnostic II (OBD-II) port. Consult with your dealership service department for more information on your specific car, truck or SUV. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "63",
+              "min": "47"
+            }
+          ]
+        },
+        {
+          "title": "Engine Air Filter - Replace",
+          "description": "The engine air filter helps trap dirt and debris before it can enter the engine. Typically, you should change the engine air filter every 30,000 to 45,000 miles, but if you’re in a dusty, dirty region, cut these distances in half.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "31",
+              "min": "22"
+            },
+            {
+              "name": "Labor",
+              "max": "37",
+              "min": "27"
+            }
+          ]
+        },
+        {
+          "title": "Axle - Replace Front Axle",
+          "description": "The constant-velocity universal joints (CV Joints) connect the front-drive wheels of your car or SUV to the transaxle and then to the engine. These joints are covered by rubber “boots” which help to keep the axle grease in and water and dirt out. Even the best laid plans go astray and through normal wear and sometimes even literal tears, the front CV Joints fail. It used to be easy to replace the CV Joint. That was then, this is now: Manufacturers suggest replacing the entire axle with a new or a remanufactured unit that is already sealed before installation. This practice is more desirable than rebuilding the faulty CV Joint due to the amount of work involved in the process. This is a job for professionals. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "262",
+              "min": "193"
+            },
+            {
+              "name": "Labor",
+              "max": "485",
+              "min": "358"
+            }
+          ]
+        },
+        {
+          "title": "Fuel Injector - Replace",
+          "description": "A vehicle’s fuel delivery system has progressed quite a bit from the carburetor that used to sit on top of the engine. Today, modern vehicles feature precise fuel injection systems located on top of – or even inside – the combustion chamber. Restrictions in fuel flow, electrical problems with the injectors themselves or even dirty or contaminated fuel can all cause trouble. Fuel injectors will typically last between 50,000 and 100,000 miles. Much of this lifespan is determined by the type of fuel used and how often the vehicle’s fuel filters are changed. Some symptoms that your fuel injectors need replacing include an illuminated check engine light, a decrease in fuel efficiency, a smell of fuel (especially near the fuel injectors under the hood) and engine misfiring. Fuel injector replacement is a job best performed by an ASE-certified mechanic at a dealership service department or automotive service center. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "519",
+              "min": "383"
+            },
+            {
+              "name": "Labor",
+              "max": "779",
+              "min": "575"
+            }
+          ]
+        },
+        {
+          "title": "Fuel Injector - Service",
+          "description": "Changing from carburetors to fuel injection systems has made fuel delivery more precise. But every now and then the system needs to be flushed, cleaned and restored. Servicing your fuel injection system helps to remove waxy build-up & deposits and cleans the intake valves, cylinder heads and fuel delivery lines. This results in an extended engine life, improved performance, and better fuel economy. Most modern engines suggest fuel injector service at 60,000 miles, unless a specific problem crops up. Check your owner’s manual to know for sure with your car. If you notice a certain sluggishness in acceleration and a decrease in fuel economy, it might mean it’s time for a fuel injector service. Your local dealership service department performs this job every day. Contact them for more information. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "143",
+              "min": "105"
+            },
+            {
+              "name": "Labor",
+              "max": "215",
+              "min": "159"
+            }
+          ]
+        },
+        {
+          "title": "Fuel Pump - Replace",
+          "description": "Located inside your fuel tank, a fuel pump has a small electric motor to make sure that pressurized gasoline flows to the engine to power the vehicle. Along the way, the fuel passes through a filter, either inside the fuel tank or externally in the fuel flow line. Most fuel pumps will last for the life of the vehicle but occasionally they can fail. Signs of such failure are a car that won’t start or stalls once it has started. Other times, the fuel flow can slowly become starved causing the check engine light to come on. Or if you hear a whirring sound coming from your fuel tank, the fuel pump may be about to fail, since fuel pumps do not normally make noise. A mechanic will need to get to the failed pump through the top of the fuel tank via an access panel in the passenger compartment or by removing the tank from the vehicle. This moderately complicated job is best performed at your dealership’s service department. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "592",
+              "min": "437"
+            },
+            {
+              "name": "Labor",
+              "max": "592",
+              "min": "437"
+            }
+          ]
+        },
+        {
+          "title": "Intake Manifold Gasket - Replace",
+          "description": "The intake manifold gasket is an aluminized piece of steel coated in a carbonized rubber formula that provides a seal between the intake manifold and the engine’s cylinder head. It ensures proper engine manifold pressure, which is needed to maintain power. Intake manifold gaskets are able to withstand deterioration caused by coolants, oils and other fluids. They are also designed to resist long-term bouts of constant temperature fluctuation from starting and stopping the engine. But after many miles and years of service, the material may wear out, resulting in pressure and coolant leakage and causing the engine to run rough and overheat. A mechanic will replace the intake manifold gasket by removing all components above the cylinder heads that may obscure the gasket from removal. Once they have removed it, the mounting surface is cleaned and resurfaced, and the gasket is replaced. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "116",
+              "min": "86"
+            },
+            {
+              "name": "Labor",
+              "max": "467",
+              "min": "345"
+            }
+          ]
+        },
+        {
+          "title": "Tire(s) - Mount & Balance (4 Wheels)",
+          "description": "Just getting a new tire doesn’t always result in a smooth ride. Because of manufacturing and mounting irregularities, tires need to be balanced by adding counter-balancing weights to certain parts of the wheel. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "255",
+              "min": "190"
+            }
+          ]
+        },
+        {
+          "title": "Oil Change",
+          "description": "An oil change is the act of replacing the oil and oil filter in your car, truck or SUV’s crankcase. Oil has a limited life span and should be changed according to the maintenance schedule in your Owner’s Manual. Many modern vehicles use synthetic motor oil that can stretch the time/mileage interval to as long as 12,000 miles/12 months. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "46",
+              "min": "34"
+            },
+            {
+              "name": "Labor",
+              "max": "37",
+              "min": "27"
+            }
+          ]
+        },
+        {
+          "title": "Power Steering Fluid - Flush",
+          "description": "Modern cars, trucks and SUVs all use power steering to make maneuvering effortless. The power steering system uses a pump and hydraulic pressure to assist the steering gears. Power steering fluid is designed to last for as long as 100,000 miles, but the system may leak or the fluid may become exhausted before then. Follow the recommendation from your owner’s manual to see when it’s time to flush the power steering fluid. A mechanic will flush the system by removing dark, discolored power steering fluid and refilling it with fresh fluid, while an assistant turns the steering wheel from left to right to get old fluid out of the system. When the remaining fluid appears like fresh fluid, the system has been successfully flushed. Remove the remaining fluid, refill with fresh power steering fluid and your vehicle should be good for another 100,000 miles. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "86",
+              "min": "64"
+            },
+            {
+              "name": "Labor",
+              "max": "105",
+              "min": "77"
+            }
+          ]
+        },
+        {
+          "title": "Power Steering Pump - Replace",
+          "description": "A belt-driven power steering pump provides your vehicle with the hydraulic pressure needed to assist its steering. That boost eases the effort enabling a smoother steering motion. Power steering pumps fail as a result of worn bearings or by leaks which have drained the power steering fluid from the pump entirely. Failure to address the lack of fluid and a subsequent pump malfunction can cause the pump to seize up. At the same time, it’s a good idea to also have all hoses that lead to the pump replaced to minimize the chance of subsequent power steering fluid leaks. Many newer vehicles have gone to electrically assisted power steering, which eliminates the use of hydraulic fluid, hoses and the pump itself. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "706",
+              "min": "522"
+            },
+            {
+              "name": "Labor",
+              "max": "380",
+              "min": "281"
+            }
+          ]
+        },
+        {
+          "title": "Spark Plugs - Replace",
+          "description": "Spark plugs ignite the fuel mixture in the engine, providing the power to make your car go. Sitting atop your engine’s cylinder head, it receives a spark from the electronic ignition in modern vehicles, or the distributor cap and rotor found in older cars. Eventually, at around 30,000 miles to as high as 40,000 miles, conventional spark plugs will wear out, which could cause stalling, starting problems and engine misfires. Higher-cost platinum-tipped spark plugs may not need to be replaced as often. At the same time, it might be appropriate to replace your oxygen sensor, spark plug wires, PCV valve and fuel filter. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "115",
+              "min": "85"
+            },
+            {
+              "name": "Labor",
+              "max": "172",
+              "min": "127"
+            }
+          ]
+        },
+        {
+          "title": "Thermostat - Replace",
+          "description": "A vehicle’s cooling system uses a thermostat valve to help regulate the engine’s temperature. When the engine is cold, the valve will be closed, bypassing the radiator and allowing the engine to rapidly come up to operating temperature. After that level has been reached, the valve on the thermostat opens to allow coolant to circulate through the radiator. But sometimes, through normal wear and tear or contaminants in the coolant, the thermostat may fail to open, causing the engine to overheat. This will be evident by the temperature gauge climbing into the high temperature (usually red) zone. Remember that a thermostat failure can also be caused by other factors, as well. For that reason, it is important to have a skilled mechanic check all the links in the chain – radiator, coolant pump, hoses and thermostat. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "146",
+              "min": "108"
+            },
+            {
+              "name": "Labor",
+              "max": "437",
+              "min": "323"
+            }
+          ]
+        },
+        {
+          "title": "Timing Belt - Replace",
+          "description": "Critical to the operation of your vehicle, the timing belt synchs the operations of the camshaft and the crankshaft so that the valves operate efficiently and safely. Older cars may have a timing chain, similar to a chain on a motorcycle, with a life cycle of around 60,000 miles. Newer models use timing belts made of polyurethane and Kevlar for long life and durability. They can go as long as 100,000 miles although it’s always a good idea to change it before then. Belt failure can cause extensive damage to the valves, pistons and other internal parts of the engine. The cost of changing the timing belt is a bargain when you consider the cost to replace the entire engine. Start thinking about changing the timing belt once you cross the 90,000-mile threshold. Check your owner’s manual for details. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "552",
+              "min": "408"
+            },
+            {
+              "name": "Labor",
+              "max": "828",
+              "min": "612"
+            }
+          ]
+        },
+        {
+          "title": "Tire Pressure (TPMS) Sensor - Replace",
+          "description": "A tire pressure sensor is designed to warn that one or more of your tires is underinflated. All cars built since 2007 are required to have this system. The most common sensor uses a battery and operates via a wireless transmitter mounted inside the rim of your tire’s wheel. When it detects low pressure, it sends a signal to your vehicle’s computer system that shows up on your instrument panel as an icon of a tire or some other alert. Most warn of low pressure without indicating a specific tire, while more advanced systems can flag an individual wheel or indicate the pressure in each tire. The batteries in tire pressure sensors last around five to seven years but sometimes they can fail earlier. The sensors can also be damaged from potholes or other sudden jarring. Replacing the sensor is easy for a tire retailer or your dealership service department. Your service technician will also electronically reset the system after replacing the sensors or whenever you replace your tires. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "110",
+              "min": "82"
+            },
+            {
+              "name": "Labor",
+              "max": "204",
+              "min": "150"
+            }
+          ]
+        },
+        {
+          "title": "Tire(s) - Patch",
+          "description": "A flat tire doesn’t necessarily mean that the tire needs replacement. Patching and plugging kits can fix holes in tires caused by small sharp objects like nails and screws. Patching the tire uses an internal patch to cover the opening and requires the tire to be removed from the rim. A plug fixes a hole externally, so in some cases, the tire doesn’t need to be taken off. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "24",
+              "min": "17"
+            },
+            {
+              "name": "Labor",
+              "max": "34",
+              "min": "25"
+            }
+          ]
+        },
+        {
+          "title": "Tire(s) - Rotate",
+          "description": "Done every 5,000 miles or so, a tire rotation is the act of moving tires around your car, truck or SUV so the tires wear evenly. Some vehicles have “staggered” tire sizes, meaning that the fronts are smaller than the rears. In this case, they can only be rotated from left to right (or vice versa). Some high-performance tires shouldn’t be rotated at all, since they’re made to turn in one direction only (usually indicated by an arrow on the tire’s sidewall). As always, consult your owner’s manual for more information.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "52",
+              "min": "38"
+            }
+          ]
+        },
+        {
+          "title": "Tire(s) - Rotate & Balance (4 Wheels)",
+          "description": "Done every 5,000 miles or so, a tire rotation is the act of moving tires around the vehicle so they have the opportunity to wear evenly. Some vehicles use “staggered” tire sizes meaning the fronts are smaller than  the rears. In this case, they can only be rotated from left to right (and vice versa).  Some high-performance tires shouldn’t be rotated at all, since they’re made to turn in one direction only (usually indicated by an arrow on the tire’s sidewall). As always, consult your owner’s manual for more information. Mounting new tires or rotating existing ones doesn’t always result in a smooth ride.  Because of manufacturing and mounting irregularities, tires need to be balanced by adding counter-balancing weights to certain parts of the wheel.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "0",
+              "min": "0"
+            },
+            {
+              "name": "Labor",
+              "max": "97",
+              "min": "71"
+            }
+          ]
+        },
+        {
+          "title": "Transmission Fluid - Flush",
+          "description": "Most new vehicles are equipped with an automatic transmission. As a result, there's not really much maintenance to perform. Still, most owner’s manuals will recommend changing the transmission fluid every 90,000 miles or so. Flushing your transmission’s fluid has fallen out of vogue in recent years because the high-pressure cleaning involved may dislodge debris inside the transmission that can literally gum up the works. By following your vehicle’s maintenance schedule, your car’s gearbox will offer years of trouble-free driving. For more information check with your owner’s manual and your dealership service advisor.\n",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "108",
+              "min": "80"
+            },
+            {
+              "name": "Labor",
+              "max": "133",
+              "min": "98"
+            }
+          ]
+        },
+        {
+          "title": "Transmission - Replace",
+          "description": "A transmission takes your engine’s energy and delivers it to the wheels that drive your vehicle.  It is one of the most major – and expensive – repairs you can do. A transmission can fail for almost as many reasons as there are parts inside, and often, it’s easier to replace it than repair it. You are not only paying for the new or rebuilt replacement transmission but also for the labor required to remove the old unit then replace it with a new one. A time-consuming operation, this involves disconnecting fluid lines, electrical wiring, engine mounts, exhaust system components, axles or driveshafts and more. A transmission replacement can be performed by a transmission specialist or by a technician at your dealership’s service department. It is always better to avoid having to go this route by explicitly following the service schedule found inside your vehicle’s owner’s manual. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "4,442",
+              "min": "3,284"
+            },
+            {
+              "name": "Labor",
+              "max": "1,481",
+              "min": "1,095"
+            }
+          ]
+        },
+        {
+          "title": "Water Pump - Replace",
+          "description": "The water pump is an essential component that keeps the coolant circulating, a critical role in ensuring that the engine maintains the proper operating temperature. Without coolant being circulated, the engine will overheat, leading to premature wear and damage. A failing water pump can also leak causing further loss of coolant. Water pumps are designed to last at least 100,000 miles, however, if your water pump fails, you should replace it with a high-quality original-equipment level unit. Less expensive replacement pumps are available, but they might only have a service life of 30,000 miles.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "283",
+              "min": "209"
+            },
+            {
+              "name": "Labor",
+              "max": "526",
+              "min": "388"
+            }
+          ]
+        },
+        {
+          "title": "Wheel Bearings - Replace",
+          "description": "Wheel bearings are hardened steel ball bearings that roll around inside a casing on your vehicle’s axles. When you hear a growling or grinding noise from your wheel or wheels, it might be indication that bearings are failing, usually due to a lack of lubrication. The noise will grow progressively worse and there will be a certain roughness to the ride of your car, truck or SUV. It may also be evident by a vibration that travels up your steering wheel. The longer you drive on failing bearings, the more expensive the damage to your vehicle can be. Depending on the vehicle and its front, rear or all-wheel-drive, repairs can be quite involved. Brakes and rotor assemblies are removed first to expose the axle nut and hub assembly. The old bearings are removed and replaced with new units and then reassembled. A certified mechanic at your dealership service department or at a local automotive repair center can do the replacements.  ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "450",
+              "min": "332"
+            },
+            {
+              "name": "Labor",
+              "max": "193",
+              "min": "143"
+            }
+          ]
+        },
+        {
+          "title": "Wheel Locks - Install",
+          "description": "Designed to prevent the theft of your vehicle’s expensive rims, lug nut wheel locks are a relatively inexpensive way to at least slow down the bad guys. The unfortunate truth is that if someone really wants them, they will probably get them. The object of the wheel lock is to prevent or at least slow that process down. Typically, a set of wheel locks will include four locks (one lock per wheel) and at least one key to put the wheel locks on and off. Remember where you put the key and also to never over-torque the wheel lock to the lug nut. ",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "87",
+              "min": "65"
+            },
+            {
+              "name": "Labor",
+              "max": "29",
+              "min": "21"
+            }
+          ]
+        },
+        {
+          "title": "Wiper Blades - Replace 1 Front Wiper",
+          "description": "Consider them part of the vehicle’s safety equipment: If you can’t see through the windshield, you are likely putting yourself, your family and your vehicle at risk. You should aim to replace your wiper blades every six months to a year, due to the toll they take from extreme heat and humidity, which work to cut down the useful life of your blades.",
+          "costs": [
+            {
+              "name": "Parts",
+              "max": "36",
+              "min": "27"
+            },
+            {
+              "name": "Labor",
+              "max": "9",
+              "min": "7"
+            }
+          ]
+        }
+      ]
+    },
+    "execution time": "6.213151641845704 sec"
+  }

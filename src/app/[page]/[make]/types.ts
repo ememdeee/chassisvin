@@ -19,6 +19,11 @@ interface FAQItem {
   answer: string;
 }
 
+interface Author {
+  name: string;
+  url: string;
+}
+
 export interface Content {
   title: string;
   description: string;
@@ -26,6 +31,8 @@ export interface Content {
   metaDescription: string;
   canonical: string;
   imageUrl: string;
+  author: Author;
+  datePublished: string,
   dateModified: string,
   dataSources: DataSource[];
   reportType: string;
@@ -42,6 +49,7 @@ export type ContentMap = {
   'window-sticker': Record<string, Content>;
   'license-plate-lookup': Record<string, Content>;
   'classic-lookup': Record<string, Content>;
+  'paint-code-by-vin': Record<string, Content>;
 }
 
 export type PageParams = { 

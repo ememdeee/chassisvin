@@ -2,12 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
+.contentContainer > .content:first-of-type {
+  padding-top: 0 !important;
+}
+
+.contentContainer > .content:last-of-type, .contentContainer > .content:has(+ section) {
+  padding-bottom: 0 !important;
+}
+
 .content h2, .content h3, .content h4{
     color: #000;
     font-weight: 700;
     line-height: 1.2;
     margin: 0 0 15px;
 }
+/* if after the heading is list, then no need margin bottom  */
+.content h2:has(+ div > ul),
+.content h2:has(+ div > ol) {
+  margin-bottom: 0 !important;
+}
+
 .content h2{
     font-size: 22px;
 }

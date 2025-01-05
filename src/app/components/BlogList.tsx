@@ -58,11 +58,6 @@ export default function BlogList({
 
   return (
     <>
-      <Script
-        id="blog-schema"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
-      />
       <div className="space-y-8">
       {filteredBlogs.length === 0 ? (
         <div className="text-center py-12">
@@ -157,6 +152,11 @@ export default function BlogList({
         </>
         )}
       </div>
+      <Script
+        id="blog-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
+      />
     </>
   );
 }

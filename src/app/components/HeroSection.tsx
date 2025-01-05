@@ -2,6 +2,7 @@ import React from 'react'
 import SiteForm from './SiteForm'
 import CustomButton from './CustomButton'
 import Image from 'next/image';
+import ColorSiteForm from './ColorSiteForm';
 
 interface HeroCta {
   text: string;
@@ -14,7 +15,7 @@ interface HeroSectionProps {
   description?: string
   showForm?: boolean
   heroCta?: HeroCta[]
-  reportType?: 'VHR' | 'WS'
+  reportType?: 'VHR' | 'WS' | 'COLOR'
 }
 
 export default function Component({
@@ -45,7 +46,12 @@ export default function Component({
             {description}
           </p>
         </div>
-        {showForm && <SiteForm reportType={reportType} />}
+        {showForm && (reportType === 'VHR' || reportType === 'WS') && (
+          <SiteForm reportType={reportType} />
+        )}
+        {showForm && reportType === 'COLOR' && (
+          <ColorSiteForm />
+        )}
         {heroCta && heroCta.length > 0 && (
           <div className="flex justify-center mt-6 space-x-4">
             {heroCta.map((cta, index) => (

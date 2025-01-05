@@ -17,6 +17,8 @@ const getContentMap = cache(async (page: keyof ContentMap): Promise<Record<strin
       return import('@/data/licensePlateLookupStates.json').then(m => m.default)
     case 'classic-lookup':
       return import('@/data/classicYmmt.json').then(m => m.default)
+    case 'paint-code-by-vin':
+      return import('@/data/colorDecoderMakes.json').then(m => m.default)
     default:
       return {}
   }
@@ -39,7 +41,7 @@ export async function generateMetadata({ params }: { params: PageParams }): Prom
 }
 
 export async function generateStaticParams() {
-  const pages: (keyof ContentMap)[] = ['vin-decoder', 'vin-check', 'window-sticker', 'license-plate-lookup', 'classic-lookup']
+  const pages: (keyof ContentMap)[] = ['vin-decoder', 'vin-check', 'window-sticker', 'license-plate-lookup', 'classic-lookup', 'paint-code-by-vin']
   
   return pages.flatMap(async page => {
     const contents = await getContentMap(page)

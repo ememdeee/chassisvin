@@ -281,7 +281,8 @@ const SiteForm: React.FC<SiteFormProps> = ({ forceMobileLayout = false , reportT
           )}
         </div>
         <span className="mx-2">•</span>
-        <span>No VIN? Use license plate decoder</span>
+        <span>No VIN? <Link className="text-blue-500 hover:text-blue-600 transition-colors duration-200" href="/license-plate-lookup">Use license plate decoder</Link>
+          </span>
         <span className="mx-2">•</span>
         <Link href="/sample" className="text-blue-500 hover:text-blue-600 transition-colors duration-200">
           View our sample report

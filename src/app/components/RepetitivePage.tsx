@@ -13,6 +13,7 @@ import SourceAndPartner from './SourceAndPartner'
 import CheckOurBlog from './CheckOurBlog'
 import SectionCta from './SectionCta'
 import AuthorBox from './AuthorBox'
+import Script from 'next/script'
 
 interface Section {
   heading: string;
@@ -35,6 +36,11 @@ interface FAQItem {
   answer: string;
 }
 
+interface Author {
+  name: string;
+  url: string;
+}
+
 interface Content {
   title: string;
   description: string;
@@ -42,6 +48,8 @@ interface Content {
   metaDescription: string;
   canonical: string;
   imageUrl: string;
+  author: Author;
+  datePublished: string,
   dateModified: string,
   dataSources: DataSource[];
   reportType: string;
@@ -87,6 +95,8 @@ export function generateMetadata({ contents, params }: Pick<RepetitivePageProps,
       siteName: 'ChassisVIN',
       locale: 'en_US',
       url: content.canonical,
+      authors: content.author.name,
+      publishedTime: content.datePublished,
       modifiedTime: content.dateModified,
     },
     twitter: {
@@ -95,6 +105,9 @@ export function generateMetadata({ contents, params }: Pick<RepetitivePageProps,
       description: content.description,
       images: [content.imageUrl],
     },
+    authors: [{ name: content.author.name, url: content.author.url }],
+    publishedTime: content.datePublished,
+    modifiedTime: content.dateModified,
   }
 }
 
@@ -104,6 +117,31 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
 
   if (!content) {
     notFound()
+  }
+
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: content.title,
+    description: content.description,
+    author: {
+      '@type': 'Person',
+      name: content.author.name,
+      url: content.author.url,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'ChassisVin',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.chassisvin.com/ChassisVIN.png',
+      },
+    },
+    datePublished: content.datePublished,
+    dateModified: content.dateModified,
+    mainEntityOfPage: content.canonical,
+    image: content.imageUrl,
+    articleBody: content.description,
   }
 
   const renderSection = (section: Section, index: number) => {
@@ -116,7 +154,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
     }
 
     return (
-      <div className="content px-4" key={index}>
+      <div className="content px-4 py-2" key={index}>
         {renderHeading(section)}
         <SectionContent content={section.content} />
       </div>
@@ -144,13 +182,18 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
 
   return (
     <>
+      <Script
+        id="article-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <Head>
         <link rel="canonical" href={content.canonical} />
       </Head>
       <main>
         <HeroSection showForm={content.heroForm} title={content.title} description={content.description} reportType={content.reportType as 'VHR' | 'WS'} heroCta={content.heroCta} />
         <TwoColumnContainer>
-          <div>
+          <div className='contentContainer'>
             <Breadcrumb />
 
             {content.sections && content.sections.length > 0 && content.sections.map((section, index) => renderSection(section, index))}
@@ -178,7 +221,7 @@ export default function RepetitivePage({ contents, params }: RepetitivePageProps
             )}
             <CheckOurBlog />
           </div>
-          <TwoColumnSidebar />
+          <TwoColumnSidebar reportType={content.reportType} />
         </TwoColumnContainer>
       </main>
     </>
