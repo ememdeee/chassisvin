@@ -52,7 +52,7 @@ export default function ColorSiteForm() {
 
     setIsLoading(true)
     try {
-      const response = await fetch(`/color/api?vin=${vin}`)
+      const response = await fetch(`/api/color-code?vin=${vin}`)
       if (!response.ok) {
         throw new Error('Failed to fetch color data')
       }
