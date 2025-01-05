@@ -5,6 +5,7 @@ import windowStickerMakes from '@/data/windowStickerMakes.json'
 import licensePlateLookupStates from '@/data/licensePlateLookupStates.json'
 import vinCheckStates from '@/data/vinCheckStates.json'
 import classicYmmt from '@/data/classicYmmt.json'
+import colorDecoderMakes from '@/data/colorDecoderMakes.json'
 import blogs from '@/data/blogs.json'
 import { getPageDates } from '@/data/pageDates'
 import fs from 'fs'
@@ -101,6 +102,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
     ...Object.entries(vinCheckStates).map(([slug, page]) => ({
       url: formatUrl(baseUrl, `vin-check/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    ...Object.entries(colorDecoderMakes).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `paint-code-by-vin/${slug}`),
       lastModified: new Date(page.dateModified),
       changeFrequency: 'monthly' as const,
       priority: 0.7,

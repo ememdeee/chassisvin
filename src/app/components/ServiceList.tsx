@@ -1,5 +1,5 @@
 import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
-import { Printer, Car, Search, FileSearch, Clock, FileText, Store, Shield } from 'lucide-react'
+import { Printer, Car, Search, FileSearch, Clock, FileText, Store, Shield, Palette, Compass } from 'lucide-react'
 import Link from "next/link"
 
 export default function ServiceList() {
@@ -45,6 +45,18 @@ export default function ServiceList() {
       description: "Unlimited vehicle history reports",
       icon: Store,
       path: "/unlimited-vehicle-history-reports",
+    },
+    {
+      title: "Paint Code by VIN",
+      description: "Find your vehicle's exact paint color code",
+      icon: Palette,
+      path: "/paint-code-by-vin",
+    },
+    {
+      title: "VIN Explorer",
+      description: "Explore detailed vehicle information by VIN",
+      icon: Compass,
+      path: "/vin-explorer",
     },
     {
       title: "Warranty Check",
