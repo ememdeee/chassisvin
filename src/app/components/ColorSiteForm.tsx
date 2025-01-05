@@ -29,9 +29,27 @@ export default function ColorSiteForm() {
   const [isLoading, setIsLoading] = useState(false)
   const [showVinTooltip, setShowVinTooltip] = useState(false)
 
+  const validateVin = (vin: string): string | null => {
+    if (vin.trim() === '') {
+      return 'Please enter a VIN.'
+    }
+    if (vin.length !== 17) {
+      return 'Please ensure that your VIN is in proper format. 17 digits.'
+    }
+    // Additional VIN validation could be added here
+    return null
+  }
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
+    
+    const validationError = validateVin(vin)
+    if (validationError) {
+      setError(validationError)
+      return
+    }
+
     setIsLoading(true)
     try {
       const response = await fetch(`/color/api?vin=${vin}`)
@@ -56,9 +74,10 @@ export default function ColorSiteForm() {
           <input
             type="text"
             value={vin}
-            onChange={(e) => setVin(e.target.value)}
+            onChange={(e) => setVin(e.target.value.toUpperCase())}
             placeholder="Enter VIN Number"
             className="w-full px-6 py-4 text-lg rounded-3xl md:rounded-full focus:outline-none"
+            maxLength={17}
             required
           />
         </div>
