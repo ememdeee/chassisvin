@@ -742,7 +742,7 @@
     "metaTitle": "Vehicle Recall Guide | Stay Safe on the Road",
     "metaDescription": "Discover everything about vehicle recalls, including how to check for them, the types of recalls, and the importance of ensuring your vehicle's safety.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls",
-    "dataSources": [],
+    "dataSources": [{"source": "makesList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],

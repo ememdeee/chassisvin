@@ -50,6 +50,7 @@ export type ContentMap = {
   'license-plate-lookup': Record<string, Content>;
   'classic-lookup': Record<string, Content>;
   'paint-code-by-vin': Record<string, Content>;
+  'vehicle-recalls': Record<string, Content>;
 }
 
 export type PageParams = { 

@@ -17,8 +17,8 @@
     margin: 0 0 15px;
 }
 /* if after the heading is list, then no need margin bottom  */
-.content h2:has(+ div > ul),
-.content h2:has(+ div > ol) {
+.content h2 + div > ul,
+.content h2 + div > ol {
   margin-bottom: 0 !important;
 }
 
