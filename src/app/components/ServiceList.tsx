@@ -1,5 +1,5 @@
 import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
-import { Printer, Car, Search, FileSearch, Clock, FileText, Store, Shield, Palette, Compass } from 'lucide-react'
+import { Printer, Car, Search, FileSearch, Clock, FileText, Store, Shield, Palette, Compass, AlertTriangle } from 'lucide-react'
 import Link from "next/link"
 
 export default function ServiceList() {
@@ -63,6 +63,12 @@ export default function ServiceList() {
       description: "Check warranty information by VIN",
       icon: Shield,
       path: "/warranty-by-vin",
+    },
+    {
+      title: "Vehicle Recalls",
+      description: "Understanding Vehicle Recalls: A Complete Guide",
+      icon: AlertTriangle,
+      path: "/vehicle-recalls",
     },
   ]
 

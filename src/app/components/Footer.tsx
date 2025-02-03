@@ -26,6 +26,7 @@ const Footer = () => {
                 <Link href="/classic-lookup" className="text-gray-600 hover:text-gray-900">Classic Car Lookup</Link>
                 <Link href="/window-sticker" className="text-gray-600 hover:text-gray-900">Window Sticker</Link>
                 <Link href="/build-sheet-by-vin" className="text-gray-600 hover:text-gray-900">Build Sheet</Link>
+                <Link href="/vehicle-recalls" className="text-gray-600 hover:text-gray-900">Vehicle Recalls by VIN</Link>
                 <Link href="/vin-explorer" className="text-gray-600 hover:text-gray-900">VIN Explorer</Link>
               </nav>
             </div>
