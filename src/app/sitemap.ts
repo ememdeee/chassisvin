@@ -6,6 +6,7 @@ import licensePlateLookupStates from '@/data/licensePlateLookupStates.json'
 import vinCheckStates from '@/data/vinCheckStates.json'
 import classicYmmt from '@/data/classicYmmt.json'
 import colorDecoderMakes from '@/data/colorDecoderMakes.json'
+import recallsMakes from '@/data/recallsMakes.json'
 import blogs from '@/data/blogs.json'
 import { getPageDates } from '@/data/pageDates'
 import fs from 'fs'
@@ -102,6 +103,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
     ...Object.entries(vinCheckStates).map(([slug, page]) => ({
       url: formatUrl(baseUrl, `vin-check/${slug}`),
+      lastModified: new Date(page.dateModified),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+    ...Object.entries(recallsMakes).map(([slug, page]) => ({
+      url: formatUrl(baseUrl, `vehicle-recalls/${slug}`),
       lastModified: new Date(page.dateModified),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
