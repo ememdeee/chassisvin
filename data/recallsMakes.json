@@ -70,11 +70,6 @@
         "content": "<p>Staying informed about recalls ensures your vehicle remains in top condition, preventing safety hazards, costly repairs, and maintaining your vehicle’s resale value. Regular recall checks can help you address issues before they become major problems.</p>"
       },
       {
-        "heading": "Acura Recall FAQ",
-        "headingLevel": "h3",
-        "content": "<p>Have questions about Acura recalls? Below are some frequently asked questions:</p><ul><li><strong>How often should I check for recalls?</strong> It's recommended to check for recalls at least once a year or when you hear about new issues.</li><li><strong>Can I be notified about recalls?</strong> Yes, many manufacturers and dealers offer recall notification services to alert you when your vehicle is affected by a recall.</li><li><strong>What happens if I don’t address a recall?</strong> Not addressing a recall could result in safety hazards, further damage to your vehicle, or voiding of warranties.</li></ul>"
-      },
-      {
         "heading": "Check Now to Stay Informed",
         "headingLevel": "CTA",
         "content": "#"
@@ -240,11 +235,6 @@
         "content": "<p>If your Audi is affected by a recall, the first step is to contact your nearest Audi service center. They will inform you about the necessary steps to resolve the issue. Depending on the type of recall, you may need to bring your car in for a free repair, replacement part, or software update. If you have any questions or concerns, don’t hesitate to reach out to Audi customer support for assistance.</p>"
       },
       {
-        "heading": "Frequently Asked Questions (FAQ)",
-        "headingLevel": "h2",
-        "content": "<p>Below are some commonly asked questions regarding Audi recalls and how to perform a recall search by VIN:</p><ul><li><strong>How do I know if my Audi has a recall?</strong> - You can check your Audi’s recall status by entering your VIN into the <a href='/vin-decoder'>Audi Recall Lookup tool</a>.</li><li><strong>What happens if I don’t fix a recall on my Audi?</strong> - Ignoring a recall could put you and your passengers at risk. It’s important to have any recall-related issues addressed promptly.</li><li><strong>Is there a cost for Audi recall repairs?</strong> - In most cases, recall repairs are free of charge. However, it’s always best to confirm with your Audi service center.</li><li><strong>How often should I check for recalls?</strong> - It’s recommended to check for recalls periodically, especially if your car is older or if there has been a new recall announcement for your vehicle model.</li></ul>"
-      },
-      {
         "heading": "Check Now to Check Your Audi Recall Status",
         "headingLevel": "CTA",
         "content": "#"
@@ -394,40 +384,35 @@
         "content": "<p>Checking for recalls regularly is important because recall repairs are often free of charge, and manufacturers are required to fix the issue at no cost to the owner. The longer you wait to address a recall, the more risk you face. Ensure that your Bentley remains in top condition by performing a recall search as soon as possible.</p>"
       },
       {
-        "heading": "FAQs About Bentley Recall Search by VIN",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Bentley recall searches:</p>",
-        "faqs": [
-          {
-            "question": "What is a VIN?",
-            "answer": "A VIN (Vehicle Identification Number) is a unique code used to identify individual motor vehicles. It is typically found on the dashboard or inside the driver's side door frame."
-          },
-          {
-            "question": "How can I find my Bentley's VIN?",
-            "answer": "Your Bentley's VIN is typically located on the lower corner of the windshield on the driver's side or inside the driver's side door frame, on the door post or near the latch."
-          },
-          {
-            "question": "Are recalls always free to fix?",
-            "answer": "Yes, recalls are typically fixed at no cost to the vehicle owner, as manufacturers are legally obligated to cover the costs of recall repairs."
-          },
-          {
-            "question": "How often should I check for recalls on my Bentley?",
-            "answer": "It is a good idea to check for recalls every six months or before purchasing a used vehicle to ensure safety compliance."
-          },
-          {
-            "question": "Can I search for recalls by my Bentley's license plate?",
-            "answer": "Yes, you can check for Bentley recalls using either the VIN or license plate number on our platform."
-          },
-          {
-            "question": "How do I contact Bentley for recall-related concerns?",
-            "answer": "You can contact Bentley customer service or visit an authorized dealership for assistance with recalls. Contact details can be found on the official Bentley website or recall notification letters."
-          }
-        ]
-      },
-      {
         "heading": "Get Your Bentley Recall Report Now",
         "headingLevel": "CTA",
         "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a VIN?",
+        "answer": "A VIN (Vehicle Identification Number) is a unique code used to identify individual motor vehicles. It is typically found on the dashboard or inside the driver's side door frame."
+      },
+      {
+        "question": "How can I find my Bentley's VIN?",
+        "answer": "Your Bentley's VIN is typically located on the lower corner of the windshield on the driver's side or inside the driver's side door frame, on the door post or near the latch."
+      },
+      {
+        "question": "Are recalls always free to fix?",
+        "answer": "Yes, recalls are typically fixed at no cost to the vehicle owner, as manufacturers are legally obligated to cover the costs of recall repairs."
+      },
+      {
+        "question": "How often should I check for recalls on my Bentley?",
+        "answer": "It is a good idea to check for recalls every six months or before purchasing a used vehicle to ensure safety compliance."
+      },
+      {
+        "question": "Can I search for recalls by my Bentley's license plate?",
+        "answer": "Yes, you can check for Bentley recalls using either the VIN or license plate number on our platform."
+      },
+      {
+        "question": "How do I contact Bentley for recall-related concerns?",
+        "answer": "You can contact Bentley customer service or visit an authorized dealership for assistance with recalls. Contact details can be found on the official Bentley website or recall notification letters."
       }
     ]
   },
@@ -922,11 +907,6 @@
         "heading": "Chrysler VIN Lookup: Stay Safe, Stay Informed",
         "headingLevel": "h2",
         "content": "<p>Regularly checking your Chrysler vehicle for recalls using the VIN lookup tool ensures that your vehicle stays in top condition and complies with all necessary safety standards. If you're unsure how to locate your VIN or run a recall check, we offer helpful resources, including our <a href='/window-sticker'>Window Sticker Lookup</a> and <a href='/license-plate-lookup'>License Plate Lookup</a> tools.</p>"
-      },
-      {
-        "heading": "FAQ: Chrysler Vehicle Recall Search",
-        "headingLevel": "h2",
-        "content": "<p>Have questions about Chrysler recall searches? Below are some frequently asked questions that may help clarify the process:</p>"
       },
       {
         "heading": "Check Now for Chrysler Recall Check",
@@ -1487,11 +1467,6 @@
         "content": "<p>Mitsubishi regularly updates its recall list based on new safety information and testing. You can stay informed about any new recalls by signing up for email notifications or regularly checking the official Mitsubishi recall page. Staying up-to-date is key to ensuring your vehicle’s safety.</p>"
       },
       {
-        "heading": "Mitsubishi Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Mitsubishi vehicle recalls:</p><ul><li><strong>How do I know if my Mitsubishi is affected by a recall?</strong><br>Use the Mitsubishi Recall Search by VIN tool to check if your vehicle is impacted by any recalls.</li><li><strong>What happens if my vehicle is affected by a recall?</strong><br>If your vehicle is on the recall list, you should schedule an appointment with a Mitsubishi dealership to have the issue fixed, usually at no cost to you.</li><li><strong>How often should I check for recalls on my Mitsubishi?</strong><br>It’s recommended to check for recalls every six months or whenever you receive any official notifications from Mitsubishi regarding potential recalls.</li></ul>"
-      },
-      {
         "heading": "Mitsubishi Recall Search by VIN: Start Your Check Today",
         "headingLevel": "CTA",
         "content": "#"
@@ -1588,11 +1563,6 @@
         "heading": "How Do You Check if Your Peterbilt Is on a Recall List?",
         "headingLevel": "h3",
         "content": "<p>To check if your Peterbilt is on a recall list, you simply need to enter your VIN into our search tool. Our system will scan the latest recall data and provide a detailed report on any recalls associated with your vehicle. This helps you take the necessary steps to address any issues before they become a safety concern.</p>"
-      },
-      {
-        "heading": "Frequently Asked Questions (FAQs)",
-        "headingLevel": "h2",
-        "content": "<ul><li><strong>Q:</strong> How often are Peterbilt recalls updated?</li><li><strong>A:</strong> Peterbilt recalls are updated regularly, and our VIN search tool will reflect the most recent recalls directly from NHTSA and manufacturer databases.</li><li><strong>Q:</strong> Can I avoid recalls with regular maintenance?</li><li><strong>A:</strong> While regular maintenance helps prevent issues, recalls are usually triggered by specific defects that may not be detectable during routine service.</li><li><strong>Q:</strong> How long do I have to fix a recall?</li><li><strong>A:</strong> You should address recalls as soon as possible, but manufacturers typically offer a window for free repairs or replacements. Check your recall notification for specific timelines.</li></ul>"
       },
       {
         "heading": "Call to Action: Start Your Peterbilt Recall Search Now",
@@ -1713,11 +1683,6 @@
         "content": "<p>Plymouth vehicles can face a variety of recalls based on safety and compliance issues. Common types include:</p><ul><li><strong>Airbag recalls</strong> - Issues with airbag deployment or inflation systems.</li><li><strong>Brake system recalls</strong> - Problems with brake lines, pads, or other components.</li><li><strong>Fuel system recalls</strong> - Leaks or defects in fuel systems that could lead to fires or accidents.</li><li><strong>Lighting recalls</strong> - Issues with headlights or taillights not meeting regulatory standards.</li></ul>"
       },
       {
-        "heading": "Plymouth Recall Check FAQ",
-        "headingLevel": "h2",
-        "content": "<p>If you have any questions about performing a Plymouth recall search by VIN, the answers to some common questions can help:</p>"
-      },
-      {
         "heading": "Check for Instant Recall Updates",
         "headingLevel": "CTA",
         "content": "#"
@@ -1814,11 +1779,6 @@
         "heading": "How to Address Pontiac Auto Recalls",
         "headingLevel": "h3",
         "content": "<p>If you find that your Pontiac is involved in a recall, it’s important to address the issue immediately. Here’s what you should do:</p><ol><li>Contact a Pontiac dealer to schedule an appointment for repairs.</li><li>Check if your vehicle is eligible for free repairs, replacement parts, or reimbursements.</li><li>Follow the dealer’s instructions to ensure the safety issue is resolved.</li></ol>"
-      },
-      {
-        "heading": "Pontiac Recall FAQs",
-        "headingLevel": "h2",
-        "content": "<p>Below are frequently asked questions about Pontiac recalls and how to check your vehicle’s recall status:</p><ul><li><strong>What is a recall?</strong> A recall is issued when a vehicle has a safety defect or does not meet federal safety standards, and the manufacturer offers a free repair or replacement.</li><li><strong>Can I find recalls using my vehicle’s license plate?</strong> No, to check for recalls, you need to use your VIN number, which uniquely identifies your vehicle.</li><li><strong>What happens if my Pontiac is on a recall list?</strong> If your vehicle is on a recall list, you should contact a dealer to arrange for a free fix. The recall will be resolved at no cost to you.</li><li><strong>Are all recalls safety-related?</strong> While most recalls are related to safety, some may be issued for non-safety issues, such as a malfunctioning feature or technical flaw.</li><li><strong>How often should I check for recalls?</strong> It’s recommended to check for recalls at least once a year or whenever you hear about a recall related to your make and model.</li><li><strong>Where can I find my VIN?</strong> You can find your VIN on your vehicle’s dashboard, typically near the windshield, or on the driver’s side door frame.</li></ul>"
       },
       {
         "heading": "How to Decode Your Pontiac VIN",
@@ -2266,40 +2226,35 @@
         "content": "<p>Here’s an example of what a Saab recall list looks like for a specific VIN:</p><table><thead><tr><th>Recall ID</th><th>Component</th><th>Recall Date</th><th>Action</th></tr></thead><tbody><tr><td>123456789</td><td>Airbag Deployment</td><td>01/15/2025</td><td>Repair Required</td></tr><tr><td>987654321</td><td>Brakes</td><td>12/10/2024</td><td>Replacement Parts</td></tr></tbody></table>"
       },
       {
-        "heading": "Frequently Asked Questions (FAQs)",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Saab recalls and VIN checks:</p>",
-        "faqs": [
-          {
-            "question": "How can I find out if my Saab has been recalled?",
-            "answer": "You can check if your Saab has been recalled by entering your VIN or license plate number into a recall lookup tool on our website."
-          },
-          {
-            "question": "What does it mean if my Saab is on a recall list?",
-            "answer": "If your Saab is on a recall list, it means the vehicle has a safety or performance issue that needs to be addressed. You should contact your nearest Saab dealer for repairs."
-          },
-          {
-            "question": "Is there a fee for recall repairs on my Saab?",
-            "answer": "No, recall repairs are usually free of charge, as manufacturers are responsible for fixing the issues that led to the recall."
-          },
-          {
-            "question": "Can I sell a Saab with an unresolved recall?",
-            "answer": "You can sell a Saab with an unresolved recall, but it's highly recommended to get the issue fixed before selling the vehicle to ensure safety and avoid legal issues."
-          },
-          {
-            "question": "How often should I check for Saab recalls?",
-            "answer": "You should check for recalls regularly, especially if your vehicle is older or you’ve heard about a new recall campaign affecting your model."
-          },
-          {
-            "question": "What if I missed the recall repair for my Saab?",
-            "answer": "If you missed the repair, contact your Saab dealer immediately. They will usually be able to schedule an appointment to perform the necessary recall repairs."
-          }
-        ]
-      },
-      {
         "heading": "Check for Recall Alerts",
         "headingLevel": "CTA",
         "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I find out if my Saab has been recalled?",
+        "answer": "You can check if your Saab has been recalled by entering your VIN or license plate number into a recall lookup tool on our website."
+      },
+      {
+        "question": "What does it mean if my Saab is on a recall list?",
+        "answer": "If your Saab is on a recall list, it means the vehicle has a safety or performance issue that needs to be addressed. You should contact your nearest Saab dealer for repairs."
+      },
+      {
+        "question": "Is there a fee for recall repairs on my Saab?",
+        "answer": "No, recall repairs are usually free of charge, as manufacturers are responsible for fixing the issues that led to the recall."
+      },
+      {
+        "question": "Can I sell a Saab with an unresolved recall?",
+        "answer": "You can sell a Saab with an unresolved recall, but it's highly recommended to get the issue fixed before selling the vehicle to ensure safety and avoid legal issues."
+      },
+      {
+        "question": "How often should I check for Saab recalls?",
+        "answer": "You should check for recalls regularly, especially if your vehicle is older or you’ve heard about a new recall campaign affecting your model."
+      },
+      {
+        "question": "What if I missed the recall repair for my Saab?",
+        "answer": "If you missed the repair, contact your Saab dealer immediately. They will usually be able to schedule an appointment to perform the necessary recall repairs."
       }
     ]
   },
@@ -2365,11 +2320,6 @@
         "heading": "How to Check if Your Smart is on a Recall List",
         "headingLevel": "h3",
         "content": "<p>If you're unsure whether your Smart vehicle is affected by any recalls, you can use the Smart Recall Search tool by VIN to check instantly. Simply input your VIN number, and you’ll receive up-to-date recall information relevant to your vehicle.</p>"
-      },
-      {
-        "heading": "Smart Recall List FAQs",
-        "headingLevel": "h2",
-        "content": "<p>Below are some frequently asked questions related to Smart vehicle recalls and how to check them:</p>"
       },
       {
         "heading": "Check Now to Check Your Smart Recall Status",
@@ -2583,40 +2533,35 @@
         "content": "<p>If your Tesla is part of a recall, it's important to take immediate action. Tesla will typically send out recall notifications, but it's always a good idea to regularly check your vehicle's recall status. Here are the steps to take:</p><ol><li>Contact Tesla service centers to schedule repairs</li><li>Follow all manufacturer instructions for vehicle handling</li><li>Ensure the repair is free of charge, as recalls are typically covered by the manufacturer</li></ol>"
       },
       {
-        "heading": "Tesla Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Tesla recalls:</p>",
-        "faqs": [
-          {
-            "question": "What should I do if my Tesla is part of a recall?",
-            "answer": "If your Tesla is part of a recall, contact a Tesla service center to schedule a repair or fix. Recalls are typically free of charge, and you should follow any instructions sent with the recall notice."
-          },
-          {
-            "question": "Can I check for recalls by my license plate?",
-            "answer": "Yes, you can check for recalls by entering your license plate number, although using the VIN provides more precise details."
-          },
-          {
-            "question": "How often should I check my Tesla for recalls?",
-            "answer": "It's recommended to check your Tesla for recalls at least once a year or when you receive any notifications from Tesla or NHTSA."
-          },
-          {
-            "question": "Are all Tesla recalls free to repair?",
-            "answer": "Yes, recalls are typically repaired free of charge by Tesla, as it’s their responsibility to fix any defects that may affect the safety of your vehicle."
-          },
-          {
-            "question": "Where can I find my Tesla's VIN?",
-            "answer": "Your Tesla's VIN can usually be found on the dashboard, near the windshield on the driver's side, or on the driver's side door frame."
-          },
-          {
-            "question": "What is included in a Tesla recall notice?",
-            "answer": "A Tesla recall notice will include information about the recall issue, instructions on how to get your vehicle repaired, and the steps you need to take to resolve the issue."
-          }
-        ]
-      },
-      {
         "heading": "Check for Your Tesla Recall Search",
         "headingLevel": "CTA",
         "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should I do if my Tesla is part of a recall?",
+        "answer": "If your Tesla is part of a recall, contact a Tesla service center to schedule a repair or fix. Recalls are typically free of charge, and you should follow any instructions sent with the recall notice."
+      },
+      {
+        "question": "Can I check for recalls by my license plate?",
+        "answer": "Yes, you can check for recalls by entering your license plate number, although using the VIN provides more precise details."
+      },
+      {
+        "question": "How often should I check my Tesla for recalls?",
+        "answer": "It's recommended to check your Tesla for recalls at least once a year or when you receive any notifications from Tesla or NHTSA."
+      },
+      {
+        "question": "Are all Tesla recalls free to repair?",
+        "answer": "Yes, recalls are typically repaired free of charge by Tesla, as it’s their responsibility to fix any defects that may affect the safety of your vehicle."
+      },
+      {
+        "question": "Where can I find my Tesla's VIN?",
+        "answer": "Your Tesla's VIN can usually be found on the dashboard, near the windshield on the driver's side, or on the driver's side door frame."
+      },
+      {
+        "question": "What is included in a Tesla recall notice?",
+        "answer": "A Tesla recall notice will include information about the recall issue, instructions on how to get your vehicle repaired, and the steps you need to take to resolve the issue."
       }
     ]
   },
@@ -2687,11 +2632,6 @@
         "heading": "Check for Active Toyota Recalls Using the ChassisVIN Tools",
         "headingLevel": "h3",
         "content": "<p>Our Toyota Recall Search tool offers an easy way to check for active recalls, service campaigns, and safety notices. Additionally, you can use other ChassisVIN tools, such as the <a href='https://www.chassisvin.com/vin-decoder'>VIN Decoder</a> to get more information about your vehicle’s specifications, and <a href='https://www.chassisvin.com/window-sticker'>Window Sticker Lookup</a> for additional details.</p>"
-      },
-      {
-        "heading": "Toyota Recall FAQs",
-        "headingLevel": "h2",
-        "content": "<p>Have questions about Toyota recalls? Check out some frequently asked questions below:</p>"
       },
       {
         "heading": "Check for Updates on Toyota Recalls",
@@ -2790,11 +2730,6 @@
         "heading": "Table: Common Triumph Recall Issues",
         "headingLevel": "h4",
         "content": "<table><thead><tr><th>Model</th><th>Issue</th><th>Recall Action</th></tr></thead><tbody><tr><td>Bonneville</td><td>Fuel pump defect</td><td>Fuel pump replacement</td></tr><tr><td>Street Scrambler</td><td>Brake failure</td><td>Brake system inspection</td></tr><tr><td>Speed Twin</td><td>Wiring short</td><td>Wiring repair or replacement</td></tr></tbody></table>"
-      },
-      {
-        "heading": "Triumph Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Triumph recalls:</p><ul><li><strong>How can I check if my Triumph is under recall?</strong> You can use our <a href='/vehicle-recall-check'>Vehicle Recall Check by VIN</a> tool to find out.</li><li><strong>What do I do if my Triumph is under recall?</strong> Visit a licensed Triumph dealership for repairs or parts replacement at no cost.</li><li><strong>How often should I check for Triumph recalls?</strong> It's recommended to check your Triumph's recall status every six months or after any major service.</li><li><strong>Can I search by license plate for recalls?</strong> Yes, you can use your license plate or VIN to look up recall information.</li><li><strong>Are all Triumph recalls free to fix?</strong> Yes, most recalls are covered under warranty.</li><li><strong>How can I stay updated on Triumph recalls?</strong> Sign up for recall alerts from the NHTSA or your local dealer.</li></ul>"
       },
       {
         "heading": "Check for Recalls Today",
@@ -3001,11 +2936,28 @@
         "heading": "Related Resources and Tools",
         "headingLevel": "h3",
         "content": "<p>Explore these additional resources to enhance your Volvo truck ownership experience:</p><ul><li><a href='https://www.chassisvin.com/vin-decoder'>VIN Decoder</a> – Decode your Volvo truck's VIN for detailed information about your vehicle.</li><li><a href='https://www.chassisvin.com/window-sticker'>Window Sticker</a> – Access your truck's original window sticker to view key specifications and details.</li><li><a href='https://www.chassisvin.com/license-plate-lookup'>License Plate Lookup</a> – Check your truck's details using the license plate number.</li></ul>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I check if my Volvo truck has a recall?",
+        "answer": "You can check if your Volvo truck has a recall by entering the Vehicle Identification Number (VIN) into the recall search tool. This will provide details on any active recalls affecting your truck."
       },
       {
-        "heading": "FAQ",
-        "headingLevel": "h3",
-        "content": "<p><strong>Q1: How often should I check for Volvo truck recalls?</strong><br>A: It's recommended to check for recalls at least once a year or when you hear about new recalls from Volvo or other sources. It's important to stay proactive in maintaining your vehicle's safety.</p><p><strong>Q2: Can I fix my Volvo truck recall myself?</strong><br>A: While some minor issues can be fixed by the owner, many recalls require professional repair at an authorized service center to ensure the safety and proper functioning of your truck.</p><p><strong>Q3: How do I know if a recall is resolved?</strong><br>A: After your truck is repaired, your dealer should provide documentation confirming that the recall has been resolved. You can also check the status online by searching your VIN again.</p>"
+        "question": "Where can I find the VIN on my Volvo truck?",
+        "answer": "The VIN can be found on the dashboard, visible through the windshield on the driver's side, inside the driver's side door frame near the door latch, or on the engine block under the hood."
+      },
+      {
+        "question": "What should I do if my Volvo truck is affected by a recall?",
+        "answer": "If your truck is affected by a recall, contact your local Volvo dealer to schedule a repair or replacement. Most recall-related fixes are provided at no cost to you."
+      },
+      {
+        "question": "Is it necessary to check for recalls even if my truck seems to be running fine?",
+        "answer": "Yes, recalls are issued to address potential safety hazards that may not be immediately noticeable. Checking for recalls ensures your truck remains safe and compliant with manufacturer standards."
+      },
+      {
+        "question": "Can I check for Volvo truck recalls using my license plate instead of a VIN?",
+        "answer": "While VIN is the most accurate method, some services may allow you to check for recalls using your license plate number. However, VIN-based searches provide the most detailed and reliable recall information."
       }
     ]
   },
@@ -3081,11 +3033,6 @@
         "heading": "What If I Don’t Address a Volvo Recall?",
         "headingLevel": "h3",
         "content": "<p>Failing to address a Volvo recall can put your vehicle at risk for further damage or safety hazards. It's essential to take action immediately to ensure that all safety-related issues are resolved. Ignoring recalls may also impact your vehicle's resale value or cause further complications with repairs.</p>"
-      },
-      {
-        "heading": "Volvo Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Volvo recalls:</p><ul><li><strong>How often do recalls happen?</strong> Recalls can happen at any time, but they are most common when a safety defect is identified or if a vehicle fails to comply with regulations.</li><li><strong>Are all Volvo recalls free?</strong> Yes, most recalls are performed at no charge to the vehicle owner, as Volvo takes responsibility for fixing any safety-related issues.</li><li><strong>How can I track a recall on my Volvo?</strong> After performing a recall check, you will receive the latest updates on the status of your recall and the steps to resolve it.</li></ul>"
       },
       {
         "heading": "Check Your Vehicle for Recall Alerts",
@@ -3179,11 +3126,6 @@
         "heading": "Yamaha Recall List by VIN: What You Need to Know",
         "headingLevel": "h2",
         "content": "<p>The Yamaha Recall List by VIN provides a detailed breakdown of recall notices for each vehicle model. Whether your Yamaha is a motorcycle, ATV, or another type of vehicle, this list will show all the necessary recall details. Keep track of any actions required for your vehicle’s safety.</p>"
-      },
-      {
-        "heading": "Frequently Asked Questions (FAQ)",
-        "headingLevel": "h2",
-        "content": "<ul><li><strong>How do I perform a Yamaha Recall Search by VIN?</strong> You can check for recalls by visiting the recall search page, entering your VIN or license plate number, and reviewing the results.</li><li><strong>What do I do if my Yamaha is on a recall list?</strong> If your vehicle is included in a recall, follow the instructions to schedule a repair or replacement with an authorized dealer.</li><li><strong>Are recalls free for vehicle owners?</strong> Yes, recalls are generally free of charge. Yamaha covers the cost of necessary repairs or replacements.</li><li><strong>Can I use my license plate to check for recalls?</strong> Yes, you can use either your VIN or license plate number to search for recall information on your Yamaha vehicle.</li><li><strong>How often should I check for recalls?</strong> It’s a good practice to check for recalls regularly or anytime you hear about new recalls from Yamaha.</li><li><strong>Can I receive recall alerts for my Yamaha vehicle?</strong> Yes, you can sign up for recall notifications through Yamaha’s official channels.</li></ul>"
       },
       {
         "heading": "Stay Informed: Why It’s Important to Perform a Recall Check Regularly",
@@ -3608,11 +3550,6 @@
         "content": "<p>If your Eagle vehicle is found in the recall database, you will receive a detailed report showing all affected models, the nature of the defect, and the manufacturer’s proposed solution. It is important to take action quickly if the recall involves critical safety concerns.</p>"
       },
       {
-        "heading": "Frequently Asked Questions (FAQs)",
-        "headingLevel": "h2",
-        "content": "<ul><li><strong>Q:</strong> How often should I check for recalls on my Eagle?</li><li><strong>A:</strong> It’s recommended to check your vehicle for recalls every 6 to 12 months, or whenever new recall announcements are made.</li><li><strong>Q:</strong> Can I prevent recalls by maintaining my Eagle regularly?</li><li><strong>A:</strong> While regular maintenance can help maintain your vehicle's performance, recalls are usually triggered by specific manufacturing defects that may not be detectable during routine maintenance.</li><li><strong>Q:</strong> What happens if I don't address a recall on my Eagle?</li><li><strong>A:</strong> Ignoring a recall could put you and others at risk. Defective parts may impact the vehicle’s performance, safety features, or overall structural integrity.</li><li><strong>Q:</strong> How can I fix a recall on my Eagle?</li><li><strong>A:</strong> To resolve a recall, contact your nearest Eagle dealership or authorized service center. They will perform the necessary repairs at no cost to you, as recalls are typically covered by the manufacturer.</li><li><strong>Q:</strong> Is there a time limit to fix a recall on my Eagle?</li><li><strong>A:</strong> It's essential to address recalls as soon as possible, although manufacturers usually provide a repair window for free repairs or replacements.</li></ul>"
-      },
-      {
         "heading": "Call to Action: Start Your Eagle Recall Search Now",
         "headingLevel": "CTA",
         "content": "#"
@@ -3719,11 +3656,6 @@
         "heading": "What Should I Do If My Ferrari is Part of a Recall?",
         "headingLevel": "h3",
         "content": "<p>If your Ferrari is part of a recall, the first step is to contact your local Ferrari dealership for guidance. They will provide instructions on how to get your vehicle repaired or replaced at no cost. In most cases, Ferrari will send notifications to affected owners, but checking regularly is the best way to ensure you don’t miss an important safety update.</p>"
-      },
-      {
-        "heading": "Ferrari Recall Search FAQ",
-        "headingLevel": "h3",
-        "content": "<ul><li>What is a VIN, and where can I find it on my Ferrari? - The VIN is a unique identifier for your vehicle. It’s usually located on the dashboard near the windshield, or inside the driver’s side door frame.</li><li>How often should I check for recalls? - It’s a good idea to check for recalls every few months or whenever you hear about potential issues related to your vehicle’s make and model.</li><li>Can I fix a recall myself? - In most cases, recalls require professional repairs by authorized dealerships. Ferrari covers the cost of these repairs.</li><li>How long do Ferrari recalls take to fix? - The duration of the repair depends on the nature of the recall, but Ferrari dealerships typically prioritize safety recalls.</li><li>Can a recall affect the value of my Ferrari? - Yes, an unresolved recall can impact the resale value of your vehicle. It’s best to have recalls addressed promptly to avoid complications.</li><li>Where can I get more information on Ferrari recalls? - For additional details on Ferrari recalls, visit the official Ferrari website or consult your local dealership.</li></ul>"
       },
       {
         "heading": "Check Your Ferrari's Recall Status Now",
@@ -3844,11 +3776,6 @@
         "content": "<p>If your FIAT is part of a recall, the first step is to contact an authorized dealer. They will arrange for the necessary repairs or part replacements free of charge. It's important to act quickly to ensure your safety and the safety of others on the road.</p>"
       },
       {
-        "heading": "FIAT Recall FAQs",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions to help you understand the recall process better:</p><ul><li><strong>What is the purpose of a FIAT recall?</strong> A recall is issued to address safety or performance defects in your vehicle.</li><li><strong>How do I check my FIAT’s recall status?</strong> You can check the recall status of your FIAT by entering your VIN into our search tool.</li><li><strong>Is there a cost for recall repairs?</strong> Typically, recall repairs are performed free of charge by authorized dealerships.</li><li><strong>How can I resolve a recall issue with my FIAT?</strong> Contact a certified FIAT dealer to schedule a repair for the recalled issue.</li></ul>"
-      },
-      {
         "heading": "Check for FIAT Recall Notifications",
         "headingLevel": "CTA",
         "content": "#"
@@ -3950,11 +3877,6 @@
         "heading": "Important Recall Information by VIN",
         "headingLevel": "h3",
         "content": "<p>When performing a recall check by VIN, ensure you review the details of any active recalls, including the recall ID, affected vehicle parts, and instructions for resolving the issue. Understanding this information can help you take timely action to keep your vehicle safe and roadworthy.</p>"
-      },
-      {
-        "heading": "Forest River Vehicle Recall Check FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Check out the answers to some of the most frequently asked questions regarding Forest River recall checks by VIN:</p>"
       },
       {
         "heading": "Check Your Forest River Vehicle for Recall Alerts",
@@ -4500,11 +4422,28 @@
         "heading": "Call to Action: Check Your Harley-Davidson Recall Status Now",
         "headingLevel": "CTA",
         "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I check if my Harley-Davidson has a recall?",
+        "answer": "You can check if your Harley-Davidson has a recall by entering your Vehicle Identification Number (VIN) or license plate number into the recall search tool. The system will provide you with details on any safety recalls affecting your motorcycle."
       },
       {
-        "heading": "Harley-Davidson Recall FAQ",
-        "headingLevel": "h3",
-        "content": "<ul><li><strong>How often should I check for recalls on my Harley-Davidson?</strong> It's recommended to check for recalls regularly or whenever you perform maintenance on your bike.</li><li><strong>What happens if I don't check my recall status?</strong> Failing to check your recall status could leave you riding a motorcycle with safety issues, which could be dangerous.</li><li><strong>How do I perform a Harley-Davidson recall search?</strong> You can perform a recall search by entering your motorcycle's VIN or license plate number into the VIN search tool on our website.</li><li><strong>Where can I find my motorcycle's VIN?</strong> The VIN is typically located on the frame or the engine of your Harley-Davidson motorcycle. It may also be listed on your registration documents.</li><li><strong>How do I know if my Harley-Davidson recall requires a repair?</strong> If a recall requires a repair, you will be notified and instructed on how to proceed with the repair or replacement process.</li><li><strong>What should I do if my Harley-Davidson is affected by a recall?</strong> If your motorcycle is affected, follow the instructions provided in the recall notice. This may include scheduling a repair or visiting your local dealer for an inspection.</li></ul>"
+        "question": "Is using the Harley-Davidson recall search free?",
+        "answer": "Yes, using the Harley-Davidson recall search tool is completely free. It allows you to check for any safety recalls associated with your motorcycle by VIN or license plate."
+      },
+      {
+        "question": "Why is it important to check for Harley-Davidson recalls?",
+        "answer": "Checking for recalls ensures that your motorcycle is safe to ride and free from manufacturer-identified defects. Recalls often involve safety issues such as fuel leaks, brake failures, or electrical malfunctions that could lead to accidents."
+      },
+      {
+        "question": "Can I check a Harley-Davidson recall by license plate instead of VIN?",
+        "answer": "Yes, you can use your license plate number instead of the VIN to check for recalls. However, using the VIN provides the most accurate and detailed recall information."
+      },
+      {
+        "question": "What should I do if my Harley-Davidson is affected by a recall?",
+        "answer": "If your Harley-Davidson is affected by a recall, contact an authorized Harley-Davidson dealer as soon as possible. They will provide information on the necessary repairs or replacements, which are typically performed at no cost to you."
       }
     ]
   },
@@ -4572,11 +4511,6 @@
         "heading": "Recall Instructions for Your Honda",
         "headingLevel": "h4",
         "content": "<p>If you find that your vehicle is affected by a recall, follow these instructions:</p><ul><li>Contact your nearest Honda dealer.</li><li>Provide them with your VIN for verification.</li><li>Follow the dealer’s instructions for scheduling an appointment for repairs.</li></ul>"
-      },
-      {
-        "heading": "Frequently Asked Questions (FAQ)",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions about Honda recalls and VIN lookup:</p><ul><li><strong>How can I check if my Honda has a recall?</strong> You can check if your Honda has a recall by entering your VIN on our recall lookup tool.</li><li><strong>Is it free to check for recalls on my Honda?</strong> Yes, checking for recalls is completely free of charge.</li><li><strong>What should I do if my Honda is recalled?</strong> If your Honda is recalled, contact your local Honda dealership to schedule a free repair or replacement of the affected parts.</li><li><strong>Can I check recalls by my vehicle’s license plate?</strong> No, recalls are typically checked by VIN, not by license plate.</li><li><strong>How often should I check for recalls?</strong> It's recommended to check for recalls regularly, especially after a manufacturer announces new recall notices.</li><li><strong>How do I find my Honda’s VIN?</strong> Your Honda's VIN can be found on the dashboard near the windshield or on the inside of the driver’s side door frame.</li></ul>"
       },
       {
         "heading": "Internal Links",
@@ -4671,11 +4605,6 @@
         "heading": "External Links for Further Information",
         "headingLevel": "h3",
         "content": "<p>For more details on HUMMER recalls, you can refer to the following external resources:</p><ul><li><a href='https://www.nhtsa.gov/'>National Highway Traffic Safety Administration (NHTSA)</a></li><li><a href='https://www.cars.com/recalls/'>Cars.com Recall Information</a></li></ul>"
-      },
-      {
-        "heading": "HUMMER Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Below are answers to some frequently asked questions about HUMMER recalls:</p>"
       },
       {
         "heading": "Check Your HUMMER for Recall Alerts",
@@ -4900,11 +4829,6 @@
         "heading": "Recall Notifications: How Infiniti Keeps You Informed",
         "headingLevel": "h3",
         "content": "<p>Infiniti makes efforts to keep vehicle owners informed about recalls:</p><ul><li><strong>Direct Mail:</strong> If your vehicle is affected, you will receive a notification in the mail with instructions on how to proceed.</li><li><strong>Online Tools:</strong> The Infiniti Recall Lookup tool is available to check the status of your vehicle.</li><li><strong>Infiniti Dealerships:</strong> Dealers will contact you directly to arrange recall repairs.</li></ul>"
-      },
-      {
-        "heading": "Infiniti Recall FAQs",
-        "headingLevel": "h3",
-        "content": "<p>For further assistance, check out our <a href='/infiniti-recall-faqs'>Infiniti Recall FAQ</a> section, where you can find answers to common questions such as:</p><ul><li>How do I know if my vehicle is affected by a recall?</li><li>What should I do if I received a recall notice?</li><li>Are recalls covered under my warranty?</li><li>How can I schedule a recall repair?</li></ul>"
       },
       {
         "heading": "Infiniti Recall Repair Centers Near You",
@@ -5192,11 +5116,6 @@
         "heading": "Important Safety Recalls for Your Jaguar Car",
         "headingLevel": "h2",
         "content": "<p>Safety recalls are issued when a vehicle or component is found to have a defect that poses a risk to driver or passenger safety. Make sure you stay up to date with any recalls by regularly checking your Jaguar’s recall status.</p>"
-      },
-      {
-        "heading": "Jaguar Recall Search FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Below are some frequently asked questions regarding Jaguar recall searches:</p><ul><li><strong>How often should I check for recalls?</strong> It's a good practice to check for recalls periodically or when you hear of a potential safety issue with your car model.</li><li><strong>Do I need to pay for recall repairs?</strong> Generally, manufacturers cover the costs of repairs related to recalls.</li><li><strong>What happens if I ignore a recall?</strong> Ignoring a recall may lead to serious safety risks, which can jeopardize both your safety and the safety of others.</li></ul>"
       },
       {
         "heading": "Why Are Jaguar Recalls Issued?",
@@ -5618,11 +5537,6 @@
         "content": "<p>If your Kenworth vehicle is affected by a recall, it is important to take action immediately. Typically, the manufacturer will provide instructions on how to fix the issue. In many cases, the recall repair is free of charge and may be carried out at an authorized dealership or repair center.</p>"
       },
       {
-        "heading": "Kenworth Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Have questions about Kenworth vehicle recalls? We've compiled some common FAQs to help you understand the process and ensure your truck stays safe.</p>"
-      },
-      {
         "heading": "Kenworth Vehicle Recall Check by VIN: How It Works",
         "headingLevel": "h2",
         "content": "<p>The Kenworth Vehicle Recall Check by VIN tool is designed to provide users with the latest safety and recall information about their Kenworth vehicle. Simply input your VIN, and the system will search for any relevant recalls issued by Kenworth or the National Highway Traffic Safety Administration (NHTSA).</p>"
@@ -5842,11 +5756,6 @@
         "content": "<p>Regularly checking for KTM recalls ensures that your motorcycle remains safe to operate. By staying informed about any safety-related issues, you can prevent potential accidents or breakdowns, protecting yourself and others on the road. Additionally, staying up-to-date on recalls can help preserve your motorcycle’s value by ensuring all safety measures are met.</p>"
       },
       {
-        "heading": "KTM Recall FAQ",
-        "headingLevel": "h2",
-        "content": "<p>Have questions about KTM recalls? Here are some frequently asked questions:</p><ul><li><strong>What is a recall?</strong> A recall is a notification issued by a manufacturer when a product, such as a motorcycle, has a defect or safety issue that needs to be addressed.</li><li><strong>How can I check if my KTM is recalled?</strong> You can perform a KTM Recall Search by VIN or license plate using our online tool.</li><li><strong>Is my KTM safe to drive if it's under recall?</strong> Not necessarily. If your KTM is part of a recall, take it to a dealer immediately for repairs or parts replacement.</li><li><strong>Do I have to pay for recall repairs?</strong> No, recall repairs are typically free of charge.</li><li><strong>Can I check multiple KTM bikes at once?</strong> At this time, you can only check one VIN at a time using our lookup tool.</li><li><strong>Where can I find authorized KTM dealers?</strong> Visit the KTM dealer locator on the official KTM website for the nearest authorized service center.</li></ul>"
-      },
-      {
         "heading": "Ready to Check for Recalls?",
         "headingLevel": "CTA",
         "content": "#"
@@ -5948,11 +5857,6 @@
         "heading": "What Information is Included in a Lamborghini Recall Check?",
         "headingLevel": "h3",
         "content": "<p>A Lamborghini Recall Check includes key information, such as:</p><ul><li>Recall date and identification number</li><li>Details on the specific issue that triggered the recall</li><li>Action plan for fixing the issue</li><li>Contact information for authorized Lamborghini service centers</li></ul>"
-      },
-      {
-        "heading": "Lamborghini Recall FAQs",
-        "headingLevel": "h2",
-        "content": "<p>Here are some frequently asked questions related to Lamborghini recalls:</p>"
       },
       {
         "heading": "Check Now for Your Lamborghini Recall Check",
@@ -6148,11 +6052,6 @@
         "content": "<p>Here's an example of how Lexus recall data can be displayed:</p><table><thead><tr><th>Recall Issue</th><th>Affected Models</th><th>Repair Action</th></tr></thead><tbody><tr><td>Takata Airbag Recall</td><td>2015-2020 Lexus RX</td><td>Replacement of airbags</td></tr><tr><td>Fuel Pump Defect</td><td>2020 Lexus NX</td><td>Fuel pump replacement</td></tr></tbody></table>"
       },
       {
-        "heading": "Lexus Recall Lookup FAQ",
-        "headingLevel": "h3",
-        "content": "<p>Have questions about Lexus recalls? Here are some frequently asked questions:</p><ul><li><strong>Q:</strong> How do I find my Lexus VIN?</li><li><strong>A:</strong> Your VIN can be found on the dashboard or door frame of your Lexus.</li><li><strong>Q:</strong> Is it free to check for recalls?</li><li><strong>A:</strong> Yes, Lexus recall checks are free and easy to perform.</li><li><strong>Q:</strong> How long does it take to resolve a recall?</li><li><strong>A:</strong> The time needed to resolve a recall can vary, but most repairs are done quickly by authorized service centers.</li></ul>"
-      },
-      {
         "heading": "How to Schedule Lexus Recall Service",
         "headingLevel": "h3",
         "content": "<p>If your Lexus is affected by a recall, follow these steps to schedule service:</p><ol><li>Contact your local Lexus dealer or service center.</li><li>Provide them with your VIN and details of the recall.</li><li>Schedule an appointment for the necessary repairs or replacements.</li></ol>"
@@ -6254,11 +6153,6 @@
         "heading": "Benefits of Checking Your Vehicle for Recalls Regularly",
         "headingLevel": "h3",
         "content": "<p>Regular recall checks can help ensure your vehicle is free from safety risks. Recalls are often related to important safety features, such as airbags, brakes, or electrical systems. Keeping track of your recall status helps you stay informed and maintain your vehicle’s reliability.</p>"
-      },
-      {
-        "heading": "FAQ: Lincoln Recall Check by VIN",
-        "headingLevel": "h3",
-        "content": "<p>Here's a list of frequently asked questions to help you navigate the recall process:</p><ul><li><strong>What is a VIN?</strong> A VIN is a 17-character unique identifier for your vehicle.</li><li><strong>Can I check for recalls by license plate?</strong> Yes, you can use the license plate lookup feature to check for recalls.</li><li><strong>How long does it take to get recall information?</strong> The process is quick, usually taking just a few seconds to retrieve results.</li><li><strong>What happens if my vehicle is on the recall list?</strong> You will need to contact your dealership to schedule the necessary repairs.</li><li><strong>Are recalls free to fix?</strong> Yes, most recalls are covered by the manufacturer at no cost to you.</li><li><strong>Do I need to act immediately if my vehicle is on a recall list?</strong> Yes, for safety reasons, it's important to act as soon as possible.</li></ul>"
       },
       {
         "heading": "Recall Search Tool: Lincoln VIN Lookup",
@@ -7088,11 +6982,6 @@
         "content": "<p>Once you’ve completed a Polaris Recall Search by VIN, you can expect detailed information, such as:</p><ul><li>The specific issue associated with the recall</li><li>The models and years affected</li><li>The steps to resolve the recall, including any repairs or parts replacement</li><li>Instructions on how to get your vehicle repaired or replaced, often free of charge</li></ul>"
       },
       {
-        "heading": "Frequently Asked Questions (FAQs) About Polaris Recall Search by VIN",
-        "headingLevel": "h2",
-        "content": "<p>Here are answers to some common questions about Polaris Recall Search by VIN:</p>"
-      },
-      {
         "heading": "Polaris Recall List by VIN: Commonly Asked Questions",
         "headingLevel": "h3",
         "content": "<p>Having a recall on your Polaris vehicle may raise questions. Below are some frequently asked questions regarding Polaris Recall List by VIN:</p><ul><li><strong>How often should I check for recalls?</strong> It’s recommended to check for recalls annually or whenever you hear about potential issues with your vehicle model.</li><li><strong>Can I get my recall fixed for free?</strong> Yes, most recalls come with free repairs or replacements for the affected parts.</li><li><strong>How do I know if my Polaris vehicle is included in a recall?</strong> By using the Polaris Recall Search by VIN tool on this page, you can instantly check for any recalls related to your vehicle.</li></ul>"
@@ -7284,11 +7173,6 @@
         "heading": "Steps for Addressing a Suzuki Recall",
         "headingLevel": "h3",
         "content": "<p>If your Suzuki is found to be affected by a recall, here’s what you should do:</p><ul><li>Contact your local Suzuki dealership immediately for details on the recall.</li><li>Schedule a free repair or replacement if applicable.</li><li>Ensure you follow all recommended safety precautions until the issue is resolved.</li></ul><p>Timely action is crucial for your safety and to maintain your Suzuki vehicle in top condition.</p>"
-      },
-      {
-        "heading": "Frequently Asked Questions (FAQ)",
-        "headingLevel": "h2",
-        "content": "<p>Have questions about Suzuki recalls? Here are answers to some of the most common inquiries:</p><ul><li><strong>How often should I check for recalls on my Suzuki?</strong><br>It’s recommended to check for recalls regularly, at least every few months or when you receive an official notification from Suzuki.</li><li><strong>Can I check for a Suzuki recall by license plate?</strong><br>Currently, you can only check for recalls using the <strong>Vehicle Identification Number (VIN)</strong>.</li><li><strong>Is it free to check if my Suzuki is on a recall list?</strong><br>Yes, our <strong>Suzuki recall search by VIN</strong> tool is completely free.</li><li><strong>What should I do if my Suzuki is recalled?</strong><br>If your Suzuki is recalled, contact a Suzuki dealership to arrange for the necessary repairs or replacements.</li><li><strong>How long do I have to get my vehicle repaired after a recall?</strong><br>The timeline for repairs depends on the recall. Typically, repairs should be completed as soon as possible, but some recalls may have specific deadlines for completion.</li><li><strong>Can I still drive my Suzuki if it’s on a recall list?</strong><br>It depends on the nature of the recall. For critical safety issues, such as brake or airbag defects, it's advisable not to drive the vehicle until repairs have been completed.</li></ul>"
       },
       {
         "heading": "Check for Suzuki Recalls Now",
@@ -7510,11 +7394,6 @@
         "heading": "What to Do if Your Opel is Affected by a Recall?",
         "headingLevel": "h3",
         "content": "<p>If your Opel vehicle is affected by a recall, take action immediately. The first step is to visit your nearest Opel dealer for a free inspection or repair. Depending on the nature of the recall, Opel may offer free parts replacement, repairs, or even a refund. Always ensure that the recall is addressed as soon as possible to prevent any safety risks.</p>"
-      },
-      {
-        "heading": "Opel Recall FAQ",
-        "headingLevel": "h3",
-        "content": "<p>Here are some frequently asked questions about Opel recalls:</p><ul><li><strong>How often do recalls occur?</strong> Recalls are issued as soon as a manufacturer identifies a defect. They can happen at any time during a vehicle's lifecycle.</li><li><strong>Are recalls free?</strong> Yes, repairs for recalls are typically free of charge.</li><li><strong>Can I drive my Opel if it’s on the recall list?</strong> It depends on the recall. Some recalls require immediate attention, while others may be less urgent. Always follow the manufacturer's guidelines.</li><li><strong>How do I know if my Opel has been repaired for a recall?</strong> Your Opel dealer will provide a record of repairs performed under the recall.</li><li><strong>Can I sell my car if it's under recall?</strong> Yes, but you must inform the buyer of the recall, and it may impact the car's value.</li><li><strong>Can I check multiple vehicles with the same tool?</strong> Yes, you can perform a recall check on multiple Opel vehicles by entering their VINs or license plates one by one.</li></ul>"
       },
       {
         "heading": "Call to Action",
