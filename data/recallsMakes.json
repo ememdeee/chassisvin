@@ -4,7 +4,7 @@
     "description": "Perform a comprehensive Acura recall search by VIN to ensure your vehicle is not affected by any current recalls. Get up-to-date recall information with ChassisVIN.",
     "metaTitle": "Acura Recall Search by VIN | Vehicle Recall Check",
     "metaDescription": "Run a thorough Acura recall check by VIN to check if your vehicle is affected by any recalls. Get the latest recall list and detailed recall information here.",
-    "canonical": "https://www.chassisvin.com/vehicle-recalls/acura-recall",
+    "canonical": "https://www.chassisvin.com/vehicle-recalls/acura",
     "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
@@ -169,13 +169,8 @@
     "description": "Run an Audi Recall Search by VIN and check if your vehicle is affected by any recalls. Get instant access to Audi recall information and ensure your car's safety today.",
     "metaTitle": "Audi Recall Search by VIN | Check Vehicle Recall Status",
     "metaDescription": "Run an Audi Recall Search by VIN and check if your vehicle is affected by any recalls. Get instant access to Audi recall information and ensure your car's safety today.",
-    "canonical": "https://www.chassisvin.com/vehicle-recalls/audi-recall",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "canonical": "https://www.chassisvin.com/vehicle-recalls/audi",
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -731,12 +726,7 @@
     "metaTitle": "Chevrolet Recall Search by VIN | Vehicle Recall Check and Information",
     "metaDescription": "Easily search for Chevrolet vehicle recalls by VIN with ChassisVIN. Obtain accurate and detailed recall information for your Chevrolet car, truck, or SUV. Stay safe and informed.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/chevrolet",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -843,13 +833,8 @@
     "description": "Find out if your Chrysler vehicle is under recall with our VIN search tool. Get detailed recall information, instructions, and a list of affected vehicles.",
     "metaTitle": "Chrysler Recall Search by VIN | Vehicle Recall Check",
     "metaDescription": "Check if your Chrysler vehicle has any open recalls by entering your VIN. Get the most accurate and up-to-date recall information for Chrysler cars, trucks, and SUVs.",
-    "canonical": "https://www.chassisvin.com/vehicle-recalls/chrysler-recall-search",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "canonical": "https://www.chassisvin.com/vehicle-recalls/chrysler",
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -1070,12 +1055,7 @@
     "metaTitle": "Maybach Recall Search by VIN | Check Vehicle Recalls by VIN",
     "metaDescription": "Check Maybach recalls by VIN or license plate to stay informed about any safety issues or vehicle recalls. Find detailed vehicle recall information and more at ChassisVIN.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/maybach",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -1301,10 +1281,7 @@
     "metaTitle": "Mercedes-Benz Recall Search by VIN | Check Your Vehicle Recall Status",
     "metaDescription": "Use our Mercedes-Benz recall search by VIN to check if your vehicle is affected by any recalls. Stay up-to-date with recall information and ensure your safety on the road.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/mercedes-benz",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -1397,12 +1374,7 @@
     "metaTitle": "Mitsubishi Recall Search by VIN | Vehicle Recall Check and Information",
     "metaDescription": "Use our Mitsubishi Recall Search by VIN to check if your Mitsubishi vehicle is affected by any recalls. Stay up-to-date with the latest recall information.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/mitsubishi",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -1505,12 +1477,7 @@
     "metaTitle": "Peterbilt Recall Search by VIN | Recall Check & Vehicle Safety Information",
     "metaDescription": "Find out if your Peterbilt is on a recall list. Perform a detailed Peterbilt Recall Search by VIN and check for potential vehicle issues. Stay safe and informed.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/peterbilt",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -1618,12 +1585,7 @@
     "metaTitle": "Plymouth Recall Search by VIN | Check Your Vehicle's Recall Information",
     "metaDescription": "Check if your Plymouth vehicle has any active recalls with our VIN search tool. Get instant access to recall lists and important auto recall updates.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/plymouth",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -1936,11 +1898,8 @@
     "description": "Perform a RAM recall search by VIN to check for recalls on your RAM vehicle. Get detailed recall information, and find out if your vehicle is affected.",
     "metaTitle": "RAM Recall Search by VIN | Check for Vehicle Recalls and Safety Notices",
     "metaDescription": "Conduct a RAM recall check by VIN to find out if your vehicle is part of any active recalls. Use our VIN decoder tool for detailed information.",
-    "canonical": "https://www.chassisvin.com/vehicle-recalls/ram-recall-search",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "canonical": "https://www.chassisvin.com/vehicle-recalls/ram",
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2048,12 +2007,7 @@
     "metaTitle": "Rolls-Royce Recall Search by VIN | Vehicle Recall Information",
     "metaDescription": "Check your Rolls-Royce for any active recalls with our comprehensive VIN-based search tool. Get full recall details and stay informed about your vehicle's safety.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/rolls-royce",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2166,12 +2120,7 @@
     "metaTitle": "Saab Recall Search by VIN | Vehicle Recall Check & List by VIN",
     "metaDescription": "Perform a Saab recall search by VIN to ensure your vehicle is free from recall issues. Get detailed recall lists, check your Saab’s recall status, and stay informed.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/saab",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2264,10 +2213,7 @@
     "metaTitle": "Smart Recall Search by VIN | Vehicle Recall Check & Auto Recalls",
     "metaDescription": "Find out if your Smart vehicle is under recall. Use our Smart Recall Search by VIN to check for vehicle recalls and receive detailed auto recall information.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/smart",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2360,12 +2306,7 @@
     "metaTitle": "Subaru Recall Search by VIN | Check for Vehicle Recalls Now",
     "metaDescription": "Use our Subaru Recall Search by VIN to check your vehicle for any active recalls. Get the most up-to-date information and ensure your Subaru is safe to drive.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/subaru",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2480,10 +2421,7 @@
     "metaTitle": "Tesla Recall Search by VIN | Vehicle Recall Check by VIN | ChassisVIN",
     "metaDescription": "Use our Tesla Recall Search by VIN tool to check for recalls on your Tesla. Find detailed recall information by VIN and stay informed with the latest auto recalls.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/tesla",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2571,10 +2509,7 @@
     "metaTitle": "Toyota Recall Search by VIN | Vehicle Recall Check | ChassisVIN",
     "metaDescription": "Check for Toyota recalls using your VIN or license plate. Find detailed recall information, including safety updates and recall lists for your vehicle.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/toyota",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2677,12 +2612,7 @@
     "metaTitle": "Triumph Recall Search by VIN | Vehicle Recall Check by VIN",
     "metaDescription": "Use our Triumph Recall Search by VIN to check if your vehicle is under recall. Get detailed vehicle recall information, recall lists by VIN, and stay updated on auto recalls.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/triumph",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2770,12 +2700,7 @@
     "metaTitle": "Volkswagen Recall Search by VIN | Check Vehicle Recalls & Safety Alerts",
     "metaDescription": "Use our Volkswagen Recall Search by VIN tool to check if your vehicle is on the recall list. Discover how to check recalls by VIN or license plate easily and get vital safety information.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/volkswagen",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2883,7 +2808,7 @@
     "metaTitle": "Volvo Truck Recall Search by VIN | Check Your Vehicle Recall Status",
     "metaDescription": "Use ChassisVIN to easily search Volvo Truck recall status by VIN. Get up-to-date information on affected vehicles and safety recalls.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/volvo-truck",
-    "dataSources": [{"source": "makeList", "prefix": "volvo-truck"}],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -2967,10 +2892,7 @@
     "metaTitle": "Volvo Recall Search by VIN | Vehicle Recall Check & Recall List",
     "metaDescription": "Check your Volvo vehicle for recalls with our VIN lookup tool. Get detailed recall information by VIN and vehicle model, and stay informed with the latest auto recall alerts.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/volvo",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -3095,7 +3017,7 @@
       {
         "heading": "How Do You Check If Your Yamaha is on a Recall List?",
         "headingLevel": "h2",
-        "content": "<p>Checking if your Yamaha vehicle is affected by a recall is simple with a <a href='/vehicle-recall-search'>Yamaha Recall Search by VIN</a>. All you need is your Yamaha vehicle identification number (VIN) to instantly access recall information. This search process ensures that any safety concerns related to your vehicle are identified and addressed promptly.</p>"
+        "content": "<p>Checking if your Yamaha vehicle is affected by a recall is simple with a <a href='/vehicle'>Yamaha Recall Search by VIN</a>. All you need is your Yamaha vehicle identification number (VIN) to instantly access recall information. This search process ensures that any safety concerns related to your vehicle are identified and addressed promptly.</p>"
       },
       {
         "heading": "Yamaha Recall Lookup by License Plate or VIN",
@@ -3115,7 +3037,7 @@
       {
         "heading": "How to Perform a Vehicle Recall Check by VIN",
         "headingLevel": "h3",
-        "content": "<p>To perform a Vehicle Recall Check by VIN, follow these steps:</p><ol><li>Locate your Yamaha’s VIN on the frame or dashboard of the vehicle.</li><li>Visit the <a href='/vehicle-recall-search'>Yamaha Recall Search</a> page on our website.</li><li>Enter the VIN into the search field and press 'Search'.</li><li>Review the results to see if your vehicle is listed for any active recalls.</li></ol>"
+        "content": "<p>To perform a Vehicle Recall Check by VIN, follow these steps:</p><ol><li>Locate your Yamaha’s VIN on the frame or dashboard of the vehicle.</li><li>Visit the <a href='/vehicle'>Yamaha Recall Search</a> page on our website.</li><li>Enter the VIN into the search field and press 'Search'.</li><li>Review the results to see if your vehicle is listed for any active recalls.</li></ol>"
       },
       {
         "heading": "How to Check for Yamaha Recalls Using Your License Plate",
@@ -3171,12 +3093,7 @@
     "metaTitle": "Datsun Recall Search by VIN | Vehicle Recall Check by VIN",
     "metaDescription": "Perform a Datsun Recall Search by VIN to check for any recalls on your vehicle. Stay informed with detailed vehicle recall check and auto recall lists.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/datsun",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -3392,12 +3309,7 @@
     "metaTitle": "Ducati Recall Search by VIN | Vehicle Recall Check and Recall List",
     "metaDescription": "Find out how to perform a Ducati Recall Search by VIN. Check your vehicle’s recall status and get detailed recall information. Stay informed about auto recalls with ChassisVIN.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/ducati",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -3505,12 +3417,7 @@
     "metaTitle": "Eagle Recall Search by VIN | Recall Check & Vehicle Safety Information",
     "metaDescription": "Find out if your Eagle is on a recall list. Perform a detailed Eagle Recall Search by VIN and check for potential vehicle issues. Stay safe and informed.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/eagle",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -3603,12 +3510,7 @@
     "metaTitle": "Ferrari Recall Search by VIN | Check Vehicle Recall Status",
     "metaDescription": "Use our Ferrari recall search tool to check if your Ferrari is on a recall list. Quickly check recall status by VIN or license plate for any Ferrari model.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/ferrari",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -3711,12 +3613,7 @@
     "metaTitle": "FIAT Recall Search by VIN | Find Vehicle Recall Information | ChassisVIN",
     "metaDescription": "Perform a detailed FIAT recall search by VIN. Check your vehicle’s recall status, safety risks, and recalls with just your VIN number or license plate.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/fiat",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -3927,12 +3824,7 @@
     "metaTitle": "Ford Recall Search by VIN | Find Vehicle Recalls and Safety Information",
     "metaDescription": "Search Ford vehicle recall history by VIN, including information on safety recalls, manufacturer-issued notices, and more. Check if your Ford is affected by any recall today.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/ford",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4020,12 +3912,7 @@
     "metaTitle": "Freightliner Recall Search by VIN | Check Vehicle Recalls & Safety Information",
     "metaDescription": "Search for Freightliner vehicle recalls by VIN. Get detailed information about auto recalls and the recall list by VIN. Ensure your vehicle’s safety with our tools.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/freightliner",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4246,12 +4133,7 @@
     "metaTitle": "GMC Recall Search by VIN | Vehicle Recall Check and Information",
     "metaDescription": "Quickly check for GMC recalls with our Recall Search by VIN tool. Get the latest recall list, vehicle recall checks, and safety updates for your GMC vehicle.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/gmc",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4453,12 +4335,7 @@
     "metaTitle": "Honda Recall Search by VIN | Check Honda Vehicle Recalls",
     "metaDescription": "Easily check if your Honda is involved in any recalls by VIN. Use our VIN lookup tool to access detailed recall information. Stay informed about your vehicle's safety.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/honda",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4540,12 +4417,7 @@
     "metaTitle": "HUMMER Recall Search by VIN | Vehicle Recall Information",
     "metaDescription": "Run a HUMMER recall search by VIN, explore recall lists, and get the most up-to-date vehicle recall details to ensure safety and compliance.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/hummer",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4645,12 +4517,7 @@
     "metaTitle": "Hyundai Recall Search by VIN | Vehicle Recall Check & Recall List",
     "metaDescription": "Perform a Hyundai recall search by VIN to check if your vehicle is affected by recalls. Get the latest recall information and VIN-based vehicle recall checks.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/hyundai",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4763,10 +4630,7 @@
     "metaTitle": "Infiniti Recall Search by VIN | Vehicle Recall Check and Safety Info",
     "metaDescription": "Use our Infiniti Recall Search by VIN tool to check for any active recalls on your vehicle. Ensure your vehicle's safety by looking up recall information with ease.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/infiniti",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -4833,7 +4697,7 @@
       {
         "heading": "Infiniti Recall Repair Centers Near You",
         "headingLevel": "h3",
-        "content": "<p>If your Infiniti vehicle is affected by a recall, use our <a href='/dealer-locator'>Dealer Locator</a> to find a certified Infiniti repair center near you. Ensure that your vehicle is repaired by authorized professionals to maintain safety and compliance.</p>"
+        "content": "<p>If your Infiniti vehicle is affected by a recall, use our <a href='/unlimited-vehicle-history-reports'>Dealer Locator</a> to find a certified Infiniti repair center near you. Ensure that your vehicle is repaired by authorized professionals to maintain safety and compliance.</p>"
       },
       {
         "heading": "Check Now for Recall Updates",
@@ -4868,18 +4732,13 @@
       }
     ]
   },
-  "International": {
+  "international": {
     "title": "International Recall Search by VIN | ChassisVIN",
     "description": "Find detailed vehicle recall information through an International Recall Search by VIN. Check vehicle recall history, status, and more.",
     "metaTitle": "International Recall Search by VIN | ChassisVIN",
     "metaDescription": "Check vehicle recall history globally with an International Recall Search by VIN. Use our platform to perform a vehicle recall check and access comprehensive data.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/international",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -5063,12 +4922,7 @@
     "metaTitle": "Jaguar Recall Search by VIN | Vehicle Recall Check by VIN | ChassisVIN",
     "metaDescription": "Search for Jaguar vehicle recalls by VIN. Ensure your Jaguar is free from safety issues and recall notices.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/jaguar",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -5165,15 +5019,13 @@
       }
     ]
   },
-  "jayco-recall-search": {
+  "jayco": {
     "title": "Jayco Recall Search by VIN | Find Detailed Recall Information",
     "description": "Use our Jayco Recall Search by VIN tool to check for recall information. Find vehicle recall checks, auto recalls, and more by VIN.",
     "metaTitle": "Jayco Recall Search by VIN - Detailed Vehicle Recall Information",
     "metaDescription": "Check Jayco Recall status by VIN for specific vehicle recall information. Search auto recalls, VIN-specific recall lists, and more.",
-    "canonical": "https://www.chassisvin.com/vehicle-recalls/jayco-recall-search",
-    "dataSources": [
-      { "source": "makeList", "prefix": "vehicle-recalls" }
-    ],
+    "canonical": "https://www.chassisvin.com/vehicle-recalls/jayco",
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -5595,12 +5447,7 @@
     "metaTitle": "Kia Recall Search by VIN - Vehicle Recall Check for Kia Owners",
     "metaDescription": "Use our Kia Recall Search by VIN tool to instantly find out if your vehicle has been recalled. Stay up-to-date with safety recalls and protect your family.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/kia",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -5698,10 +5545,7 @@
     "metaTitle": "KTM Recall Search by VIN | Find Vehicle Recall Information Easily",
     "metaDescription": "Use our KTM Recall Search by VIN tool to check for any active recalls on your KTM motorcycle. Find out if your vehicle is affected by any safety issues.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/ktm",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -5794,12 +5638,7 @@
     "metaTitle": "Lamborghini Recall Search by VIN | Check Vehicle Recall Information",
     "metaDescription": "Use ChassisVIN to perform a comprehensive Lamborghini Recall Search by VIN. Ensure your Lamborghini is safe with a detailed recall list and vehicle recall check by VIN.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/lamborghini",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -5907,9 +5746,7 @@
     "metaTitle": "Land Rover Recall Search by VIN | Vehicle Recall Check by VIN",
     "metaDescription": "Check if your Land Rover vehicle has any active recalls with our VIN-based recall search. Get updated recall lists and detailed information to ensure your vehicle's safety.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/land-rover",
-    "dataSources": [
-      { "source": "makeList", "prefix": "vehicle-recalls" }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -6203,10 +6040,7 @@
     "metaTitle": "Lotus Recall Search by VIN | Vehicle Recall Check by VIN",
     "metaDescription": "Use our Lotus Recall Search by VIN tool to check for any recalls on your Lotus vehicle. Quickly access the latest auto recall information and ensure your car’s safety.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/lotus",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -6313,18 +6147,13 @@
       }
     ]
   },
-  "mack-recall-search": {
+  "mack": {
     "title": "Mack Recall Search by VIN | Vehicle Recall Check by VIN",
     "description": "Check if your Mack vehicle is affected by any recalls. Use the Mack Recall Search by VIN to find detailed recall information and stay updated on auto recalls.",
     "metaTitle": "Mack Recall Search by VIN | Vehicle Recall Check by VIN",
     "metaDescription": "Perform a Mack Recall Search by VIN to check your vehicle's recall status. Access detailed recall lists and stay informed about auto recalls for Mack trucks.",
-    "canonical": "https://www.chassisvin.com/vehicle-recalls/mack-recall-search",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "canonical": "https://www.chassisvin.com/vehicle-recalls/mack",
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -6386,7 +6215,7 @@
       {
         "heading": "How to Stay Updated on Future Mack Recalls",
         "headingLevel": "h2",
-        "content": "<p>To ensure you never miss an important recall update for your Mack vehicle, consider signing up for recall notifications from Mack Trucks. Additionally, you can stay informed by regularly visiting <a href='/mack-recall-search'>ChassisVIN’s Mack Recall Search</a> page to check the latest recall lists and vehicle safety updates.</p>"
+        "content": "<p>To ensure you never miss an important recall update for your Mack vehicle, consider signing up for recall notifications from Mack Trucks. Additionally, you can stay informed by regularly visiting <a href='/mack'>ChassisVIN’s Mack Recall Search</a> page to check the latest recall lists and vehicle safety updates.</p>"
       },
       {
         "heading": "Recall Information by VIN: Why It’s Critical for Your Safety",
@@ -6706,12 +6535,7 @@
     "metaTitle": "MINI Recall Search by VIN | Check MINI Recalls",
     "metaDescription": "Perform a MINI Recall Search by VIN and ensure your vehicle is free from open recalls. Stay safe with our comprehensive recall lookup tool.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/mini",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -6927,12 +6751,7 @@
     "metaTitle": "Polaris Recall Search by VIN | Vehicle Recall Check by VIN",
     "metaDescription": "Run a Polaris Recall Search by VIN today. Get accurate and up-to-date recall information for your vehicle, and check if it's on the recall list using our VIN-based lookup tool.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/polaris",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "polaris"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -7035,9 +6854,7 @@
     "metaTitle": "Saturn Recall Search by VIN | Vehicle Recall Check & Information",
     "metaDescription": "Quickly find Saturn Recall Information by VIN. Use our free tool to check for active recalls, safety defects, and more to keep your vehicle safe on the road.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/saturn",
-    "dataSources": [
-      { "source": "makeList", "prefix": "vehicle-recalls" }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -7187,7 +7004,7 @@
       {
         "heading": "Related Articles",
         "headingLevel": "h3",
-        "content": "<p>Learn more about vehicle recalls and how they affect your Suzuki:</p><ul><li><a href='/article-suzuki-recall-news'>Suzuki Recall News: Latest Updates and Reports</a></li><li><a href='/article-how-to-check-vehicle-recalls'>How to Check for Vehicle Recalls and What to Do</a></li></ul>"
+        "content": "<p>Learn more about vehicle recalls and how they affect your Suzuki:</p><ul><li><a href='/article-suzuki-recall-news'>Suzuki Recall News: Latest Updates and Reports</a></li><li><a href='/blogs'>How to Check for Vehicle Recalls and What to Do</a></li></ul>"
       },
       {
         "heading": "Conclusion",
@@ -7228,12 +7045,7 @@
     "metaTitle": "Oldsmobile Recall Search by VIN | Vehicle Recall Check",
     "metaDescription": "Check if your Oldsmobile is part of any recalls with our VIN lookup tool. Get detailed recall information, repair instructions, and more.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/oldsmobile",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -7336,12 +7148,7 @@
     "metaTitle": "Opel Recall Search by VIN | Vehicle Recall Check & Information",
     "metaDescription": "Use our Opel recall search tool to check if your vehicle is affected by any recall. Discover detailed recall information based on VIN or license plate.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/opel",
-    "dataSources": [
-      {
-        "source": "makeList",
-        "prefix": "vehicle-recalls"
-      }
-    ],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
@@ -7439,10 +7246,7 @@
     "metaTitle": "Peugeot Recall Search by VIN | Vehicle Recall Check & Information",
     "metaDescription": "Search for Peugeot recalls using your VIN. Learn how to check recalls, view recall lists, and stay informed on vehicle safety with Peugeot recall check services.",
     "canonical": "https://www.chassisvin.com/vehicle-recalls/peugeot",
-    "dataSources": [{
-      "source": "makeList",
-      "prefix": "vehicle-recalls"
-    }],
+    "dataSources": [{"source": "makeList", "prefix": "vehicle-recalls"}],
     "reportType": "VHR",
     "heroForm": true,
     "heroCta": [],
